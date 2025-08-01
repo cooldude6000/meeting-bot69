@@ -1,0 +1,6419 @@
+[
+    {
+        "words": [
+            {
+                "end": 2.105,
+                "word": "Hey",
+                "start": 1.925
+            },
+            {
+                "end": 2.345,
+                "word": "Liam,",
+                "start": 2.125
+            },
+            {
+                "end": 2.685,
+                "word": "thanks",
+                "start": 2.485
+            },
+            {
+                "end": 2.825,
+                "word": "for",
+                "start": 2.705
+            },
+            {
+                "end": 3.105,
+                "word": "making",
+                "start": 2.845
+            },
+            {
+                "end": 3.285,
+                "word": "time",
+                "start": 3.125
+            },
+            {
+                "end": 3.465,
+                "word": "today.",
+                "start": 3.305
+            },
+            {
+                "end": 3.745,
+                "word": "I",
+                "start": 3.645
+            },
+            {
+                "end": 3.885,
+                "word": "know",
+                "start": 3.765
+            },
+            {
+                "end": 4.025,
+                "word": "we",
+                "start": 3.905
+            },
+            {
+                "end": 4.145,
+                "word": "have",
+                "start": 4.045
+            },
+            {
+                "end": 4.225,
+                "word": "a",
+                "start": 4.165
+            },
+            {
+                "end": 4.385,
+                "word": "lot",
+                "start": 4.245
+            },
+            {
+                "end": 4.505,
+                "word": "to",
+                "start": 4.405
+            },
+            {
+                "end": 4.745,
+                "word": "cover",
+                "start": 4.525
+            },
+            {
+                "end": 4.885,
+                "word": "for",
+                "start": 4.765
+            },
+            {
+                "end": 5.025,
+                "word": "our",
+                "start": 4.905
+            },
+            {
+                "end": 5.225,
+                "word": "Q4",
+                "start": 5.045
+            },
+            {
+                "end": 5.465,
+                "word": "product",
+                "start": 5.245
+            },
+            {
+                "end": 5.785,
+                "word": "roadmap.",
+                "start": 5.485
+            },
+            {
+                "end": 6.085,
+                "word": "We",
+                "start": 5.985
+            },
+            {
+                "end": 6.245,
+                "word": "really",
+                "start": 6.105
+            },
+            {
+                "end": 6.385,
+                "word": "need",
+                "start": 6.265
+            },
+            {
+                "end": 6.505,
+                "word": "to",
+                "start": 6.405
+            },
+            {
+                "end": 6.785,
+                "word": "prioritize",
+                "start": 6.525
+            },
+            {
+                "end": 6.925,
+                "word": "our",
+                "start": 6.805
+            },
+            {
+                "end": 7.205,
+                "word": "features",
+                "start": 6.945
+            },
+            {
+                "end": 7.345,
+                "word": "based",
+                "start": 7.225
+            },
+            {
+                "end": 7.465,
+                "word": "on",
+                "start": 7.365
+            },
+            {
+                "end": 7.625,
+                "word": "user",
+                "start": 7.485
+            },
+            {
+                "end": 7.925,
+                "word": "feedback",
+                "start": 7.645
+            },
+            {
+                "end": 8.045,
+                "word": "and",
+                "start": 7.945
+            },
+            {
+                "end": 8.305,
+                "word": "business",
+                "start": 8.065
+            },
+            {
+                "end": 8.585,
+                "word": "impact.",
+                "start": 8.325
+            },
+            {
+                "end": 8.885,
+                "word": "What",
+                "start": 8.785
+            },
+            {
+                "end": 9.005,
+                "word": "are",
+                "start": 8.905
+            },
+            {
+                "end": 9.125,
+                "word": "you",
+                "start": 9.025
+            },
+            {
+                "end": 9.305,
+                "word": "seeing",
+                "start": 9.145
+            },
+            {
+                "end": 9.425,
+                "word": "from",
+                "start": 9.325
+            },
+            {
+                "end": 9.545,
+                "word": "the",
+                "start": 9.445
+            },
+            {
+                "end": 9.785,
+                "word": "customer",
+                "start": 9.565
+            },
+            {
+                "end": 9.965,
+                "word": "side?",
+                "start": 9.805
+            }
+        ],
+        "offset": 1.825,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 10.765,
+                "word": "Hey",
+                "start": 10.605
+            },
+            {
+                "end": 11.065,
+                "word": "Gowreesh,",
+                "start": 10.785
+            },
+            {
+                "end": 11.285,
+                "word": "good",
+                "start": 11.185
+            },
+            {
+                "end": 11.485,
+                "word": "timing",
+                "start": 11.305
+            },
+            {
+                "end": 11.605,
+                "word": "on",
+                "start": 11.505
+            },
+            {
+                "end": 11.765,
+                "word": "this",
+                "start": 11.625
+            },
+            {
+                "end": 12.085,
+                "word": "discussion.",
+                "start": 11.785
+            },
+            {
+                "end": 12.385,
+                "word": "I've",
+                "start": 12.285
+            },
+            {
+                "end": 12.525,
+                "word": "been",
+                "start": 12.405
+            },
+            {
+                "end": 12.785,
+                "word": "analyzing",
+                "start": 12.545
+            },
+            {
+                "end": 12.905,
+                "word": "our",
+                "start": 12.805
+            },
+            {
+                "end": 13.145,
+                "word": "customer",
+                "start": 12.925
+            },
+            {
+                "end": 13.405,
+                "word": "feedback",
+                "start": 13.165
+            },
+            {
+                "end": 13.525,
+                "word": "from",
+                "start": 13.425
+            },
+            {
+                "end": 13.645,
+                "word": "the",
+                "start": 13.545
+            },
+            {
+                "end": 13.845,
+                "word": "past",
+                "start": 13.665
+            },
+            {
+                "end": 14.025,
+                "word": "three",
+                "start": 13.865
+            },
+            {
+                "end": 14.265,
+                "word": "months,",
+                "start": 14.045
+            },
+            {
+                "end": 14.485,
+                "word": "and",
+                "start": 14.385
+            },
+            {
+                "end": 14.605,
+                "word": "there",
+                "start": 14.505
+            },
+            {
+                "end": 14.725,
+                "word": "are",
+                "start": 14.625
+            },
+            {
+                "end": 14.945,
+                "word": "three",
+                "start": 14.745
+            },
+            {
+                "end": 15.125,
+                "word": "clear",
+                "start": 14.965
+            },
+            {
+                "end": 15.365,
+                "word": "patterns",
+                "start": 15.145
+            },
+            {
+                "end": 15.525,
+                "word": "emerging.",
+                "start": 15.385
+            },
+            {
+                "end": 15.845,
+                "word": "First,",
+                "start": 15.725
+            },
+            {
+                "end": 16.185,
+                "word": "everyone",
+                "start": 15.965
+            },
+            {
+                "end": 16.305,
+                "word": "is",
+                "start": 16.205
+            },
+            {
+                "end": 16.545,
+                "word": "asking",
+                "start": 16.325
+            },
+            {
+                "end": 16.665,
+                "word": "for",
+                "start": 16.565
+            },
+            {
+                "end": 16.925,
+                "word": "better",
+                "start": 16.685
+            },
+            {
+                "end": 17.245,
+                "word": "analytics",
+                "start": 16.945
+            },
+            {
+                "end": 17.365,
+                "word": "and",
+                "start": 17.265
+            },
+            {
+                "end": 17.645,
+                "word": "reporting",
+                "start": 17.385
+            },
+            {
+                "end": 18.005,
+                "word": "capabilities.",
+                "start": 17.665
+            },
+            {
+                "end": 18.345,
+                "word": "Second,",
+                "start": 18.205
+            },
+            {
+                "end": 18.565,
+                "word": "we",
+                "start": 18.465
+            },
+            {
+                "end": 18.685,
+                "word": "need",
+                "start": 18.585
+            },
+            {
+                "end": 18.905,
+                "word": "mobile",
+                "start": 18.705
+            },
+            {
+                "end": 19.345,
+                "word": "optimization.",
+                "start": 18.925
+            },
+            {
+                "end": 19.705,
+                "word": "Sixty",
+                "start": 19.545
+            },
+            {
+                "end": 19.925,
+                "word": "percent",
+                "start": 19.725
+            },
+            {
+                "end": 20.045,
+                "word": "of",
+                "start": 19.945
+            },
+            {
+                "end": 20.185,
+                "word": "our",
+                "start": 20.065
+            },
+            {
+                "end": 20.385,
+                "word": "users",
+                "start": 20.205
+            },
+            {
+                "end": 20.505,
+                "word": "are",
+                "start": 20.405
+            },
+            {
+                "end": 20.665,
+                "word": "now",
+                "start": 20.525
+            },
+            {
+                "end": 20.905,
+                "word": "accessing",
+                "start": 20.685
+            },
+            {
+                "end": 21.025,
+                "word": "our",
+                "start": 20.925
+            },
+            {
+                "end": 21.245,
+                "word": "platform",
+                "start": 21.045
+            },
+            {
+                "end": 21.365,
+                "word": "via",
+                "start": 21.265
+            },
+            {
+                "end": 21.585,
+                "word": "mobile",
+                "start": 21.385
+            },
+            {
+                "end": 21.825,
+                "word": "devices.",
+                "start": 21.605
+            },
+            {
+                "end": 22.125,
+                "word": "And",
+                "start": 22.025
+            },
+            {
+                "end": 22.285,
+                "word": "third,",
+                "start": 22.145
+            },
+            {
+                "end": 22.505,
+                "word": "API",
+                "start": 22.405
+            },
+            {
+                "end": 22.865,
+                "word": "integrations",
+                "start": 22.525
+            },
+            {
+                "end": 22.985,
+                "word": "with",
+                "start": 22.885
+            },
+            {
+                "end": 23.205,
+                "word": "third-party",
+                "start": 23.005
+            },
+            {
+                "end": 23.425,
+                "word": "tools",
+                "start": 23.225
+            },
+            {
+                "end": 23.545,
+                "word": "like",
+                "start": 23.445
+            },
+            {
+                "end": 23.805,
+                "word": "Salesforce",
+                "start": 23.565
+            },
+            {
+                "end": 23.925,
+                "word": "and",
+                "start": 23.825
+            },
+            {
+                "end": 24.245,
+                "word": "HubSpot.",
+                "start": 23.945
+            }
+        ],
+        "offset": 10.545,
+        "speaker": "Liam"
+    },
+    {
+        "words": [
+            {
+                "end": 25.065,
+                "word": "Those",
+                "start": 24.885
+            },
+            {
+                "end": 25.185,
+                "word": "are",
+                "start": 25.085
+            },
+            {
+                "end": 25.385,
+                "word": "exactly",
+                "start": 25.205
+            },
+            {
+                "end": 25.505,
+                "word": "the",
+                "start": 25.405
+            },
+            {
+                "end": 25.745,
+                "word": "areas",
+                "start": 25.525
+            },
+            {
+                "end": 25.865,
+                "word": "I",
+                "start": 25.765
+            },
+            {
+                "end": 26.005,
+                "word": "was",
+                "start": 25.885
+            },
+            {
+                "end": 26.245,
+                "word": "hoping",
+                "start": 26.025
+            },
+            {
+                "end": 26.365,
+                "word": "we'd",
+                "start": 26.265
+            },
+            {
+                "end": 26.545,
+                "word": "focus",
+                "start": 26.385
+            },
+            {
+                "end": 26.705,
+                "word": "on.",
+                "start": 26.565
+            },
+            {
+                "end": 27.005,
+                "word": "The",
+                "start": 26.905
+            },
+            {
+                "end": 27.285,
+                "word": "analytics",
+                "start": 27.025
+            },
+            {
+                "end": 27.485,
+                "word": "request",
+                "start": 27.305
+            },
+            {
+                "end": 27.605,
+                "word": "is",
+                "start": 27.505
+            },
+            {
+                "end": 28.005,
+                "word": "interesting",
+                "start": 27.625
+            },
+            {
+                "end": 28.165,
+                "word": "because",
+                "start": 28.025
+            },
+            {
+                "end": 28.285,
+                "word": "it",
+                "start": 28.185
+            },
+            {
+                "end": 28.505,
+                "word": "aligns",
+                "start": 28.305
+            },
+            {
+                "end": 28.625,
+                "word": "with",
+                "start": 28.525
+            },
+            {
+                "end": 28.745,
+                "word": "our",
+                "start": 28.645
+            },
+            {
+                "end": 29.005,
+                "word": "revenue",
+                "start": 28.765
+            },
+            {
+                "end": 29.245,
+                "word": "goals.",
+                "start": 29.025
+            },
+            {
+                "end": 29.585,
+                "word": "Premium",
+                "start": 29.445
+            },
+            {
+                "end": 29.825,
+                "word": "analytics",
+                "start": 29.605
+            },
+            {
+                "end": 29.985,
+                "word": "could",
+                "start": 29.845
+            },
+            {
+                "end": 30.105,
+                "word": "be",
+                "start": 30.005
+            },
+            {
+                "end": 30.185,
+                "word": "a",
+                "start": 30.125
+            },
+            {
+                "end": 30.365,
+                "word": "key",
+                "start": 30.205
+            },
+            {
+                "end": 30.625,
+                "word": "upselling",
+                "start": 30.385
+            },
+            {
+                "end": 31.005,
+                "word": "opportunity.",
+                "start": 30.645
+            },
+            {
+                "end": 31.305,
+                "word": "What",
+                "start": 31.205
+            },
+            {
+                "end": 31.485,
+                "word": "specific",
+                "start": 31.325
+            },
+            {
+                "end": 31.745,
+                "word": "analytics",
+                "start": 31.505
+            },
+            {
+                "end": 31.965,
+                "word": "features",
+                "start": 31.765
+            },
+            {
+                "end": 32.085,
+                "word": "are",
+                "start": 31.985
+            },
+            {
+                "end": 32.285,
+                "word": "customers",
+                "start": 32.105
+            },
+            {
+                "end": 32.505,
+                "word": "asking",
+                "start": 32.305
+            },
+            {
+                "end": 32.685,
+                "word": "for?",
+                "start": 32.525
+            },
+            {
+                "end": 32.985,
+                "word": "Are",
+                "start": 32.885
+            },
+            {
+                "end": 33.105,
+                "word": "they",
+                "start": 33.005
+            },
+            {
+                "end": 33.285,
+                "word": "looking",
+                "start": 33.125
+            },
+            {
+                "end": 33.405,
+                "word": "for",
+                "start": 33.305
+            },
+            {
+                "end": 33.605,
+                "word": "custom",
+                "start": 33.425
+            },
+            {
+                "end": 33.925,
+                "word": "dashboards,",
+                "start": 33.625
+            },
+            {
+                "end": 34.185,
+                "word": "data",
+                "start": 34.045
+            },
+            {
+                "end": 34.425,
+                "word": "export",
+                "start": 34.205
+            },
+            {
+                "end": 34.785,
+                "word": "capabilities,",
+                "start": 34.445
+            },
+            {
+                "end": 35.005,
+                "word": "or",
+                "start": 34.905
+            },
+            {
+                "end": 35.285,
+                "word": "something",
+                "start": 35.025
+            },
+            {
+                "end": 35.445,
+                "word": "else?",
+                "start": 35.305
+            }
+        ],
+        "offset": 24.825,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 36.205,
+                "word": "Great",
+                "start": 36.085
+            },
+            {
+                "end": 36.425,
+                "word": "question.",
+                "start": 36.225
+            },
+            {
+                "end": 36.725,
+                "word": "The",
+                "start": 36.625
+            },
+            {
+                "end": 36.885,
+                "word": "most",
+                "start": 36.745
+            },
+            {
+                "end": 37.125,
+                "word": "requested",
+                "start": 36.905
+            },
+            {
+                "end": 37.305,
+                "word": "features",
+                "start": 37.145
+            },
+            {
+                "end": 37.445,
+                "word": "are",
+                "start": 37.325
+            },
+            {
+                "end": 37.665,
+                "word": "real-time",
+                "start": 37.465
+            },
+            {
+                "end": 37.965,
+                "word": "dashboards",
+                "start": 37.685
+            },
+            {
+                "end": 38.085,
+                "word": "with",
+                "start": 37.985
+            },
+            {
+                "end": 38.425,
+                "word": "customizable",
+                "start": 38.105
+            },
+            {
+                "end": 38.685,
+                "word": "widgets,",
+                "start": 38.445
+            },
+            {
+                "end": 39.085,
+                "word": "automated",
+                "start": 38.805
+            },
+            {
+                "end": 39.285,
+                "word": "weekly",
+                "start": 39.105
+            },
+            {
+                "end": 39.445,
+                "word": "and",
+                "start": 39.305
+            },
+            {
+                "end": 39.645,
+                "word": "monthly",
+                "start": 39.465
+            },
+            {
+                "end": 39.925,
+                "word": "reports,",
+                "start": 39.665
+            },
+            {
+                "end": 40.145,
+                "word": "and",
+                "start": 40.045
+            },
+            {
+                "end": 40.345,
+                "word": "better",
+                "start": 40.165
+            },
+            {
+                "end": 40.505,
+                "word": "data",
+                "start": 40.365
+            },
+            {
+                "end": 40.845,
+                "word": "visualization",
+                "start": 40.525
+            },
+            {
+                "end": 40.965,
+                "word": "with",
+                "start": 40.865
+            },
+            {
+                "end": 41.145,
+                "word": "trend",
+                "start": 40.985
+            },
+            {
+                "end": 41.445,
+                "word": "analysis.",
+                "start": 41.165
+            },
+            {
+                "end": 41.825,
+                "word": "Several",
+                "start": 41.645
+            },
+            {
+                "end": 42.085,
+                "word": "enterprise",
+                "start": 41.845
+            },
+            {
+                "end": 42.345,
+                "word": "customers",
+                "start": 42.105
+            },
+            {
+                "end": 42.465,
+                "word": "have",
+                "start": 42.365
+            },
+            {
+                "end": 42.745,
+                "word": "specifically",
+                "start": 42.485
+            },
+            {
+                "end": 42.985,
+                "word": "mentioned",
+                "start": 42.765
+            },
+            {
+                "end": 43.105,
+                "word": "they",
+                "start": 43.005
+            },
+            {
+                "end": 43.245,
+                "word": "need",
+                "start": 43.125
+            },
+            {
+                "end": 43.385,
+                "word": "CSV",
+                "start": 43.265
+            },
+            {
+                "end": 43.545,
+                "word": "and",
+                "start": 43.405
+            },
+            {
+                "end": 43.685,
+                "word": "PDF",
+                "start": 43.565
+            },
+            {
+                "end": 43.845,
+                "word": "export",
+                "start": 43.705
+            },
+            {
+                "end": 44.165,
+                "word": "functionality",
+                "start": 43.865
+            },
+            {
+                "end": 44.285,
+                "word": "for",
+                "start": 44.185
+            },
+            {
+                "end": 44.485,
+                "word": "board",
+                "start": 44.305
+            },
+            {
+                "end": 44.785,
+                "word": "presentations.",
+                "start": 44.505
+            },
+            {
+                "end": 45.085,
+                "word": "The",
+                "start": 44.985
+            },
+            {
+                "end": 45.245,
+                "word": "good",
+                "start": 45.105
+            },
+            {
+                "end": 45.365,
+                "word": "news",
+                "start": 45.265
+            },
+            {
+                "end": 45.485,
+                "word": "is",
+                "start": 45.385
+            },
+            {
+                "end": 45.605,
+                "word": "that",
+                "start": 45.505
+            },
+            {
+                "end": 45.805,
+                "word": "forty",
+                "start": 45.625
+            },
+            {
+                "end": 46.025,
+                "word": "percent",
+                "start": 45.825
+            },
+            {
+                "end": 46.145,
+                "word": "of",
+                "start": 46.045
+            },
+            {
+                "end": 46.305,
+                "word": "these",
+                "start": 46.165
+            },
+            {
+                "end": 46.585,
+                "word": "customers",
+                "start": 46.325
+            },
+            {
+                "end": 46.745,
+                "word": "have",
+                "start": 46.605
+            },
+            {
+                "end": 46.985,
+                "word": "indicated",
+                "start": 46.765
+            },
+            {
+                "end": 47.125,
+                "word": "they'd",
+                "start": 47.005
+            },
+            {
+                "end": 47.245,
+                "word": "be",
+                "start": 47.145
+            },
+            {
+                "end": 47.445,
+                "word": "willing",
+                "start": 47.265
+            },
+            {
+                "end": 47.565,
+                "word": "to",
+                "start": 47.465
+            },
+            {
+                "end": 47.685,
+                "word": "pay",
+                "start": 47.585
+            },
+            {
+                "end": 47.845,
+                "word": "an",
+                "start": 47.705
+            },
+            {
+                "end": 48.125,
+                "word": "additional",
+                "start": 47.865
+            },
+            {
+                "end": 48.305,
+                "word": "twenty",
+                "start": 48.145
+            },
+            {
+                "end": 48.425,
+                "word": "to",
+                "start": 48.325
+            },
+            {
+                "end": 48.585,
+                "word": "thirty",
+                "start": 48.445
+            },
+            {
+                "end": 48.745,
+                "word": "percent",
+                "start": 48.605
+            },
+            {
+                "end": 48.865,
+                "word": "for",
+                "start": 48.765
+            },
+            {
+                "end": 49.045,
+                "word": "premium",
+                "start": 48.885
+            },
+            {
+                "end": 49.345,
+                "word": "analytics.",
+                "start": 49.065
+            }
+        ],
+        "offset": 36.025,
+        "speaker": "Liam"
+    },
+    {
+        "words": [
+            {
+                "end": 50.125,
+                "word": "That's",
+                "start": 49.985
+            },
+            {
+                "end": 50.385,
+                "word": "fantastic",
+                "start": 50.145
+            },
+            {
+                "end": 50.545,
+                "word": "data,",
+                "start": 50.405
+            },
+            {
+                "end": 50.805,
+                "word": "Liam.",
+                "start": 50.665
+            },
+            {
+                "end": 51.125,
+                "word": "Twenty",
+                "start": 51.005
+            },
+            {
+                "end": 51.245,
+                "word": "to",
+                "start": 51.145
+            },
+            {
+                "end": 51.405,
+                "word": "thirty",
+                "start": 51.265
+            },
+            {
+                "end": 51.565,
+                "word": "percent",
+                "start": 51.425
+            },
+            {
+                "end": 51.785,
+                "word": "revenue",
+                "start": 51.585
+            },
+            {
+                "end": 51.945,
+                "word": "uplift",
+                "start": 51.805
+            },
+            {
+                "end": 52.085,
+                "word": "could",
+                "start": 51.965
+            },
+            {
+                "end": 52.345,
+                "word": "significantly",
+                "start": 52.105
+            },
+            {
+                "end": 52.505,
+                "word": "impact",
+                "start": 52.365
+            },
+            {
+                "end": 52.625,
+                "word": "our",
+                "start": 52.525
+            },
+            {
+                "end": 52.745,
+                "word": "Q4",
+                "start": 52.645
+            },
+            {
+                "end": 53.005,
+                "word": "targets.",
+                "start": 52.765
+            },
+            {
+                "end": 53.305,
+                "word": "From",
+                "start": 53.205
+            },
+            {
+                "end": 53.385,
+                "word": "a",
+                "start": 53.325
+            },
+            {
+                "end": 53.605,
+                "word": "technical",
+                "start": 53.405
+            },
+            {
+                "end": 54.005,
+                "word": "perspective,",
+                "start": 53.625
+            },
+            {
+                "end": 54.225,
+                "word": "the",
+                "start": 54.125
+            },
+            {
+                "end": 54.485,
+                "word": "real-time",
+                "start": 54.245
+            },
+            {
+                "end": 54.785,
+                "word": "dashboards",
+                "start": 54.505
+            },
+            {
+                "end": 54.905,
+                "word": "are",
+                "start": 54.805
+            },
+            {
+                "end": 55.185,
+                "word": "definitely",
+                "start": 54.925
+            },
+            {
+                "end": 55.545,
+                "word": "achievable.",
+                "start": 55.205
+            },
+            {
+                "end": 55.845,
+                "word": "We",
+                "start": 55.745
+            },
+            {
+                "end": 55.965,
+                "word": "can",
+                "start": 55.865
+            },
+            {
+                "end": 56.165,
+                "word": "leverage",
+                "start": 55.985
+            },
+            {
+                "end": 56.285,
+                "word": "our",
+                "start": 56.185
+            },
+            {
+                "end": 56.545,
+                "word": "existing",
+                "start": 56.305
+            },
+            {
+                "end": 56.785,
+                "word": "React",
+                "start": 56.565
+            },
+            {
+                "end": 57.125,
+                "word": "components",
+                "start": 56.805
+            },
+            {
+                "end": 57.245,
+                "word": "and",
+                "start": 57.145
+            },
+            {
+                "end": 57.465,
+                "word": "integrate",
+                "start": 57.265
+            },
+            {
+                "end": 57.585,
+                "word": "with",
+                "start": 57.485
+            },
+            {
+                "end": 57.745,
+                "word": "Chart.js",
+                "start": 57.605
+            },
+            {
+                "end": 57.865,
+                "word": "or",
+                "start": 57.765
+            },
+            {
+                "end": 58.085,
+                "word": "D3.js",
+                "start": 57.885
+            },
+            {
+                "end": 58.205,
+                "word": "for",
+                "start": 58.105
+            },
+            {
+                "end": 58.545,
+                "word": "visualization.",
+                "start": 58.225
+            },
+            {
+                "end": 58.845,
+                "word": "The",
+                "start": 58.745
+            },
+            {
+                "end": 59.025,
+                "word": "export",
+                "start": 58.865
+            },
+            {
+                "end": 59.345,
+                "word": "functionality",
+                "start": 59.045
+            },
+            {
+                "end": 59.505,
+                "word": "should",
+                "start": 59.365
+            },
+            {
+                "end": 59.625,
+                "word": "be",
+                "start": 59.525
+            },
+            {
+                "end": 60.025,
+                "word": "straightforward",
+                "start": 59.645
+            },
+            {
+                "end": 60.145,
+                "word": "too.",
+                "start": 60.045
+            },
+            {
+                "end": 60.445,
+                "word": "What",
+                "start": 60.345
+            },
+            {
+                "end": 60.565,
+                "word": "kind",
+                "start": 60.465
+            },
+            {
+                "end": 60.685,
+                "word": "of",
+                "start": 60.585
+            },
+            {
+                "end": 60.925,
+                "word": "timeline",
+                "start": 60.705
+            },
+            {
+                "end": 61.045,
+                "word": "are",
+                "start": 60.945
+            },
+            {
+                "end": 61.165,
+                "word": "you",
+                "start": 61.065
+            },
+            {
+                "end": 61.365,
+                "word": "thinking",
+                "start": 61.185
+            },
+            {
+                "end": 61.485,
+                "word": "for",
+                "start": 61.385
+            },
+            {
+                "end": 61.645,
+                "word": "this",
+                "start": 61.505
+            },
+            {
+                "end": 61.945,
+                "word": "rollout?",
+                "start": 61.665
+            }
+        ],
+        "offset": 49.925,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 62.725,
+                "word": "Ideally,",
+                "start": 62.585
+            },
+            {
+                "end": 62.945,
+                "word": "I'd",
+                "start": 62.845
+            },
+            {
+                "end": 63.085,
+                "word": "love",
+                "start": 62.965
+            },
+            {
+                "end": 63.205,
+                "word": "to",
+                "start": 63.105
+            },
+            {
+                "end": 63.325,
+                "word": "have",
+                "start": 63.225
+            },
+            {
+                "end": 63.385,
+                "word": "a",
+                "start": 63.345
+            },
+            {
+                "end": 63.545,
+                "word": "basic",
+                "start": 63.405
+            },
+            {
+                "end": 63.745,
+                "word": "version",
+                "start": 63.565
+            },
+            {
+                "end": 63.865,
+                "word": "of",
+                "start": 63.765
+            },
+            {
+                "end": 63.985,
+                "word": "the",
+                "start": 63.885
+            },
+            {
+                "end": 64.265,
+                "word": "analytics",
+                "start": 64.005
+            },
+            {
+                "end": 64.525,
+                "word": "dashboard",
+                "start": 64.285
+            },
+            {
+                "end": 64.645,
+                "word": "ready",
+                "start": 64.545
+            },
+            {
+                "end": 64.765,
+                "word": "for",
+                "start": 64.665
+            },
+            {
+                "end": 64.925,
+                "word": "beta",
+                "start": 64.785
+            },
+            {
+                "end": 65.125,
+                "word": "testing",
+                "start": 64.945
+            },
+            {
+                "end": 65.245,
+                "word": "by",
+                "start": 65.145
+            },
+            {
+                "end": 65.385,
+                "word": "mid",
+                "start": 65.265
+            },
+            {
+                "end": 65.705,
+                "word": "November.",
+                "start": 65.405
+            },
+            {
+                "end": 66.005,
+                "word": "That",
+                "start": 65.905
+            },
+            {
+                "end": 66.125,
+                "word": "gives",
+                "start": 66.025
+            },
+            {
+                "end": 66.245,
+                "word": "us",
+                "start": 66.145
+            },
+            {
+                "end": 66.405,
+                "word": "about",
+                "start": 66.265
+            },
+            {
+                "end": 66.545,
+                "word": "six",
+                "start": 66.425
+            },
+            {
+                "end": 66.705,
+                "word": "weeks",
+                "start": 66.565
+            },
+            {
+                "end": 66.825,
+                "word": "for",
+                "start": 66.725
+            },
+            {
+                "end": 67.105,
+                "word": "development,",
+                "start": 66.845
+            },
+            {
+                "end": 67.345,
+                "word": "four",
+                "start": 67.225
+            },
+            {
+                "end": 67.485,
+                "word": "weeks",
+                "start": 67.365
+            },
+            {
+                "end": 67.605,
+                "word": "for",
+                "start": 67.505
+            },
+            {
+                "end": 67.765,
+                "word": "beta",
+                "start": 67.625
+            },
+            {
+                "end": 68.005,
+                "word": "testing",
+                "start": 67.785
+            },
+            {
+                "end": 68.125,
+                "word": "with",
+                "start": 68.025
+            },
+            {
+                "end": 68.325,
+                "word": "select",
+                "start": 68.145
+            },
+            {
+                "end": 68.605,
+                "word": "customers,",
+                "start": 68.345
+            },
+            {
+                "end": 68.825,
+                "word": "and",
+                "start": 68.725
+            },
+            {
+                "end": 68.945,
+                "word": "then",
+                "start": 68.845
+            },
+            {
+                "end": 69.085,
+                "word": "full",
+                "start": 68.965
+            },
+            {
+                "end": 69.305,
+                "word": "release",
+                "start": 69.105
+            },
+            {
+                "end": 69.425,
+                "word": "in",
+                "start": 69.325
+            },
+            {
+                "end": 69.565,
+                "word": "early",
+                "start": 69.445
+            },
+            {
+                "end": 69.865,
+                "word": "January.",
+                "start": 69.585
+            },
+            {
+                "end": 70.165,
+                "word": "The",
+                "start": 70.065
+            },
+            {
+                "end": 70.365,
+                "word": "mobile",
+                "start": 70.185
+            },
+            {
+                "end": 70.725,
+                "word": "optimization",
+                "start": 70.385
+            },
+            {
+                "end": 70.845,
+                "word": "is",
+                "start": 70.745
+            },
+            {
+                "end": 71.125,
+                "word": "probably",
+                "start": 70.865
+            },
+            {
+                "end": 71.265,
+                "word": "more",
+                "start": 71.145
+            },
+            {
+                "end": 71.505,
+                "word": "urgent",
+                "start": 71.285
+            },
+            {
+                "end": 71.645,
+                "word": "though.",
+                "start": 71.525
+            },
+            {
+                "end": 71.945,
+                "word": "With",
+                "start": 71.845
+            },
+            {
+                "end": 72.125,
+                "word": "sixty",
+                "start": 71.965
+            },
+            {
+                "end": 72.325,
+                "word": "percent",
+                "start": 72.145
+            },
+            {
+                "end": 72.445,
+                "word": "of",
+                "start": 72.345
+            },
+            {
+                "end": 72.585,
+                "word": "users",
+                "start": 72.465
+            },
+            {
+                "end": 72.705,
+                "word": "on",
+                "start": 72.605
+            },
+            {
+                "end": 72.905,
+                "word": "mobile,",
+                "start": 72.725
+            },
+            {
+                "end": 73.125,
+                "word": "we're",
+                "start": 73.025
+            },
+            {
+                "end": 73.345,
+                "word": "potentially",
+                "start": 73.145
+            },
+            {
+                "end": 73.505,
+                "word": "losing",
+                "start": 73.365
+            },
+            {
+                "end": 73.725,
+                "word": "customers",
+                "start": 73.525
+            },
+            {
+                "end": 73.845,
+                "word": "to",
+                "start": 73.745
+            },
+            {
+                "end": 74.105,
+                "word": "competitors",
+                "start": 73.865
+            },
+            {
+                "end": 74.225,
+                "word": "who",
+                "start": 74.125
+            },
+            {
+                "end": 74.345,
+                "word": "have",
+                "start": 74.245
+            },
+            {
+                "end": 74.505,
+                "word": "better",
+                "start": 74.365
+            },
+            {
+                "end": 74.665,
+                "word": "mobile",
+                "start": 74.525
+            },
+            {
+                "end": 75.025,
+                "word": "experiences.",
+                "start": 74.685
+            }
+        ],
+        "offset": 62.525,
+        "speaker": "Liam"
+    },
+    {
+        "words": [
+            {
+                "end": 75.765,
+                "word": "You're",
+                "start": 75.665
+            },
+            {
+                "end": 76.065,
+                "word": "absolutely",
+                "start": 75.785
+            },
+            {
+                "end": 76.245,
+                "word": "right",
+                "start": 76.085
+            },
+            {
+                "end": 76.405,
+                "word": "about",
+                "start": 76.265
+            },
+            {
+                "end": 76.545,
+                "word": "the",
+                "start": 76.425
+            },
+            {
+                "end": 76.725,
+                "word": "mobile",
+                "start": 76.565
+            },
+            {
+                "end": 77.005,
+                "word": "priority.",
+                "start": 76.745
+            },
+            {
+                "end": 77.305,
+                "word": "The",
+                "start": 77.205
+            },
+            {
+                "end": 77.425,
+                "word": "good",
+                "start": 77.325
+            },
+            {
+                "end": 77.545,
+                "word": "news",
+                "start": 77.445
+            },
+            {
+                "end": 77.665,
+                "word": "is",
+                "start": 77.565
+            },
+            {
+                "end": 77.785,
+                "word": "that",
+                "start": 77.685
+            },
+            {
+                "end": 77.905,
+                "word": "our",
+                "start": 77.805
+            },
+            {
+                "end": 78.105,
+                "word": "React",
+                "start": 77.925
+            },
+            {
+                "end": 78.405,
+                "word": "architecture",
+                "start": 78.125
+            },
+            {
+                "end": 78.545,
+                "word": "is",
+                "start": 78.425
+            },
+            {
+                "end": 78.765,
+                "word": "already",
+                "start": 78.565
+            },
+            {
+                "end": 79.065,
+                "word": "responsive.",
+                "start": 78.785
+            },
+            {
+                "end": 79.365,
+                "word": "We",
+                "start": 79.265
+            },
+            {
+                "end": 79.485,
+                "word": "just",
+                "start": 79.385
+            },
+            {
+                "end": 79.605,
+                "word": "need",
+                "start": 79.505
+            },
+            {
+                "end": 79.725,
+                "word": "to",
+                "start": 79.625
+            },
+            {
+                "end": 79.965,
+                "word": "optimize",
+                "start": 79.745
+            },
+            {
+                "end": 80.085,
+                "word": "the",
+                "start": 79.985
+            },
+            {
+                "end": 80.245,
+                "word": "user",
+                "start": 80.105
+            },
+            {
+                "end": 80.545,
+                "word": "interface",
+                "start": 80.265
+            },
+            {
+                "end": 80.665,
+                "word": "for",
+                "start": 80.565
+            },
+            {
+                "end": 80.825,
+                "word": "touch",
+                "start": 80.685
+            },
+            {
+                "end": 81.185,
+                "word": "interactions",
+                "start": 80.845
+            },
+            {
+                "end": 81.305,
+                "word": "and",
+                "start": 81.205
+            },
+            {
+                "end": 81.485,
+                "word": "smaller",
+                "start": 81.325
+            },
+            {
+                "end": 81.725,
+                "word": "screen",
+                "start": 81.505
+            },
+            {
+                "end": 81.965,
+                "word": "sizes.",
+                "start": 81.745
+            },
+            {
+                "end": 82.265,
+                "word": "I'm",
+                "start": 82.165
+            },
+            {
+                "end": 82.445,
+                "word": "thinking",
+                "start": 82.285
+            },
+            {
+                "end": 82.565,
+                "word": "we",
+                "start": 82.465
+            },
+            {
+                "end": 82.685,
+                "word": "can",
+                "start": 82.585
+            },
+            {
+                "end": 82.885,
+                "word": "tackle",
+                "start": 82.705
+            },
+            {
+                "end": 83.045,
+                "word": "both",
+                "start": 82.905
+            },
+            {
+                "end": 83.165,
+                "word": "the",
+                "start": 83.065
+            },
+            {
+                "end": 83.345,
+                "word": "mobile",
+                "start": 83.185
+            },
+            {
+                "end": 83.725,
+                "word": "optimization",
+                "start": 83.365
+            },
+            {
+                "end": 83.845,
+                "word": "and",
+                "start": 83.745
+            },
+            {
+                "end": 84.105,
+                "word": "analytics",
+                "start": 83.865
+            },
+            {
+                "end": 84.425,
+                "word": "simultaneously.",
+                "start": 84.125
+            },
+            {
+                "end": 84.725,
+                "word": "What",
+                "start": 84.625
+            },
+            {
+                "end": 84.845,
+                "word": "if",
+                "start": 84.745
+            },
+            {
+                "end": 84.965,
+                "word": "we",
+                "start": 84.865
+            },
+            {
+                "end": 85.165,
+                "word": "target",
+                "start": 84.985
+            },
+            {
+                "end": 85.285,
+                "word": "the",
+                "start": 85.185
+            },
+            {
+                "end": 85.445,
+                "word": "mobile",
+                "start": 85.305
+            },
+            {
+                "end": 85.745,
+                "word": "improvements",
+                "start": 85.465
+            },
+            {
+                "end": 85.865,
+                "word": "for",
+                "start": 85.765
+            },
+            {
+                "end": 86.045,
+                "word": "early",
+                "start": 85.885
+            },
+            {
+                "end": 86.305,
+                "word": "October?",
+                "start": 86.065
+            },
+            {
+                "end": 86.605,
+                "word": "That",
+                "start": 86.505
+            },
+            {
+                "end": 86.745,
+                "word": "gives",
+                "start": 86.625
+            },
+            {
+                "end": 86.865,
+                "word": "us",
+                "start": 86.765
+            },
+            {
+                "end": 87.005,
+                "word": "about",
+                "start": 86.885
+            },
+            {
+                "end": 87.145,
+                "word": "three",
+                "start": 87.025
+            },
+            {
+                "end": 87.305,
+                "word": "weeks",
+                "start": 87.165
+            },
+            {
+                "end": 87.425,
+                "word": "to",
+                "start": 87.325
+            },
+            {
+                "end": 87.645,
+                "word": "implement",
+                "start": 87.445
+            },
+            {
+                "end": 87.765,
+                "word": "the",
+                "start": 87.665
+            },
+            {
+                "end": 87.925,
+                "word": "most",
+                "start": 87.785
+            },
+            {
+                "end": 88.125,
+                "word": "critical",
+                "start": 87.945
+            },
+            {
+                "end": 88.405,
+                "word": "changes.",
+                "start": 88.145
+            }
+        ],
+        "offset": 75.605,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 89.145,
+                "word": "Three",
+                "start": 89.045
+            },
+            {
+                "end": 89.285,
+                "word": "weeks",
+                "start": 89.165
+            },
+            {
+                "end": 89.405,
+                "word": "is",
+                "start": 89.305
+            },
+            {
+                "end": 89.605,
+                "word": "tight",
+                "start": 89.425
+            },
+            {
+                "end": 89.725,
+                "word": "but",
+                "start": 89.625
+            },
+            {
+                "end": 89.965,
+                "word": "doable",
+                "start": 89.745
+            },
+            {
+                "end": 90.085,
+                "word": "if",
+                "start": 89.985
+            },
+            {
+                "end": 90.205,
+                "word": "we",
+                "start": 90.105
+            },
+            {
+                "end": 90.385,
+                "word": "focus",
+                "start": 90.225
+            },
+            {
+                "end": 90.505,
+                "word": "on",
+                "start": 90.405
+            },
+            {
+                "end": 90.625,
+                "word": "the",
+                "start": 90.525
+            },
+            {
+                "end": 90.845,
+                "word": "highest",
+                "start": 90.645
+            },
+            {
+                "end": 91.085,
+                "word": "impact",
+                "start": 90.865
+            },
+            {
+                "end": 91.345,
+                "word": "changes.",
+                "start": 91.105
+            },
+            {
+                "end": 91.645,
+                "word": "The",
+                "start": 91.545
+            },
+            {
+                "end": 91.805,
+                "word": "main",
+                "start": 91.665
+            },
+            {
+                "end": 92.025,
+                "word": "issues",
+                "start": 91.825
+            },
+            {
+                "end": 92.145,
+                "word": "our",
+                "start": 92.045
+            },
+            {
+                "end": 92.345,
+                "word": "users",
+                "start": 92.165
+            },
+            {
+                "end": 92.465,
+                "word": "are",
+                "start": 92.365
+            },
+            {
+                "end": 92.725,
+                "word": "reporting",
+                "start": 92.485
+            },
+            {
+                "end": 92.845,
+                "word": "are",
+                "start": 92.745
+            },
+            {
+                "end": 93.085,
+                "word": "button",
+                "start": 92.865
+            },
+            {
+                "end": 93.245,
+                "word": "sizes",
+                "start": 93.105
+            },
+            {
+                "end": 93.385,
+                "word": "being",
+                "start": 93.265
+            },
+            {
+                "end": 93.505,
+                "word": "too",
+                "start": 93.405
+            },
+            {
+                "end": 93.685,
+                "word": "small,",
+                "start": 93.525
+            },
+            {
+                "end": 94.005,
+                "word": "dropdown",
+                "start": 93.805
+            },
+            {
+                "end": 94.185,
+                "word": "menus",
+                "start": 94.025
+            },
+            {
+                "end": 94.345,
+                "word": "not",
+                "start": 94.205
+            },
+            {
+                "end": 94.545,
+                "word": "working",
+                "start": 94.365
+            },
+            {
+                "end": 94.705,
+                "word": "well",
+                "start": 94.565
+            },
+            {
+                "end": 94.825,
+                "word": "on",
+                "start": 94.725
+            },
+            {
+                "end": 95.005,
+                "word": "touch",
+                "start": 94.845
+            },
+            {
+                "end": 95.285,
+                "word": "devices,",
+                "start": 95.025
+            },
+            {
+                "end": 95.505,
+                "word": "and",
+                "start": 95.405
+            },
+            {
+                "end": 95.625,
+                "word": "the",
+                "start": 95.525
+            },
+            {
+                "end": 95.825,
+                "word": "overall",
+                "start": 95.645
+            },
+            {
+                "end": 96.045,
+                "word": "layout",
+                "start": 95.845
+            },
+            {
+                "end": 96.205,
+                "word": "feeling",
+                "start": 96.065
+            },
+            {
+                "end": 96.445,
+                "word": "cramped.",
+                "start": 96.225
+            },
+            {
+                "end": 96.745,
+                "word": "If",
+                "start": 96.645
+            },
+            {
+                "end": 96.865,
+                "word": "we",
+                "start": 96.765
+            },
+            {
+                "end": 97.045,
+                "word": "can",
+                "start": 96.885
+            },
+            {
+                "end": 97.205,
+                "word": "fix",
+                "start": 97.065
+            },
+            {
+                "end": 97.385,
+                "word": "those",
+                "start": 97.225
+            },
+            {
+                "end": 97.545,
+                "word": "three",
+                "start": 97.405
+            },
+            {
+                "end": 97.705,
+                "word": "main",
+                "start": 97.565
+            },
+            {
+                "end": 97.925,
+                "word": "pain",
+                "start": 97.725
+            },
+            {
+                "end": 98.165,
+                "word": "points,",
+                "start": 97.945
+            },
+            {
+                "end": 98.385,
+                "word": "we",
+                "start": 98.285
+            },
+            {
+                "end": 98.545,
+                "word": "should",
+                "start": 98.405
+            },
+            {
+                "end": 98.665,
+                "word": "see",
+                "start": 98.565
+            },
+            {
+                "end": 98.785,
+                "word": "a",
+                "start": 98.685
+            },
+            {
+                "end": 99.105,
+                "word": "significant",
+                "start": 98.805
+            },
+            {
+                "end": 99.385,
+                "word": "improvement",
+                "start": 99.125
+            },
+            {
+                "end": 99.505,
+                "word": "in",
+                "start": 99.405
+            },
+            {
+                "end": 99.645,
+                "word": "user",
+                "start": 99.525
+            },
+            {
+                "end": 100.025,
+                "word": "satisfaction.",
+                "start": 99.665
+            }
+        ],
+        "offset": 88.985,
+        "speaker": "Liam"
+    },
+    {
+        "words": [
+            {
+                "end": 100.825,
+                "word": "Perfect.",
+                "start": 100.665
+            },
+            {
+                "end": 101.125,
+                "word": "Those",
+                "start": 101.025
+            },
+            {
+                "end": 101.245,
+                "word": "are",
+                "start": 101.145
+            },
+            {
+                "end": 101.465,
+                "word": "exactly",
+                "start": 101.265
+            },
+            {
+                "end": 101.585,
+                "word": "the",
+                "start": 101.485
+            },
+            {
+                "end": 101.745,
+                "word": "kind",
+                "start": 101.605
+            },
+            {
+                "end": 101.865,
+                "word": "of",
+                "start": 101.765
+            },
+            {
+                "end": 102.125,
+                "word": "tactical",
+                "start": 101.885
+            },
+            {
+                "end": 102.365,
+                "word": "improvements",
+                "start": 102.145
+            },
+            {
+                "end": 102.485,
+                "word": "we",
+                "start": 102.385
+            },
+            {
+                "end": 102.605,
+                "word": "can",
+                "start": 102.505
+            },
+            {
+                "end": 102.805,
+                "word": "handle",
+                "start": 102.625
+            },
+            {
+                "end": 103.005,
+                "word": "quickly.",
+                "start": 102.825
+            },
+            {
+                "end": 103.305,
+                "word": "Now",
+                "start": 103.205
+            },
+            {
+                "end": 103.445,
+                "word": "what",
+                "start": 103.325
+            },
+            {
+                "end": 103.585,
+                "word": "about",
+                "start": 103.465
+            },
+            {
+                "end": 103.705,
+                "word": "the",
+                "start": 103.605
+            },
+            {
+                "end": 103.865,
+                "word": "API",
+                "start": 103.725
+            },
+            {
+                "end": 104.205,
+                "word": "integrations?",
+                "start": 103.885
+            },
+            {
+                "end": 104.505,
+                "word": "That",
+                "start": 104.405
+            },
+            {
+                "end": 104.685,
+                "word": "seems",
+                "start": 104.525
+            },
+            {
+                "end": 104.805,
+                "word": "like",
+                "start": 104.705
+            },
+            {
+                "end": 104.885,
+                "word": "a",
+                "start": 104.825
+            },
+            {
+                "end": 105.045,
+                "word": "bigger",
+                "start": 104.905
+            },
+            {
+                "end": 105.325,
+                "word": "undertaking",
+                "start": 105.065
+            },
+            {
+                "end": 105.485,
+                "word": "from",
+                "start": 105.345
+            },
+            {
+                "end": 105.565,
+                "word": "a",
+                "start": 105.505
+            },
+            {
+                "end": 105.805,
+                "word": "technical",
+                "start": 105.585
+            },
+            {
+                "end": 106.125,
+                "word": "standpoint.",
+                "start": 105.825
+            },
+            {
+                "end": 106.425,
+                "word": "Are",
+                "start": 106.325
+            },
+            {
+                "end": 106.605,
+                "word": "customers",
+                "start": 106.445
+            },
+            {
+                "end": 106.785,
+                "word": "asking",
+                "start": 106.625
+            },
+            {
+                "end": 106.905,
+                "word": "for",
+                "start": 106.805
+            },
+            {
+                "end": 107.125,
+                "word": "specific",
+                "start": 106.925
+            },
+            {
+                "end": 107.485,
+                "word": "integrations",
+                "start": 107.145
+            },
+            {
+                "end": 107.605,
+                "word": "or",
+                "start": 107.505
+            },
+            {
+                "end": 107.725,
+                "word": "more",
+                "start": 107.625
+            },
+            {
+                "end": 107.925,
+                "word": "general",
+                "start": 107.745
+            },
+            {
+                "end": 108.185,
+                "word": "webhook",
+                "start": 107.945
+            },
+            {
+                "end": 108.425,
+                "word": "support?",
+                "start": 108.205
+            },
+            {
+                "end": 108.725,
+                "word": "And",
+                "start": 108.625
+            },
+            {
+                "end": 108.845,
+                "word": "how",
+                "start": 108.745
+            },
+            {
+                "end": 109.065,
+                "word": "critical",
+                "start": 108.865
+            },
+            {
+                "end": 109.185,
+                "word": "is",
+                "start": 109.085
+            },
+            {
+                "end": 109.305,
+                "word": "this",
+                "start": 109.205
+            },
+            {
+                "end": 109.425,
+                "word": "for",
+                "start": 109.325
+            },
+            {
+                "end": 109.605,
+                "word": "our",
+                "start": 109.445
+            },
+            {
+                "end": 109.885,
+                "word": "enterprise",
+                "start": 109.625
+            },
+            {
+                "end": 110.185,
+                "word": "customers?",
+                "start": 109.905
+            }
+        ],
+        "offset": 100.605,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 110.925,
+                "word": "Great",
+                "start": 110.825
+            },
+            {
+                "end": 111.145,
+                "word": "question.",
+                "start": 110.945
+            },
+            {
+                "end": 111.445,
+                "word": "The",
+                "start": 111.345
+            },
+            {
+                "end": 111.605,
+                "word": "API",
+                "start": 111.465
+            },
+            {
+                "end": 111.945,
+                "word": "integration",
+                "start": 111.625
+            },
+            {
+                "end": 112.125,
+                "word": "requests",
+                "start": 111.965
+            },
+            {
+                "end": 112.245,
+                "word": "are",
+                "start": 112.145
+            },
+            {
+                "end": 112.505,
+                "word": "definitely",
+                "start": 112.265
+            },
+            {
+                "end": 112.685,
+                "word": "coming",
+                "start": 112.525
+            },
+            {
+                "end": 112.825,
+                "word": "from",
+                "start": 112.705
+            },
+            {
+                "end": 112.945,
+                "word": "our",
+                "start": 112.845
+            },
+            {
+                "end": 113.245,
+                "word": "enterprise",
+                "start": 112.965
+            },
+            {
+                "end": 113.485,
+                "word": "clients.",
+                "start": 113.265
+            },
+            {
+                "end": 113.785,
+                "word": "The",
+                "start": 113.685
+            },
+            {
+                "end": 113.965,
+                "word": "most",
+                "start": 113.805
+            },
+            {
+                "end": 114.205,
+                "word": "requested",
+                "start": 113.985
+            },
+            {
+                "end": 114.365,
+                "word": "ones",
+                "start": 114.225
+            },
+            {
+                "end": 114.485,
+                "word": "are",
+                "start": 114.385
+            },
+            {
+                "end": 114.805,
+                "word": "Salesforce",
+                "start": 114.505
+            },
+            {
+                "end": 114.925,
+                "word": "for",
+                "start": 114.825
+            },
+            {
+                "end": 115.085,
+                "word": "CRM",
+                "start": 114.945
+            },
+            {
+                "end": 115.245,
+                "word": "data",
+                "start": 115.105
+            },
+            {
+                "end": 115.485,
+                "word": "syncing,",
+                "start": 115.265
+            },
+            {
+                "end": 115.785,
+                "word": "HubSpot",
+                "start": 115.605
+            },
+            {
+                "end": 115.905,
+                "word": "for",
+                "start": 115.805
+            },
+            {
+                "end": 116.125,
+                "word": "marketing",
+                "start": 115.925
+            },
+            {
+                "end": 116.405,
+                "word": "automation,",
+                "start": 116.145
+            },
+            {
+                "end": 116.625,
+                "word": "and",
+                "start": 116.525
+            },
+            {
+                "end": 116.905,
+                "word": "surprisingly,",
+                "start": 116.645
+            },
+            {
+                "end": 117.185,
+                "word": "Slack",
+                "start": 117.025
+            },
+            {
+                "end": 117.305,
+                "word": "for",
+                "start": 117.205
+            },
+            {
+                "end": 117.585,
+                "word": "notifications",
+                "start": 117.325
+            },
+            {
+                "end": 117.705,
+                "word": "and",
+                "start": 117.605
+            },
+            {
+                "end": 117.905,
+                "word": "team",
+                "start": 117.725
+            },
+            {
+                "end": 118.205,
+                "word": "updates.",
+                "start": 117.925
+            },
+            {
+                "end": 118.545,
+                "word": "About",
+                "start": 118.405
+            },
+            {
+                "end": 118.725,
+                "word": "thirty",
+                "start": 118.565
+            },
+            {
+                "end": 118.885,
+                "word": "percent",
+                "start": 118.745
+            },
+            {
+                "end": 119.005,
+                "word": "of",
+                "start": 118.905
+            },
+            {
+                "end": 119.125,
+                "word": "our",
+                "start": 119.025
+            },
+            {
+                "end": 119.385,
+                "word": "enterprise",
+                "start": 119.145
+            },
+            {
+                "end": 119.605,
+                "word": "customers",
+                "start": 119.405
+            },
+            {
+                "end": 119.725,
+                "word": "have",
+                "start": 119.625
+            },
+            {
+                "end": 119.985,
+                "word": "specifically",
+                "start": 119.745
+            },
+            {
+                "end": 120.205,
+                "word": "mentioned",
+                "start": 120.005
+            },
+            {
+                "end": 120.325,
+                "word": "that",
+                "start": 120.225
+            },
+            {
+                "end": 120.445,
+                "word": "API",
+                "start": 120.345
+            },
+            {
+                "end": 120.725,
+                "word": "integrations",
+                "start": 120.465
+            },
+            {
+                "end": 120.845,
+                "word": "are",
+                "start": 120.745
+            },
+            {
+                "end": 120.925,
+                "word": "a",
+                "start": 120.865
+            },
+            {
+                "end": 121.085,
+                "word": "key",
+                "start": 120.945
+            },
+            {
+                "end": 121.285,
+                "word": "factor",
+                "start": 121.105
+            },
+            {
+                "end": 121.405,
+                "word": "in",
+                "start": 121.305
+            },
+            {
+                "end": 121.525,
+                "word": "their",
+                "start": 121.425
+            },
+            {
+                "end": 121.785,
+                "word": "renewal",
+                "start": 121.545
+            },
+            {
+                "end": 122.085,
+                "word": "decisions.",
+                "start": 121.805
+            },
+            {
+                "end": 122.385,
+                "word": "Two",
+                "start": 122.285
+            },
+            {
+                "end": 122.485,
+                "word": "of",
+                "start": 122.405
+            },
+            {
+                "end": 122.605,
+                "word": "our",
+                "start": 122.505
+            },
+            {
+                "end": 122.785,
+                "word": "biggest",
+                "start": 122.625
+            },
+            {
+                "end": 123.025,
+                "word": "accounts",
+                "start": 122.805
+            },
+            {
+                "end": 123.145,
+                "word": "have",
+                "start": 123.045
+            },
+            {
+                "end": 123.305,
+                "word": "said",
+                "start": 123.165
+            },
+            {
+                "end": 123.425,
+                "word": "they",
+                "start": 123.325
+            },
+            {
+                "end": 123.545,
+                "word": "might",
+                "start": 123.445
+            },
+            {
+                "end": 123.745,
+                "word": "consider",
+                "start": 123.565
+            },
+            {
+                "end": 124.005,
+                "word": "alternatives",
+                "start": 123.765
+            },
+            {
+                "end": 124.125,
+                "word": "if",
+                "start": 124.025
+            },
+            {
+                "end": 124.245,
+                "word": "we",
+                "start": 124.145
+            },
+            {
+                "end": 124.405,
+                "word": "don't",
+                "start": 124.265
+            },
+            {
+                "end": 124.545,
+                "word": "add",
+                "start": 124.425
+            },
+            {
+                "end": 124.725,
+                "word": "better",
+                "start": 124.565
+            },
+            {
+                "end": 125.005,
+                "word": "integration",
+                "start": 124.745
+            },
+            {
+                "end": 125.285,
+                "word": "capabilities",
+                "start": 125.025
+            },
+            {
+                "end": 125.405,
+                "word": "by",
+                "start": 125.305
+            },
+            {
+                "end": 125.525,
+                "word": "their",
+                "start": 125.425
+            },
+            {
+                "end": 125.705,
+                "word": "next",
+                "start": 125.545
+            },
+            {
+                "end": 125.965,
+                "word": "renewal.",
+                "start": 125.725
+            }
+        ],
+        "offset": 110.765,
+        "speaker": "Liam"
+    },
+    {
+        "words": [
+            {
+                "end": 126.705,
+                "word": "That",
+                "start": 126.605
+            },
+            {
+                "end": 126.825,
+                "word": "puts",
+                "start": 126.725
+            },
+            {
+                "end": 126.985,
+                "word": "this",
+                "start": 126.845
+            },
+            {
+                "end": 127.105,
+                "word": "in",
+                "start": 127.005
+            },
+            {
+                "end": 127.185,
+                "word": "a",
+                "start": 127.125
+            },
+            {
+                "end": 127.445,
+                "word": "different",
+                "start": 127.205
+            },
+            {
+                "end": 127.685,
+                "word": "light.",
+                "start": 127.465
+            },
+            {
+                "end": 127.985,
+                "word": "If",
+                "start": 127.885
+            },
+            {
+                "end": 128.105,
+                "word": "we're",
+                "start": 128.005
+            },
+            {
+                "end": 128.285,
+                "word": "talking",
+                "start": 128.125
+            },
+            {
+                "end": 128.425,
+                "word": "about",
+                "start": 128.305
+            },
+            {
+                "end": 128.645,
+                "word": "customer",
+                "start": 128.445
+            },
+            {
+                "end": 128.885,
+                "word": "retention",
+                "start": 128.665
+            },
+            {
+                "end": 129.005,
+                "word": "for",
+                "start": 128.905
+            },
+            {
+                "end": 129.125,
+                "word": "our",
+                "start": 129.025
+            },
+            {
+                "end": 129.325,
+                "word": "biggest",
+                "start": 129.145
+            },
+            {
+                "end": 129.565,
+                "word": "accounts,",
+                "start": 129.345
+            },
+            {
+                "end": 129.785,
+                "word": "this",
+                "start": 129.685
+            },
+            {
+                "end": 129.965,
+                "word": "becomes",
+                "start": 129.805
+            },
+            {
+                "end": 130.125,
+                "word": "much",
+                "start": 129.985
+            },
+            {
+                "end": 130.245,
+                "word": "more",
+                "start": 130.145
+            },
+            {
+                "end": 130.485,
+                "word": "urgent",
+                "start": 130.265
+            },
+            {
+                "end": 130.625,
+                "word": "than",
+                "start": 130.505
+            },
+            {
+                "end": 130.705,
+                "word": "I",
+                "start": 130.645
+            },
+            {
+                "end": 130.945,
+                "word": "initially",
+                "start": 130.725
+            },
+            {
+                "end": 131.165,
+                "word": "thought.",
+                "start": 130.965
+            },
+            {
+                "end": 131.485,
+                "word": "From",
+                "start": 131.365
+            },
+            {
+                "end": 131.565,
+                "word": "a",
+                "start": 131.505
+            },
+            {
+                "end": 131.805,
+                "word": "technical",
+                "start": 131.585
+            },
+            {
+                "end": 132.165,
+                "word": "perspective,",
+                "start": 131.825
+            },
+            {
+                "end": 132.385,
+                "word": "the",
+                "start": 132.285
+            },
+            {
+                "end": 132.605,
+                "word": "Salesforce",
+                "start": 132.405
+            },
+            {
+                "end": 132.725,
+                "word": "and",
+                "start": 132.625
+            },
+            {
+                "end": 132.925,
+                "word": "HubSpot",
+                "start": 132.745
+            },
+            {
+                "end": 133.245,
+                "word": "integrations",
+                "start": 132.945
+            },
+            {
+                "end": 133.365,
+                "word": "are",
+                "start": 133.265
+            },
+            {
+                "end": 133.625,
+                "word": "relatively",
+                "start": 133.385
+            },
+            {
+                "end": 134.005,
+                "word": "straightforward",
+                "start": 133.645
+            },
+            {
+                "end": 134.165,
+                "word": "since",
+                "start": 134.025
+            },
+            {
+                "end": 134.285,
+                "word": "they",
+                "start": 134.185
+            },
+            {
+                "end": 134.405,
+                "word": "both",
+                "start": 134.305
+            },
+            {
+                "end": 134.525,
+                "word": "have",
+                "start": 134.425
+            },
+            {
+                "end": 134.765,
+                "word": "robust",
+                "start": 134.545
+            },
+            {
+                "end": 134.925,
+                "word": "REST",
+                "start": 134.785
+            },
+            {
+                "end": 135.185,
+                "word": "APIs.",
+                "start": 134.945
+            },
+            {
+                "end": 135.485,
+                "word": "Slack",
+                "start": 135.385
+            },
+            {
+                "end": 135.605,
+                "word": "is",
+                "start": 135.505
+            },
+            {
+                "end": 135.785,
+                "word": "even",
+                "start": 135.625
+            },
+            {
+                "end": 135.985,
+                "word": "easier",
+                "start": 135.805
+            },
+            {
+                "end": 136.125,
+                "word": "with",
+                "start": 136.005
+            },
+            {
+                "end": 136.245,
+                "word": "their",
+                "start": 136.145
+            },
+            {
+                "end": 136.485,
+                "word": "webhook",
+                "start": 136.265
+            },
+            {
+                "end": 136.705,
+                "word": "system.",
+                "start": 136.505
+            },
+            {
+                "end": 137.005,
+                "word": "What",
+                "start": 136.905
+            },
+            {
+                "end": 137.105,
+                "word": "do",
+                "start": 137.025
+            },
+            {
+                "end": 137.225,
+                "word": "you",
+                "start": 137.125
+            },
+            {
+                "end": 137.365,
+                "word": "think",
+                "start": 137.245
+            },
+            {
+                "end": 137.525,
+                "word": "about",
+                "start": 137.385
+            },
+            {
+                "end": 137.825,
+                "word": "prioritizing",
+                "start": 137.545
+            },
+            {
+                "end": 137.945,
+                "word": "the",
+                "start": 137.845
+            },
+            {
+                "end": 138.125,
+                "word": "mobile",
+                "start": 137.965
+            },
+            {
+                "end": 138.405,
+                "word": "improvements",
+                "start": 138.145
+            },
+            {
+                "end": 138.525,
+                "word": "first",
+                "start": 138.425
+            },
+            {
+                "end": 138.645,
+                "word": "for",
+                "start": 138.545
+            },
+            {
+                "end": 138.825,
+                "word": "early",
+                "start": 138.665
+            },
+            {
+                "end": 139.085,
+                "word": "October,",
+                "start": 138.845
+            },
+            {
+                "end": 139.305,
+                "word": "then",
+                "start": 139.205
+            },
+            {
+                "end": 139.505,
+                "word": "starting",
+                "start": 139.325
+            },
+            {
+                "end": 139.605,
+                "word": "the",
+                "start": 139.525
+            },
+            {
+                "end": 139.745,
+                "word": "API",
+                "start": 139.625
+            },
+            {
+                "end": 140.005,
+                "word": "integration",
+                "start": 139.765
+            },
+            {
+                "end": 140.165,
+                "word": "work",
+                "start": 140.025
+            },
+            {
+                "end": 140.325,
+                "word": "while",
+                "start": 140.185
+            },
+            {
+                "end": 140.445,
+                "word": "we",
+                "start": 140.345
+            },
+            {
+                "end": 140.605,
+                "word": "develop",
+                "start": 140.465
+            },
+            {
+                "end": 140.725,
+                "word": "the",
+                "start": 140.625
+            },
+            {
+                "end": 141.005,
+                "word": "analytics",
+                "start": 140.745
+            },
+            {
+                "end": 141.305,
+                "word": "features?",
+                "start": 141.025
+            },
+            {
+                "end": 141.605,
+                "word": "That",
+                "start": 141.505
+            },
+            {
+                "end": 141.725,
+                "word": "way",
+                "start": 141.625
+            },
+            {
+                "end": 141.845,
+                "word": "we",
+                "start": 141.745
+            },
+            {
+                "end": 141.965,
+                "word": "can",
+                "start": 141.865
+            },
+            {
+                "end": 142.165,
+                "word": "address",
+                "start": 141.985
+            },
+            {
+                "end": 142.285,
+                "word": "the",
+                "start": 142.185
+            },
+            {
+                "end": 142.445,
+                "word": "most",
+                "start": 142.305
+            },
+            {
+                "end": 142.605,
+                "word": "urgent",
+                "start": 142.465
+            },
+            {
+                "end": 142.785,
+                "word": "issues",
+                "start": 142.625
+            },
+            {
+                "end": 142.965,
+                "word": "first?",
+                "start": 142.805
+            },
+            {
+                "end": 143.265,
+                "word": "And",
+                "start": 143.165
+            },
+            {
+                "end": 143.385,
+                "word": "we",
+                "start": 143.285
+            },
+            {
+                "end": 143.485,
+                "word": "can",
+                "start": 143.405
+            },
+            {
+                "end": 143.665,
+                "word": "target",
+                "start": 143.505
+            },
+            {
+                "end": 143.825,
+                "word": "having",
+                "start": 143.685
+            },
+            {
+                "end": 143.945,
+                "word": "at",
+                "start": 143.845
+            },
+            {
+                "end": 144.085,
+                "word": "least",
+                "start": 143.965
+            },
+            {
+                "end": 144.205,
+                "word": "the",
+                "start": 144.105
+            },
+            {
+                "end": 144.445,
+                "word": "Salesforce",
+                "start": 144.225
+            },
+            {
+                "end": 144.725,
+                "word": "integration",
+                "start": 144.465
+            },
+            {
+                "end": 144.845,
+                "word": "done",
+                "start": 144.745
+            },
+            {
+                "end": 144.965,
+                "word": "by",
+                "start": 144.865
+            },
+            {
+                "end": 145.085,
+                "word": "end",
+                "start": 144.985
+            },
+            {
+                "end": 145.205,
+                "word": "of",
+                "start": 145.105
+            },
+            {
+                "end": 145.485,
+                "word": "November?",
+                "start": 145.225
+            }
+        ],
+        "offset": 126.545,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 146.225,
+                "word": "I",
+                "start": 146.125
+            },
+            {
+                "end": 146.365,
+                "word": "think",
+                "start": 146.245
+            },
+            {
+                "end": 146.485,
+                "word": "that",
+                "start": 146.385
+            },
+            {
+                "end": 146.745,
+                "word": "approach",
+                "start": 146.505
+            },
+            {
+                "end": 146.905,
+                "word": "makes",
+                "start": 146.765
+            },
+            {
+                "end": 147.025,
+                "word": "a",
+                "start": 146.925
+            },
+            {
+                "end": 147.145,
+                "word": "lot",
+                "start": 147.045
+            },
+            {
+                "end": 147.245,
+                "word": "of",
+                "start": 147.165
+            },
+            {
+                "end": 147.425,
+                "word": "sense.",
+                "start": 147.265
+            },
+            {
+                "end": 147.725,
+                "word": "The",
+                "start": 147.625
+            },
+            {
+                "end": 147.885,
+                "word": "mobile",
+                "start": 147.745
+            },
+            {
+                "end": 148.205,
+                "word": "improvements",
+                "start": 147.905
+            },
+            {
+                "end": 148.325,
+                "word": "will",
+                "start": 148.225
+            },
+            {
+                "end": 148.485,
+                "word": "benefit",
+                "start": 148.345
+            },
+            {
+                "end": 148.605,
+                "word": "all",
+                "start": 148.505
+            },
+            {
+                "end": 148.725,
+                "word": "our",
+                "start": 148.625
+            },
+            {
+                "end": 148.905,
+                "word": "users",
+                "start": 148.745
+            },
+            {
+                "end": 149.185,
+                "word": "immediately,",
+                "start": 148.925
+            },
+            {
+                "end": 149.405,
+                "word": "while",
+                "start": 149.305
+            },
+            {
+                "end": 149.525,
+                "word": "the",
+                "start": 149.425
+            },
+            {
+                "end": 149.685,
+                "word": "API",
+                "start": 149.545
+            },
+            {
+                "end": 149.965,
+                "word": "integrations",
+                "start": 149.705
+            },
+            {
+                "end": 150.085,
+                "word": "are",
+                "start": 149.985
+            },
+            {
+                "end": 150.245,
+                "word": "more",
+                "start": 150.105
+            },
+            {
+                "end": 150.485,
+                "word": "targeted",
+                "start": 150.265
+            },
+            {
+                "end": 150.605,
+                "word": "to",
+                "start": 150.505
+            },
+            {
+                "end": 150.885,
+                "word": "enterprise",
+                "start": 150.625
+            },
+            {
+                "end": 151.125,
+                "word": "needs.",
+                "start": 150.905
+            },
+            {
+                "end": 151.425,
+                "word": "And",
+                "start": 151.325
+            },
+            {
+                "end": 151.585,
+                "word": "honestly,",
+                "start": 151.445
+            },
+            {
+                "end": 151.805,
+                "word": "if",
+                "start": 151.705
+            },
+            {
+                "end": 151.925,
+                "word": "we",
+                "start": 151.825
+            },
+            {
+                "end": 152.045,
+                "word": "can",
+                "start": 151.945
+            },
+            {
+                "end": 152.205,
+                "word": "show",
+                "start": 152.065
+            },
+            {
+                "end": 152.365,
+                "word": "those",
+                "start": 152.225
+            },
+            {
+                "end": 152.545,
+                "word": "two",
+                "start": 152.385
+            },
+            {
+                "end": 152.705,
+                "word": "big",
+                "start": 152.565
+            },
+            {
+                "end": 152.945,
+                "word": "enterprise",
+                "start": 152.725
+            },
+            {
+                "end": 153.165,
+                "word": "accounts",
+                "start": 152.965
+            },
+            {
+                "end": 153.285,
+                "word": "a",
+                "start": 153.185
+            },
+            {
+                "end": 153.485,
+                "word": "working",
+                "start": 153.305
+            },
+            {
+                "end": 153.745,
+                "word": "Salesforce",
+                "start": 153.505
+            },
+            {
+                "end": 154.065,
+                "word": "integration",
+                "start": 153.765
+            },
+            {
+                "end": 154.185,
+                "word": "by",
+                "start": 154.085
+            },
+            {
+                "end": 154.305,
+                "word": "the",
+                "start": 154.205
+            },
+            {
+                "end": 154.445,
+                "word": "end",
+                "start": 154.325
+            },
+            {
+                "end": 154.565,
+                "word": "of",
+                "start": 154.465
+            },
+            {
+                "end": 154.785,
+                "word": "November,",
+                "start": 154.585
+            },
+            {
+                "end": 155.005,
+                "word": "that",
+                "start": 154.905
+            },
+            {
+                "end": 155.165,
+                "word": "should",
+                "start": 155.025
+            },
+            {
+                "end": 155.285,
+                "word": "be",
+                "start": 155.185
+            },
+            {
+                "end": 155.445,
+                "word": "enough",
+                "start": 155.305
+            },
+            {
+                "end": 155.565,
+                "word": "to",
+                "start": 155.465
+            },
+            {
+                "end": 155.725,
+                "word": "secure",
+                "start": 155.585
+            },
+            {
+                "end": 155.845,
+                "word": "their",
+                "start": 155.745
+            },
+            {
+                "end": 156.085,
+                "word": "renewals",
+                "start": 155.865
+            },
+            {
+                "end": 156.205,
+                "word": "and",
+                "start": 156.105
+            },
+            {
+                "end": 156.325,
+                "word": "buy",
+                "start": 156.225
+            },
+            {
+                "end": 156.445,
+                "word": "us",
+                "start": 156.345
+            },
+            {
+                "end": 156.565,
+                "word": "more",
+                "start": 156.465
+            },
+            {
+                "end": 156.705,
+                "word": "time",
+                "start": 156.585
+            },
+            {
+                "end": 156.825,
+                "word": "for",
+                "start": 156.725
+            },
+            {
+                "end": 156.945,
+                "word": "the",
+                "start": 156.845
+            },
+            {
+                "end": 157.085,
+                "word": "other",
+                "start": 156.965
+            },
+            {
+                "end": 157.445,
+                "word": "integrations.",
+                "start": 157.105
+            },
+            {
+                "end": 157.745,
+                "word": "Plus,",
+                "start": 157.645
+            },
+            {
+                "end": 157.965,
+                "word": "once",
+                "start": 157.865
+            },
+            {
+                "end": 158.085,
+                "word": "we",
+                "start": 157.985
+            },
+            {
+                "end": 158.205,
+                "word": "have",
+                "start": 158.105
+            },
+            {
+                "end": 158.325,
+                "word": "the",
+                "start": 158.225
+            },
+            {
+                "end": 158.525,
+                "word": "framework",
+                "start": 158.345
+            },
+            {
+                "end": 158.645,
+                "word": "in",
+                "start": 158.545
+            },
+            {
+                "end": 158.785,
+                "word": "place",
+                "start": 158.665
+            },
+            {
+                "end": 158.905,
+                "word": "for",
+                "start": 158.805
+            },
+            {
+                "end": 159.005,
+                "word": "one",
+                "start": 158.925
+            },
+            {
+                "end": 159.245,
+                "word": "integration,",
+                "start": 159.025
+            },
+            {
+                "end": 159.505,
+                "word": "adding",
+                "start": 159.365
+            },
+            {
+                "end": 159.685,
+                "word": "HubSpot",
+                "start": 159.525
+            },
+            {
+                "end": 159.805,
+                "word": "and",
+                "start": 159.705
+            },
+            {
+                "end": 159.965,
+                "word": "Slack",
+                "start": 159.825
+            },
+            {
+                "end": 160.125,
+                "word": "should",
+                "start": 159.985
+            },
+            {
+                "end": 160.245,
+                "word": "be",
+                "start": 160.145
+            },
+            {
+                "end": 160.385,
+                "word": "much",
+                "start": 160.265
+            },
+            {
+                "end": 160.565,
+                "word": "faster.",
+                "start": 160.405
+            },
+            {
+                "end": 160.865,
+                "word": "I'd",
+                "start": 160.765
+            },
+            {
+                "end": 161.025,
+                "word": "estimate",
+                "start": 160.885
+            },
+            {
+                "end": 161.145,
+                "word": "we",
+                "start": 161.045
+            },
+            {
+                "end": 161.245,
+                "word": "can",
+                "start": 161.165
+            },
+            {
+                "end": 161.365,
+                "word": "have",
+                "start": 161.265
+            },
+            {
+                "end": 161.485,
+                "word": "all",
+                "start": 161.385
+            },
+            {
+                "end": 161.645,
+                "word": "three",
+                "start": 161.505
+            },
+            {
+                "end": 161.905,
+                "word": "integrations",
+                "start": 161.665
+            },
+            {
+                "end": 162.025,
+                "word": "live",
+                "start": 161.925
+            },
+            {
+                "end": 162.145,
+                "word": "by",
+                "start": 162.045
+            },
+            {
+                "end": 162.305,
+                "word": "early",
+                "start": 162.165
+            },
+            {
+                "end": 162.545,
+                "word": "January.",
+                "start": 162.325
+            },
+            {
+                "end": 162.845,
+                "word": "That",
+                "start": 162.745
+            },
+            {
+                "end": 162.985,
+                "word": "timing",
+                "start": 162.865
+            },
+            {
+                "end": 163.145,
+                "word": "aligns",
+                "start": 163.005
+            },
+            {
+                "end": 163.285,
+                "word": "nicely",
+                "start": 163.165
+            },
+            {
+                "end": 163.405,
+                "word": "with",
+                "start": 163.305
+            },
+            {
+                "end": 163.525,
+                "word": "the",
+                "start": 163.425
+            },
+            {
+                "end": 163.705,
+                "word": "full",
+                "start": 163.545
+            },
+            {
+                "end": 163.905,
+                "word": "analytics",
+                "start": 163.725
+            },
+            {
+                "end": 164.085,
+                "word": "platform",
+                "start": 163.925
+            },
+            {
+                "end": 164.265,
+                "word": "launch.",
+                "start": 164.105
+            }
+        ],
+        "offset": 146.065,
+        "speaker": "Liam"
+    },
+    {
+        "words": [
+            {
+                "end": 165.045,
+                "word": "Excellent",
+                "start": 164.905
+            },
+            {
+                "end": 165.285,
+                "word": "timeline.",
+                "start": 165.065
+            },
+            {
+                "end": 165.585,
+                "word": "Let",
+                "start": 165.485
+            },
+            {
+                "end": 165.705,
+                "word": "me",
+                "start": 165.605
+            },
+            {
+                "end": 165.885,
+                "word": "recap",
+                "start": 165.725
+            },
+            {
+                "end": 166.005,
+                "word": "what",
+                "start": 165.905
+            },
+            {
+                "end": 166.125,
+                "word": "we've",
+                "start": 166.025
+            },
+            {
+                "end": 166.285,
+                "word": "agreed",
+                "start": 166.145
+            },
+            {
+                "end": 166.425,
+                "word": "on",
+                "start": 166.305
+            },
+            {
+                "end": 166.545,
+                "word": "for",
+                "start": 166.445
+            },
+            {
+                "end": 166.665,
+                "word": "our",
+                "start": 166.565
+            },
+            {
+                "end": 166.785,
+                "word": "Q4",
+                "start": 166.685
+            },
+            {
+                "end": 167.005,
+                "word": "product",
+                "start": 166.805
+            },
+            {
+                "end": 167.285,
+                "word": "roadmap.",
+                "start": 167.025
+            },
+            {
+                "end": 167.605,
+                "word": "Phase",
+                "start": 167.485
+            },
+            {
+                "end": 167.745,
+                "word": "one:",
+                "start": 167.625
+            },
+            {
+                "end": 167.985,
+                "word": "Mobile",
+                "start": 167.865
+            },
+            {
+                "end": 168.285,
+                "word": "optimization",
+                "start": 168.005
+            },
+            {
+                "end": 168.405,
+                "word": "by",
+                "start": 168.305
+            },
+            {
+                "end": 168.565,
+                "word": "early",
+                "start": 168.425
+            },
+            {
+                "end": 168.805,
+                "word": "October.",
+                "start": 168.585
+            },
+            {
+                "end": 169.085,
+                "word": "This",
+                "start": 169.005
+            },
+            {
+                "end": 169.265,
+                "word": "includes",
+                "start": 169.105
+            },
+            {
+                "end": 169.405,
+                "word": "fixing",
+                "start": 169.285
+            },
+            {
+                "end": 169.565,
+                "word": "button",
+                "start": 169.425
+            },
+            {
+                "end": 169.745,
+                "word": "sizes,",
+                "start": 169.585
+            },
+            {
+                "end": 170.065,
+                "word": "improving",
+                "start": 169.865
+            },
+            {
+                "end": 170.245,
+                "word": "touch",
+                "start": 170.085
+            },
+            {
+                "end": 170.525,
+                "word": "interactions",
+                "start": 170.265
+            },
+            {
+                "end": 170.645,
+                "word": "for",
+                "start": 170.545
+            },
+            {
+                "end": 170.885,
+                "word": "dropdowns,",
+                "start": 170.665
+            },
+            {
+                "end": 171.105,
+                "word": "and",
+                "start": 171.005
+            },
+            {
+                "end": 171.325,
+                "word": "optimizing",
+                "start": 171.125
+            },
+            {
+                "end": 171.425,
+                "word": "the",
+                "start": 171.345
+            },
+            {
+                "end": 171.605,
+                "word": "overall",
+                "start": 171.445
+            },
+            {
+                "end": 171.785,
+                "word": "layout",
+                "start": 171.625
+            },
+            {
+                "end": 171.905,
+                "word": "for",
+                "start": 171.805
+            },
+            {
+                "end": 172.085,
+                "word": "smaller",
+                "start": 171.925
+            },
+            {
+                "end": 172.305,
+                "word": "screens.",
+                "start": 172.105
+            },
+            {
+                "end": 172.625,
+                "word": "Phase",
+                "start": 172.505
+            },
+            {
+                "end": 172.745,
+                "word": "two:",
+                "start": 172.645
+            },
+            {
+                "end": 173.085,
+                "word": "Analytics",
+                "start": 172.865
+            },
+            {
+                "end": 173.285,
+                "word": "dashboard",
+                "start": 173.105
+            },
+            {
+                "end": 173.505,
+                "word": "development",
+                "start": 173.305
+            },
+            {
+                "end": 173.665,
+                "word": "starting",
+                "start": 173.525
+            },
+            {
+                "end": 173.805,
+                "word": "in",
+                "start": 173.685
+            },
+            {
+                "end": 174.005,
+                "word": "parallel",
+                "start": 173.825
+            },
+            {
+                "end": 174.125,
+                "word": "with",
+                "start": 174.025
+            },
+            {
+                "end": 174.245,
+                "word": "the",
+                "start": 174.145
+            },
+            {
+                "end": 174.425,
+                "word": "mobile",
+                "start": 174.265
+            },
+            {
+                "end": 174.605,
+                "word": "work,",
+                "start": 174.445
+            },
+            {
+                "end": 174.825,
+                "word": "beta",
+                "start": 174.725
+            },
+            {
+                "end": 175.025,
+                "word": "testing",
+                "start": 174.845
+            },
+            {
+                "end": 175.145,
+                "word": "by",
+                "start": 175.045
+            },
+            {
+                "end": 175.285,
+                "word": "mid",
+                "start": 175.165
+            },
+            {
+                "end": 175.565,
+                "word": "November.",
+                "start": 175.305
+            },
+            {
+                "end": 175.865,
+                "word": "Phase",
+                "start": 175.765
+            },
+            {
+                "end": 176.005,
+                "word": "three:",
+                "start": 175.885
+            },
+            {
+                "end": 176.285,
+                "word": "API",
+                "start": 176.125
+            },
+            {
+                "end": 176.605,
+                "word": "integrations",
+                "start": 176.305
+            },
+            {
+                "end": 176.765,
+                "word": "starting",
+                "start": 176.625
+            },
+            {
+                "end": 176.885,
+                "word": "with",
+                "start": 176.785
+            },
+            {
+                "end": 177.145,
+                "word": "Salesforce",
+                "start": 176.905
+            },
+            {
+                "end": 177.265,
+                "word": "by",
+                "start": 177.165
+            },
+            {
+                "end": 177.385,
+                "word": "end",
+                "start": 177.285
+            },
+            {
+                "end": 177.505,
+                "word": "of",
+                "start": 177.405
+            },
+            {
+                "end": 177.725,
+                "word": "November,",
+                "start": 177.525
+            },
+            {
+                "end": 177.985,
+                "word": "followed",
+                "start": 177.845
+            },
+            {
+                "end": 178.105,
+                "word": "by",
+                "start": 178.005
+            },
+            {
+                "end": 178.285,
+                "word": "HubSpot",
+                "start": 178.125
+            },
+            {
+                "end": 178.405,
+                "word": "and",
+                "start": 178.305
+            },
+            {
+                "end": 178.565,
+                "word": "Slack",
+                "start": 178.425
+            },
+            {
+                "end": 178.685,
+                "word": "in",
+                "start": 178.585
+            },
+            {
+                "end": 178.845,
+                "word": "early",
+                "start": 178.705
+            },
+            {
+                "end": 179.125,
+                "word": "January.",
+                "start": 178.865
+            },
+            {
+                "end": 179.425,
+                "word": "And",
+                "start": 179.325
+            },
+            {
+                "end": 179.565,
+                "word": "full",
+                "start": 179.445
+            },
+            {
+                "end": 179.785,
+                "word": "analytics",
+                "start": 179.585
+            },
+            {
+                "end": 179.965,
+                "word": "release",
+                "start": 179.805
+            },
+            {
+                "end": 180.085,
+                "word": "also",
+                "start": 179.985
+            },
+            {
+                "end": 180.205,
+                "word": "in",
+                "start": 180.105
+            },
+            {
+                "end": 180.345,
+                "word": "early",
+                "start": 180.225
+            },
+            {
+                "end": 180.605,
+                "word": "January.",
+                "start": 180.365
+            },
+            {
+                "end": 180.905,
+                "word": "This",
+                "start": 180.805
+            },
+            {
+                "end": 181.065,
+                "word": "gives",
+                "start": 180.925
+            },
+            {
+                "end": 181.185,
+                "word": "us",
+                "start": 181.085
+            },
+            {
+                "end": 181.265,
+                "word": "a",
+                "start": 181.205
+            },
+            {
+                "end": 181.425,
+                "word": "good",
+                "start": 181.285
+            },
+            {
+                "end": 181.565,
+                "word": "mix",
+                "start": 181.445
+            },
+            {
+                "end": 181.685,
+                "word": "of",
+                "start": 181.585
+            },
+            {
+                "end": 181.805,
+                "word": "user",
+                "start": 181.705
+            },
+            {
+                "end": 182.125,
+                "word": "experience",
+                "start": 181.825
+            },
+            {
+                "end": 182.445,
+                "word": "improvements,",
+                "start": 182.145
+            },
+            {
+                "end": 182.725,
+                "word": "revenue",
+                "start": 182.565
+            },
+            {
+                "end": 183.065,
+                "word": "opportunities,",
+                "start": 182.745
+            },
+            {
+                "end": 183.285,
+                "word": "and",
+                "start": 183.185
+            },
+            {
+                "end": 183.485,
+                "word": "customer",
+                "start": 183.305
+            },
+            {
+                "end": 183.725,
+                "word": "retention",
+                "start": 183.505
+            },
+            {
+                "end": 184.005,
+                "word": "initiatives.",
+                "start": 183.745
+            },
+            {
+                "end": 184.305,
+                "word": "Does",
+                "start": 184.205
+            },
+            {
+                "end": 184.425,
+                "word": "this",
+                "start": 184.325
+            },
+            {
+                "end": 184.545,
+                "word": "sound",
+                "start": 184.445
+            },
+            {
+                "end": 184.725,
+                "word": "reasonable",
+                "start": 184.565
+            },
+            {
+                "end": 184.845,
+                "word": "from",
+                "start": 184.745
+            },
+            {
+                "end": 184.925,
+                "word": "a",
+                "start": 184.865
+            },
+            {
+                "end": 185.125,
+                "word": "resource",
+                "start": 184.945
+            },
+            {
+                "end": 185.285,
+                "word": "and",
+                "start": 185.145
+            },
+            {
+                "end": 185.465,
+                "word": "timeline",
+                "start": 185.305
+            },
+            {
+                "end": 185.745,
+                "word": "perspective?",
+                "start": 185.485
+            }
+        ],
+        "offset": 164.845,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 186.525,
+                "word": "Yes,",
+                "start": 186.385
+            },
+            {
+                "end": 186.745,
+                "word": "this",
+                "start": 186.645
+            },
+            {
+                "end": 186.905,
+                "word": "looks",
+                "start": 186.765
+            },
+            {
+                "end": 187.085,
+                "word": "very",
+                "start": 186.925
+            },
+            {
+                "end": 187.325,
+                "word": "achievable.",
+                "start": 187.105
+            },
+            {
+                "end": 187.625,
+                "word": "I",
+                "start": 187.525
+            },
+            {
+                "end": 187.745,
+                "word": "think",
+                "start": 187.645
+            },
+            {
+                "end": 187.865,
+                "word": "we",
+                "start": 187.765
+            },
+            {
+                "end": 187.985,
+                "word": "have",
+                "start": 187.885
+            },
+            {
+                "end": 188.085,
+                "word": "a",
+                "start": 188.005
+            },
+            {
+                "end": 188.205,
+                "word": "good",
+                "start": 188.105
+            },
+            {
+                "end": 188.385,
+                "word": "balance",
+                "start": 188.225
+            },
+            {
+                "end": 188.525,
+                "word": "between",
+                "start": 188.405
+            },
+            {
+                "end": 188.725,
+                "word": "ambition",
+                "start": 188.545
+            },
+            {
+                "end": 188.845,
+                "word": "and",
+                "start": 188.745
+            },
+            {
+                "end": 189.085,
+                "word": "realism.",
+                "start": 188.865
+            },
+            {
+                "end": 189.385,
+                "word": "The",
+                "start": 189.285
+            },
+            {
+                "end": 189.565,
+                "word": "phased",
+                "start": 189.405
+            },
+            {
+                "end": 189.765,
+                "word": "approach",
+                "start": 189.585
+            },
+            {
+                "end": 189.885,
+                "word": "also",
+                "start": 189.785
+            },
+            {
+                "end": 190.025,
+                "word": "means",
+                "start": 189.905
+            },
+            {
+                "end": 190.145,
+                "word": "we",
+                "start": 190.045
+            },
+            {
+                "end": 190.245,
+                "word": "can",
+                "start": 190.165
+            },
+            {
+                "end": 190.405,
+                "word": "start",
+                "start": 190.265
+            },
+            {
+                "end": 190.565,
+                "word": "seeing",
+                "start": 190.425
+            },
+            {
+                "end": 190.785,
+                "word": "positive",
+                "start": 190.585
+            },
+            {
+                "end": 190.925,
+                "word": "user",
+                "start": 190.805
+            },
+            {
+                "end": 191.105,
+                "word": "feedback",
+                "start": 190.945
+            },
+            {
+                "end": 191.225,
+                "word": "and",
+                "start": 191.125
+            },
+            {
+                "end": 191.405,
+                "word": "metrics",
+                "start": 191.245
+            },
+            {
+                "end": 191.625,
+                "word": "improvements",
+                "start": 191.425
+            },
+            {
+                "end": 191.745,
+                "word": "much",
+                "start": 191.645
+            },
+            {
+                "end": 191.925,
+                "word": "earlier",
+                "start": 191.765
+            },
+            {
+                "end": 192.065,
+                "word": "than",
+                "start": 191.945
+            },
+            {
+                "end": 192.185,
+                "word": "if",
+                "start": 192.085
+            },
+            {
+                "end": 192.305,
+                "word": "we",
+                "start": 192.205
+            },
+            {
+                "end": 192.485,
+                "word": "waited",
+                "start": 192.325
+            },
+            {
+                "end": 192.605,
+                "word": "to",
+                "start": 192.505
+            },
+            {
+                "end": 192.785,
+                "word": "launch",
+                "start": 192.625
+            },
+            {
+                "end": 193.005,
+                "word": "everything",
+                "start": 192.805
+            },
+            {
+                "end": 193.125,
+                "word": "at",
+                "start": 193.025
+            },
+            {
+                "end": 193.285,
+                "word": "once.",
+                "start": 193.145
+            },
+            {
+                "end": 193.585,
+                "word": "I'm",
+                "start": 193.485
+            },
+            {
+                "end": 193.785,
+                "word": "particularly",
+                "start": 193.605
+            },
+            {
+                "end": 193.945,
+                "word": "excited",
+                "start": 193.805
+            },
+            {
+                "end": 194.085,
+                "word": "about",
+                "start": 193.965
+            },
+            {
+                "end": 194.205,
+                "word": "the",
+                "start": 194.105
+            },
+            {
+                "end": 194.405,
+                "word": "potential",
+                "start": 194.225
+            },
+            {
+                "end": 194.565,
+                "word": "revenue",
+                "start": 194.425
+            },
+            {
+                "end": 194.705,
+                "word": "impact",
+                "start": 194.585
+            },
+            {
+                "end": 194.825,
+                "word": "from",
+                "start": 194.725
+            },
+            {
+                "end": 194.945,
+                "word": "the",
+                "start": 194.845
+            },
+            {
+                "end": 195.125,
+                "word": "premium",
+                "start": 194.965
+            },
+            {
+                "end": 195.405,
+                "word": "analytics.",
+                "start": 195.145
+            },
+            {
+                "end": 195.705,
+                "word": "If",
+                "start": 195.605
+            },
+            {
+                "end": 195.825,
+                "word": "we",
+                "start": 195.725
+            },
+            {
+                "end": 195.945,
+                "word": "can",
+                "start": 195.845
+            },
+            {
+                "end": 196.085,
+                "word": "get",
+                "start": 195.965
+            },
+            {
+                "end": 196.205,
+                "word": "even",
+                "start": 196.105
+            },
+            {
+                "end": 196.305,
+                "word": "a",
+                "start": 196.225
+            },
+            {
+                "end": 196.445,
+                "word": "third",
+                "start": 196.325
+            },
+            {
+                "end": 196.565,
+                "word": "of",
+                "start": 196.465
+            },
+            {
+                "end": 196.685,
+                "word": "our",
+                "start": 196.585
+            },
+            {
+                "end": 196.925,
+                "word": "customers",
+                "start": 196.705
+            },
+            {
+                "end": 197.045,
+                "word": "to",
+                "start": 196.945
+            },
+            {
+                "end": 197.205,
+                "word": "upgrade",
+                "start": 197.065
+            },
+            {
+                "end": 197.325,
+                "word": "to",
+                "start": 197.225
+            },
+            {
+                "end": 197.425,
+                "word": "the",
+                "start": 197.345
+            },
+            {
+                "end": 197.585,
+                "word": "premium",
+                "start": 197.445
+            },
+            {
+                "end": 197.805,
+                "word": "analytics",
+                "start": 197.605
+            },
+            {
+                "end": 197.925,
+                "word": "tier,",
+                "start": 197.825
+            },
+            {
+                "end": 198.145,
+                "word": "that",
+                "start": 198.045
+            },
+            {
+                "end": 198.285,
+                "word": "could",
+                "start": 198.165
+            },
+            {
+                "end": 198.385,
+                "word": "be",
+                "start": 198.305
+            },
+            {
+                "end": 198.465,
+                "word": "a",
+                "start": 198.405
+            },
+            {
+                "end": 198.705,
+                "word": "significant",
+                "start": 198.485
+            },
+            {
+                "end": 198.825,
+                "word": "boost",
+                "start": 198.725
+            },
+            {
+                "end": 198.945,
+                "word": "to",
+                "start": 198.845
+            },
+            {
+                "end": 199.065,
+                "word": "our",
+                "start": 198.965
+            },
+            {
+                "end": 199.185,
+                "word": "Q1",
+                "start": 199.085
+            },
+            {
+                "end": 199.405,
+                "word": "numbers.",
+                "start": 199.205
+            },
+            {
+                "end": 199.705,
+                "word": "Should",
+                "start": 199.605
+            },
+            {
+                "end": 199.825,
+                "word": "we",
+                "start": 199.725
+            },
+            {
+                "end": 199.985,
+                "word": "start",
+                "start": 199.845
+            },
+            {
+                "end": 200.185,
+                "word": "thinking",
+                "start": 200.005
+            },
+            {
+                "end": 200.325,
+                "word": "about",
+                "start": 200.205
+            },
+            {
+                "end": 200.485,
+                "word": "pricing",
+                "start": 200.345
+            },
+            {
+                "end": 200.585,
+                "word": "for",
+                "start": 200.505
+            },
+            {
+                "end": 200.705,
+                "word": "the",
+                "start": 200.605
+            },
+            {
+                "end": 200.865,
+                "word": "premium",
+                "start": 200.725
+            },
+            {
+                "end": 201.065,
+                "word": "tier",
+                "start": 200.885
+            },
+            {
+                "end": 201.185,
+                "word": "and",
+                "start": 201.085
+            },
+            {
+                "end": 201.285,
+                "word": "how",
+                "start": 201.205
+            },
+            {
+                "end": 201.405,
+                "word": "we",
+                "start": 201.305
+            },
+            {
+                "end": 201.525,
+                "word": "want",
+                "start": 201.425
+            },
+            {
+                "end": 201.605,
+                "word": "to",
+                "start": 201.545
+            },
+            {
+                "end": 201.785,
+                "word": "position",
+                "start": 201.625
+            },
+            {
+                "end": 201.885,
+                "word": "it",
+                "start": 201.805
+            },
+            {
+                "end": 202.005,
+                "word": "in",
+                "start": 201.905
+            },
+            {
+                "end": 202.125,
+                "word": "the",
+                "start": 202.025
+            },
+            {
+                "end": 202.305,
+                "word": "market?",
+                "start": 202.145
+            },
+            {
+                "end": 202.605,
+                "word": "And",
+                "start": 202.505
+            },
+            {
+                "end": 202.725,
+                "word": "we",
+                "start": 202.625
+            },
+            {
+                "end": 202.885,
+                "word": "should",
+                "start": 202.745
+            },
+            {
+                "end": 203.085,
+                "word": "probably",
+                "start": 202.905
+            },
+            {
+                "end": 203.205,
+                "word": "get",
+                "start": 203.105
+            },
+            {
+                "end": 203.325,
+                "word": "our",
+                "start": 203.225
+            },
+            {
+                "end": 203.505,
+                "word": "marketing",
+                "start": 203.345
+            },
+            {
+                "end": 203.625,
+                "word": "team",
+                "start": 203.525
+            },
+            {
+                "end": 203.785,
+                "word": "involved",
+                "start": 203.645
+            },
+            {
+                "end": 203.905,
+                "word": "in",
+                "start": 203.805
+            },
+            {
+                "end": 204.045,
+                "word": "the",
+                "start": 203.925
+            },
+            {
+                "end": 204.205,
+                "word": "beta",
+                "start": 204.065
+            },
+            {
+                "end": 204.365,
+                "word": "testing",
+                "start": 204.225
+            },
+            {
+                "end": 204.525,
+                "word": "phase",
+                "start": 204.385
+            },
+            {
+                "end": 204.645,
+                "word": "to",
+                "start": 204.545
+            },
+            {
+                "end": 204.805,
+                "word": "start",
+                "start": 204.665
+            },
+            {
+                "end": 205.005,
+                "word": "gathering",
+                "start": 204.825
+            },
+            {
+                "end": 205.165,
+                "word": "feedback",
+                "start": 205.025
+            },
+            {
+                "end": 205.285,
+                "word": "on",
+                "start": 205.185
+            },
+            {
+                "end": 205.485,
+                "word": "messaging",
+                "start": 205.305
+            },
+            {
+                "end": 205.605,
+                "word": "and",
+                "start": 205.505
+            },
+            {
+                "end": 205.825,
+                "word": "positioning.",
+                "start": 205.625
+            }
+        ],
+        "offset": 186.325,
+        "speaker": "Liam"
+    },
+    {
+        "words": [
+            {
+                "end": 206.625,
+                "word": "Absolutely.",
+                "start": 206.465
+            },
+            {
+                "end": 206.925,
+                "word": "Great",
+                "start": 206.825
+            },
+            {
+                "end": 207.085,
+                "word": "point",
+                "start": 206.945
+            },
+            {
+                "end": 207.225,
+                "word": "about",
+                "start": 207.105
+            },
+            {
+                "end": 207.385,
+                "word": "getting",
+                "start": 207.245
+            },
+            {
+                "end": 207.545,
+                "word": "marketing",
+                "start": 207.405
+            },
+            {
+                "end": 207.725,
+                "word": "involved",
+                "start": 207.565
+            },
+            {
+                "end": 207.885,
+                "word": "early.",
+                "start": 207.745
+            },
+            {
+                "end": 208.185,
+                "word": "For",
+                "start": 208.085
+            },
+            {
+                "end": 208.305,
+                "word": "the",
+                "start": 208.205
+            },
+            {
+                "end": 208.485,
+                "word": "premium",
+                "start": 208.325
+            },
+            {
+                "end": 208.665,
+                "word": "tier",
+                "start": 208.505
+            },
+            {
+                "end": 208.845,
+                "word": "pricing,",
+                "start": 208.685
+            },
+            {
+                "end": 209.065,
+                "word": "based",
+                "start": 208.965
+            },
+            {
+                "end": 209.185,
+                "word": "on",
+                "start": 209.085
+            },
+            {
+                "end": 209.285,
+                "word": "your",
+                "start": 209.205
+            },
+            {
+                "end": 209.445,
+                "word": "customer",
+                "start": 209.305
+            },
+            {
+                "end": 209.625,
+                "word": "feedback",
+                "start": 209.465
+            },
+            {
+                "end": 209.745,
+                "word": "that",
+                "start": 209.645
+            },
+            {
+                "end": 209.885,
+                "word": "they're",
+                "start": 209.765
+            },
+            {
+                "end": 210.045,
+                "word": "willing",
+                "start": 209.905
+            },
+            {
+                "end": 210.165,
+                "word": "to",
+                "start": 210.065
+            },
+            {
+                "end": 210.285,
+                "word": "pay",
+                "start": 210.185
+            },
+            {
+                "end": 210.445,
+                "word": "twenty",
+                "start": 210.305
+            },
+            {
+                "end": 210.545,
+                "word": "to",
+                "start": 210.465
+            },
+            {
+                "end": 210.685,
+                "word": "thirty",
+                "start": 210.565
+            },
+            {
+                "end": 210.825,
+                "word": "percent",
+                "start": 210.705
+            },
+            {
+                "end": 210.965,
+                "word": "more,",
+                "start": 210.845
+            },
+            {
+                "end": 211.185,
+                "word": "I'm",
+                "start": 211.085
+            },
+            {
+                "end": 211.345,
+                "word": "thinking",
+                "start": 211.205
+            },
+            {
+                "end": 211.465,
+                "word": "we",
+                "start": 211.365
+            },
+            {
+                "end": 211.605,
+                "word": "could",
+                "start": 211.485
+            },
+            {
+                "end": 211.765,
+                "word": "start",
+                "start": 211.625
+            },
+            {
+                "end": 211.885,
+                "word": "with",
+                "start": 211.785
+            },
+            {
+                "end": 211.965,
+                "word": "a",
+                "start": 211.905
+            },
+            {
+                "end": 212.125,
+                "word": "twenty",
+                "start": 211.985
+            },
+            {
+                "end": 212.245,
+                "word": "five",
+                "start": 212.145
+            },
+            {
+                "end": 212.385,
+                "word": "percent",
+                "start": 212.265
+            },
+            {
+                "end": 212.545,
+                "word": "premium",
+                "start": 212.405
+            },
+            {
+                "end": 212.665,
+                "word": "for",
+                "start": 212.565
+            },
+            {
+                "end": 212.785,
+                "word": "the",
+                "start": 212.685
+            },
+            {
+                "end": 212.985,
+                "word": "advanced",
+                "start": 212.805
+            },
+            {
+                "end": 213.225,
+                "word": "analytics",
+                "start": 213.005
+            },
+            {
+                "end": 213.385,
+                "word": "features.",
+                "start": 213.245
+            },
+            {
+                "end": 213.685,
+                "word": "That",
+                "start": 213.585
+            },
+            {
+                "end": 213.845,
+                "word": "gives",
+                "start": 213.705
+            },
+            {
+                "end": 213.965,
+                "word": "us",
+                "start": 213.865
+            },
+            {
+                "end": 214.085,
+                "word": "room",
+                "start": 213.985
+            },
+            {
+                "end": 214.205,
+                "word": "to",
+                "start": 214.105
+            },
+            {
+                "end": 214.365,
+                "word": "adjust",
+                "start": 214.225
+            },
+            {
+                "end": 214.485,
+                "word": "based",
+                "start": 214.385
+            },
+            {
+                "end": 214.605,
+                "word": "on",
+                "start": 214.505
+            },
+            {
+                "end": 214.725,
+                "word": "beta",
+                "start": 214.625
+            },
+            {
+                "end": 214.905,
+                "word": "feedback",
+                "start": 214.745
+            },
+            {
+                "end": 215.025,
+                "word": "and",
+                "start": 214.925
+            },
+            {
+                "end": 215.205,
+                "word": "market",
+                "start": 215.045
+            },
+            {
+                "end": 215.405,
+                "word": "response.",
+                "start": 215.225
+            },
+            {
+                "end": 215.705,
+                "word": "We",
+                "start": 215.605
+            },
+            {
+                "end": 215.845,
+                "word": "should",
+                "start": 215.725
+            },
+            {
+                "end": 215.985,
+                "word": "also",
+                "start": 215.865
+            },
+            {
+                "end": 216.145,
+                "word": "consider",
+                "start": 216.005
+            },
+            {
+                "end": 216.265,
+                "word": "how",
+                "start": 216.165
+            },
+            {
+                "end": 216.385,
+                "word": "this",
+                "start": 216.285
+            },
+            {
+                "end": 216.545,
+                "word": "affects",
+                "start": 216.405
+            },
+            {
+                "end": 216.665,
+                "word": "our",
+                "start": 216.565
+            },
+            {
+                "end": 216.845,
+                "word": "existing",
+                "start": 216.685
+            },
+            {
+                "end": 217.005,
+                "word": "pricing",
+                "start": 216.865
+            },
+            {
+                "end": 217.185,
+                "word": "tiers.",
+                "start": 217.025
+            },
+            {
+                "end": 217.485,
+                "word": "Maybe",
+                "start": 217.385
+            },
+            {
+                "end": 217.605,
+                "word": "we",
+                "start": 217.505
+            },
+            {
+                "end": 217.725,
+                "word": "call",
+                "start": 217.625
+            },
+            {
+                "end": 217.845,
+                "word": "it",
+                "start": 217.745
+            },
+            {
+                "end": 218.005,
+                "word": "Analytics",
+                "start": 217.865
+            },
+            {
+                "end": 218.165,
+                "word": "Pro",
+                "start": 218.025
+            },
+            {
+                "end": 218.285,
+                "word": "or",
+                "start": 218.185
+            },
+            {
+                "end": 218.445,
+                "word": "Premium",
+                "start": 218.305
+            },
+            {
+                "end": 218.665,
+                "word": "Insights?",
+                "start": 218.465
+            },
+            {
+                "end": 218.965,
+                "word": "I'll",
+                "start": 218.865
+            },
+            {
+                "end": 219.105,
+                "word": "reach",
+                "start": 218.985
+            },
+            {
+                "end": 219.225,
+                "word": "out",
+                "start": 219.125
+            },
+            {
+                "end": 219.345,
+                "word": "to",
+                "start": 219.245
+            },
+            {
+                "end": 219.485,
+                "word": "Sarah",
+                "start": 219.365
+            },
+            {
+                "end": 219.605,
+                "word": "from",
+                "start": 219.505
+            },
+            {
+                "end": 219.805,
+                "word": "marketing",
+                "start": 219.625
+            },
+            {
+                "end": 219.945,
+                "word": "this",
+                "start": 219.825
+            },
+            {
+                "end": 220.125,
+                "word": "afternoon",
+                "start": 219.965
+            },
+            {
+                "end": 220.245,
+                "word": "to",
+                "start": 220.145
+            },
+            {
+                "end": 220.365,
+                "word": "get",
+                "start": 220.265
+            },
+            {
+                "end": 220.485,
+                "word": "her",
+                "start": 220.385
+            },
+            {
+                "end": 220.645,
+                "word": "thoughts",
+                "start": 220.505
+            },
+            {
+                "end": 220.765,
+                "word": "on",
+                "start": 220.665
+            },
+            {
+                "end": 220.925,
+                "word": "messaging",
+                "start": 220.785
+            },
+            {
+                "end": 221.045,
+                "word": "and",
+                "start": 220.945
+            },
+            {
+                "end": 221.205,
+                "word": "how",
+                "start": 221.065
+            },
+            {
+                "end": 221.325,
+                "word": "we",
+                "start": 221.225
+            },
+            {
+                "end": 221.445,
+                "word": "want",
+                "start": 221.345
+            },
+            {
+                "end": 221.525,
+                "word": "to",
+                "start": 221.465
+            },
+            {
+                "end": 221.705,
+                "word": "position",
+                "start": 221.545
+            },
+            {
+                "end": 221.825,
+                "word": "this",
+                "start": 221.725
+            },
+            {
+                "end": 221.945,
+                "word": "in",
+                "start": 221.845
+            },
+            {
+                "end": 222.065,
+                "word": "the",
+                "start": 221.965
+            },
+            {
+                "end": 222.285,
+                "word": "market.",
+                "start": 222.085
+            }
+        ],
+        "offset": 206.405,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 223.065,
+                "word": "Perfect.",
+                "start": 222.925
+            },
+            {
+                "end": 223.365,
+                "word": "I",
+                "start": 223.265
+            },
+            {
+                "end": 223.485,
+                "word": "like",
+                "start": 223.385
+            },
+            {
+                "end": 223.565,
+                "word": "the",
+                "start": 223.505
+            },
+            {
+                "end": 223.745,
+                "word": "Premium",
+                "start": 223.585
+            },
+            {
+                "end": 223.925,
+                "word": "Insights",
+                "start": 223.765
+            },
+            {
+                "end": 224.085,
+                "word": "name",
+                "start": 223.945
+            },
+            {
+                "end": 224.165,
+                "word": "–",
+                "start": 224.105
+            },
+            {
+                "end": 224.285,
+                "word": "it",
+                "start": 224.185
+            },
+            {
+                "end": 224.425,
+                "word": "sounds",
+                "start": 224.305
+            },
+            {
+                "end": 224.585,
+                "word": "more",
+                "start": 224.445
+            },
+            {
+                "end": 224.805,
+                "word": "value-focused",
+                "start": 224.605
+            },
+            {
+                "end": 224.925,
+                "word": "than",
+                "start": 224.825
+            },
+            {
+                "end": 225.045,
+                "word": "just",
+                "start": 224.945
+            },
+            {
+                "end": 225.205,
+                "word": "calling",
+                "start": 225.065
+            },
+            {
+                "end": 225.285,
+                "word": "it",
+                "start": 225.225
+            },
+            {
+                "end": 225.425,
+                "word": "Pro.",
+                "start": 225.305
+            },
+            {
+                "end": 225.725,
+                "word": "And",
+                "start": 225.625
+            },
+            {
+                "end": 225.845,
+                "word": "Sarah",
+                "start": 225.745
+            },
+            {
+                "end": 225.965,
+                "word": "will",
+                "start": 225.865
+            },
+            {
+                "end": 226.105,
+                "word": "definitely",
+                "start": 225.985
+            },
+            {
+                "end": 226.205,
+                "word": "have",
+                "start": 226.125
+            },
+            {
+                "end": 226.325,
+                "word": "good",
+                "start": 226.225
+            },
+            {
+                "end": 226.485,
+                "word": "input",
+                "start": 226.345
+            },
+            {
+                "end": 226.605,
+                "word": "on",
+                "start": 226.505
+            },
+            {
+                "end": 226.685,
+                "word": "the",
+                "start": 226.625
+            },
+            {
+                "end": 226.905,
+                "word": "positioning.",
+                "start": 226.705
+            },
+            {
+                "end": 227.205,
+                "word": "Should",
+                "start": 227.105
+            },
+            {
+                "end": 227.325,
+                "word": "we",
+                "start": 227.225
+            },
+            {
+                "end": 227.485,
+                "word": "schedule",
+                "start": 227.345
+            },
+            {
+                "end": 227.545,
+                "word": "a",
+                "start": 227.505
+            },
+            {
+                "end": 227.705,
+                "word": "follow-up",
+                "start": 227.565
+            },
+            {
+                "end": 227.825,
+                "word": "in",
+                "start": 227.725
+            },
+            {
+                "end": 227.885,
+                "word": "a",
+                "start": 227.845
+            },
+            {
+                "end": 228.005,
+                "word": "couple",
+                "start": 227.905
+            },
+            {
+                "end": 228.085,
+                "word": "of",
+                "start": 228.025
+            },
+            {
+                "end": 228.185,
+                "word": "weeks",
+                "start": 228.105
+            },
+            {
+                "end": 228.305,
+                "word": "to",
+                "start": 228.205
+            },
+            {
+                "end": 228.425,
+                "word": "check",
+                "start": 228.325
+            },
+            {
+                "end": 228.505,
+                "word": "on",
+                "start": 228.445
+            },
+            {
+                "end": 228.625,
+                "word": "our",
+                "start": 228.525
+            },
+            {
+                "end": 228.785,
+                "word": "progress",
+                "start": 228.645
+            },
+            {
+                "end": 228.905,
+                "word": "with",
+                "start": 228.805
+            },
+            {
+                "end": 228.985,
+                "word": "the",
+                "start": 228.925
+            },
+            {
+                "end": 229.125,
+                "word": "mobile",
+                "start": 229.005
+            },
+            {
+                "end": 229.325,
+                "word": "optimization?",
+                "start": 229.145
+            },
+            {
+                "end": 229.625,
+                "word": "That",
+                "start": 229.525
+            },
+            {
+                "end": 229.725,
+                "word": "way",
+                "start": 229.645
+            },
+            {
+                "end": 229.845,
+                "word": "we",
+                "start": 229.745
+            },
+            {
+                "end": 229.945,
+                "word": "can",
+                "start": 229.865
+            },
+            {
+                "end": 230.085,
+                "word": "make",
+                "start": 229.965
+            },
+            {
+                "end": 230.185,
+                "word": "sure",
+                "start": 230.105
+            },
+            {
+                "end": 230.305,
+                "word": "we're",
+                "start": 230.205
+            },
+            {
+                "end": 230.425,
+                "word": "on",
+                "start": 230.325
+            },
+            {
+                "end": 230.545,
+                "word": "track",
+                "start": 230.445
+            },
+            {
+                "end": 230.645,
+                "word": "and",
+                "start": 230.565
+            },
+            {
+                "end": 230.785,
+                "word": "address",
+                "start": 230.665
+            },
+            {
+                "end": 230.885,
+                "word": "any",
+                "start": 230.805
+            },
+            {
+                "end": 231.045,
+                "word": "blockers",
+                "start": 230.905
+            },
+            {
+                "end": 231.185,
+                "word": "early.",
+                "start": 231.065
+            }
+        ],
+        "offset": 222.865,
+        "speaker": "Liam"
+    },
+    {
+        "words": [
+            {
+                "end": 232.005,
+                "word": "Absolutely.",
+                "start": 231.825
+            },
+            {
+                "end": 232.305,
+                "word": "Let's",
+                "start": 232.205
+            },
+            {
+                "end": 232.425,
+                "word": "plan",
+                "start": 232.325
+            },
+            {
+                "end": 232.505,
+                "word": "on",
+                "start": 232.445
+            },
+            {
+                "end": 232.625,
+                "word": "two",
+                "start": 232.525
+            },
+            {
+                "end": 232.745,
+                "word": "weeks",
+                "start": 232.645
+            },
+            {
+                "end": 232.845,
+                "word": "from",
+                "start": 232.765
+            },
+            {
+                "end": 232.985,
+                "word": "today",
+                "start": 232.865
+            },
+            {
+                "end": 233.065,
+                "word": "–",
+                "start": 233.005
+            },
+            {
+                "end": 233.185,
+                "word": "that",
+                "start": 233.085
+            },
+            {
+                "end": 233.285,
+                "word": "gives",
+                "start": 233.205
+            },
+            {
+                "end": 233.405,
+                "word": "us",
+                "start": 233.305
+            },
+            {
+                "end": 233.525,
+                "word": "time",
+                "start": 233.425
+            },
+            {
+                "end": 233.645,
+                "word": "to",
+                "start": 233.545
+            },
+            {
+                "end": 233.765,
+                "word": "make",
+                "start": 233.665
+            },
+            {
+                "end": 233.885,
+                "word": "some",
+                "start": 233.785
+            },
+            {
+                "end": 234.025,
+                "word": "real",
+                "start": 233.905
+            },
+            {
+                "end": 234.185,
+                "word": "progress",
+                "start": 234.045
+            },
+            {
+                "end": 234.305,
+                "word": "on",
+                "start": 234.205
+            },
+            {
+                "end": 234.425,
+                "word": "the",
+                "start": 234.325
+            },
+            {
+                "end": 234.565,
+                "word": "mobile",
+                "start": 234.445
+            },
+            {
+                "end": 234.745,
+                "word": "front.",
+                "start": 234.585
+            },
+            {
+                "end": 235.045,
+                "word": "This",
+                "start": 234.945
+            },
+            {
+                "end": 235.165,
+                "word": "has",
+                "start": 235.065
+            },
+            {
+                "end": 235.265,
+                "word": "been",
+                "start": 235.185
+            },
+            {
+                "end": 235.325,
+                "word": "a",
+                "start": 235.285
+            },
+            {
+                "end": 235.485,
+                "word": "really",
+                "start": 235.345
+            },
+            {
+                "end": 235.705,
+                "word": "productive",
+                "start": 235.505
+            },
+            {
+                "end": 235.925,
+                "word": "discussion,",
+                "start": 235.725
+            },
+            {
+                "end": 236.165,
+                "word": "Liam.",
+                "start": 236.045
+            },
+            {
+                "end": 236.465,
+                "word": "I",
+                "start": 236.365
+            },
+            {
+                "end": 236.565,
+                "word": "feel",
+                "start": 236.485
+            },
+            {
+                "end": 236.725,
+                "word": "confident",
+                "start": 236.585
+            },
+            {
+                "end": 236.865,
+                "word": "about",
+                "start": 236.745
+            },
+            {
+                "end": 236.985,
+                "word": "our",
+                "start": 236.885
+            },
+            {
+                "end": 237.125,
+                "word": "roadmap",
+                "start": 237.005
+            },
+            {
+                "end": 237.245,
+                "word": "and",
+                "start": 237.145
+            },
+            {
+                "end": 237.385,
+                "word": "excited",
+                "start": 237.265
+            },
+            {
+                "end": 237.505,
+                "word": "to",
+                "start": 237.405
+            },
+            {
+                "end": 237.605,
+                "word": "see",
+                "start": 237.525
+            },
+            {
+                "end": 237.705,
+                "word": "the",
+                "start": 237.625
+            },
+            {
+                "end": 237.865,
+                "word": "impact",
+                "start": 237.725
+            },
+            {
+                "end": 237.985,
+                "word": "these",
+                "start": 237.885
+            },
+            {
+                "end": 238.145,
+                "word": "changes",
+                "start": 238.005
+            },
+            {
+                "end": 238.245,
+                "word": "will",
+                "start": 238.165
+            },
+            {
+                "end": 238.345,
+                "word": "have",
+                "start": 238.265
+            },
+            {
+                "end": 238.465,
+                "word": "on",
+                "start": 238.365
+            },
+            {
+                "end": 238.585,
+                "word": "our",
+                "start": 238.485
+            },
+            {
+                "end": 238.705,
+                "word": "user",
+                "start": 238.605
+            },
+            {
+                "end": 238.925,
+                "word": "satisfaction",
+                "start": 238.725
+            },
+            {
+                "end": 239.045,
+                "word": "and",
+                "start": 238.945
+            },
+            {
+                "end": 239.205,
+                "word": "revenue",
+                "start": 239.065
+            },
+            {
+                "end": 239.385,
+                "word": "targets.",
+                "start": 239.225
+            },
+            {
+                "end": 239.685,
+                "word": "Let's",
+                "start": 239.585
+            },
+            {
+                "end": 239.785,
+                "word": "get",
+                "start": 239.705
+            },
+            {
+                "end": 239.925,
+                "word": "started",
+                "start": 239.805
+            },
+            {
+                "end": 240.005,
+                "word": "on",
+                "start": 239.945
+            },
+            {
+                "end": 240.165,
+                "word": "implementation.",
+                "start": 240.025
+            }
+        ],
+        "offset": 231.765,
+        "speaker": "Gowreesh Simhadri"
+    }
+]

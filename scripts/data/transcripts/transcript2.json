@@ -1,0 +1,4506 @@
+[
+    {
+        "words": [
+            {
+                "end": 2.445,
+                "word": "Good",
+                "start": 2.245
+            },
+            {
+                "end": 2.685,
+                "word": "morning",
+                "start": 2.465
+            },
+            {
+                "end": 3.025,
+                "word": "Lizzy,",
+                "start": 2.705
+            },
+            {
+                "end": 3.385,
+                "word": "thanks",
+                "start": 3.165
+            },
+            {
+                "end": 3.545,
+                "word": "for",
+                "start": 3.405
+            },
+            {
+                "end": 3.785,
+                "word": "joining",
+                "start": 3.565
+            },
+            {
+                "end": 3.945,
+                "word": "me",
+                "start": 3.805
+            },
+            {
+                "end": 4.165,
+                "word": "today.",
+                "start": 3.965
+            },
+            {
+                "end": 4.465,
+                "word": "As",
+                "start": 4.345
+            },
+            {
+                "end": 4.625,
+                "word": "we",
+                "start": 4.485
+            },
+            {
+                "end": 5.005,
+                "word": "discussed",
+                "start": 4.645
+            },
+            {
+                "end": 5.385,
+                "word": "yesterday,",
+                "start": 5.025
+            },
+            {
+                "end": 5.665,
+                "word": "we",
+                "start": 5.545
+            },
+            {
+                "end": 5.845,
+                "word": "need",
+                "start": 5.685
+            },
+            {
+                "end": 5.985,
+                "word": "to",
+                "start": 5.865
+            },
+            {
+                "end": 6.345,
+                "word": "seriously",
+                "start": 6.005
+            },
+            {
+                "end": 6.645,
+                "word": "discuss",
+                "start": 6.365
+            },
+            {
+                "end": 6.825,
+                "word": "our",
+                "start": 6.665
+            },
+            {
+                "end": 7.165,
+                "word": "hiring",
+                "start": 6.845
+            },
+            {
+                "end": 7.425,
+                "word": "plans",
+                "start": 7.185
+            },
+            {
+                "end": 7.565,
+                "word": "for",
+                "start": 7.445
+            },
+            {
+                "end": 7.745,
+                "word": "the",
+                "start": 7.585
+            },
+            {
+                "end": 7.985,
+                "word": "next",
+                "start": 7.765
+            },
+            {
+                "end": 8.405,
+                "word": "quarter.",
+                "start": 8.005
+            },
+            {
+                "end": 8.805,
+                "word": "Our",
+                "start": 8.665
+            },
+            {
+                "end": 9.125,
+                "word": "current",
+                "start": 8.825
+            },
+            {
+                "end": 9.345,
+                "word": "team",
+                "start": 9.145
+            },
+            {
+                "end": 9.485,
+                "word": "is",
+                "start": 9.365
+            },
+            {
+                "end": 10.005,
+                "word": "overwhelmed",
+                "start": 9.505
+            },
+            {
+                "end": 10.145,
+                "word": "with",
+                "start": 10.025
+            },
+            {
+                "end": 10.285,
+                "word": "the",
+                "start": 10.165
+            },
+            {
+                "end": 10.625,
+                "word": "increasing",
+                "start": 10.305
+            },
+            {
+                "end": 10.945,
+                "word": "workload,",
+                "start": 10.645
+            },
+            {
+                "end": 11.185,
+                "word": "and",
+                "start": 11.065
+            },
+            {
+                "end": 11.325,
+                "word": "we",
+                "start": 11.205
+            },
+            {
+                "end": 11.565,
+                "word": "really",
+                "start": 11.345
+            },
+            {
+                "end": 11.745,
+                "word": "need",
+                "start": 11.585
+            },
+            {
+                "end": 11.885,
+                "word": "to",
+                "start": 11.765
+            },
+            {
+                "end": 12.185,
+                "word": "expand",
+                "start": 11.905
+            },
+            {
+                "end": 12.385,
+                "word": "our",
+                "start": 12.205
+            },
+            {
+                "end": 12.785,
+                "word": "workforce",
+                "start": 12.405
+            },
+            {
+                "end": 13.185,
+                "word": "strategically.",
+                "start": 12.805
+            },
+            {
+                "end": 13.605,
+                "word": "I've",
+                "start": 13.485
+            },
+            {
+                "end": 13.785,
+                "word": "been",
+                "start": 13.625
+            },
+            {
+                "end": 14.085,
+                "word": "thinking",
+                "start": 13.805
+            },
+            {
+                "end": 14.245,
+                "word": "we",
+                "start": 14.105
+            },
+            {
+                "end": 14.425,
+                "word": "need",
+                "start": 14.265
+            },
+            {
+                "end": 14.545,
+                "word": "at",
+                "start": 14.445
+            },
+            {
+                "end": 14.725,
+                "word": "least",
+                "start": 14.565
+            },
+            {
+                "end": 14.905,
+                "word": "five",
+                "start": 14.745
+            },
+            {
+                "end": 15.085,
+                "word": "new",
+                "start": 14.925
+            },
+            {
+                "end": 15.305,
+                "word": "hires",
+                "start": 15.105
+            },
+            {
+                "end": 15.485,
+                "word": "across",
+                "start": 15.325
+            },
+            {
+                "end": 15.785,
+                "word": "different",
+                "start": 15.505
+            },
+            {
+                "end": 16.245,
+                "word": "departments.",
+                "start": 15.805
+            },
+            {
+                "end": 16.665,
+                "word": "What",
+                "start": 16.545
+            },
+            {
+                "end": 16.805,
+                "word": "are",
+                "start": 16.685
+            },
+            {
+                "end": 16.945,
+                "word": "your",
+                "start": 16.825
+            },
+            {
+                "end": 17.225,
+                "word": "thoughts",
+                "start": 16.965
+            },
+            {
+                "end": 17.345,
+                "word": "on",
+                "start": 17.245
+            },
+            {
+                "end": 17.565,
+                "word": "this?",
+                "start": 17.365
+            }
+        ],
+        "offset": 2.145,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 18.345,
+                "word": "Good",
+                "start": 18.185
+            },
+            {
+                "end": 18.605,
+                "word": "morning",
+                "start": 18.365
+            },
+            {
+                "end": 19.005,
+                "word": "Gowreesh.",
+                "start": 18.625
+            },
+            {
+                "end": 19.345,
+                "word": "I",
+                "start": 19.225
+            },
+            {
+                "end": 19.785,
+                "word": "completely",
+                "start": 19.365
+            },
+            {
+                "end": 20.045,
+                "word": "agree",
+                "start": 19.805
+            },
+            {
+                "end": 20.185,
+                "word": "that",
+                "start": 20.065
+            },
+            {
+                "end": 20.325,
+                "word": "we",
+                "start": 20.205
+            },
+            {
+                "end": 20.485,
+                "word": "need",
+                "start": 20.345
+            },
+            {
+                "end": 20.605,
+                "word": "to",
+                "start": 20.505
+            },
+            {
+                "end": 20.885,
+                "word": "expand",
+                "start": 20.625
+            },
+            {
+                "end": 21.025,
+                "word": "our",
+                "start": 20.905
+            },
+            {
+                "end": 21.245,
+                "word": "team",
+                "start": 21.045
+            },
+            {
+                "end": 21.765,
+                "word": "urgently.",
+                "start": 21.265
+            },
+            {
+                "end": 22.165,
+                "word": "From",
+                "start": 22.025
+            },
+            {
+                "end": 22.285,
+                "word": "my",
+                "start": 22.185
+            },
+            {
+                "end": 22.725,
+                "word": "analysis",
+                "start": 22.305
+            },
+            {
+                "end": 22.865,
+                "word": "of",
+                "start": 22.745
+            },
+            {
+                "end": 23.025,
+                "word": "our",
+                "start": 22.885
+            },
+            {
+                "end": 23.325,
+                "word": "current",
+                "start": 23.045
+            },
+            {
+                "end": 23.665,
+                "word": "workload",
+                "start": 23.345
+            },
+            {
+                "end": 23.825,
+                "word": "and",
+                "start": 23.685
+            },
+            {
+                "end": 24.185,
+                "word": "upcoming",
+                "start": 23.845
+            },
+            {
+                "end": 24.525,
+                "word": "projects,",
+                "start": 24.205
+            },
+            {
+                "end": 24.845,
+                "word": "I",
+                "start": 24.725
+            },
+            {
+                "end": 25.025,
+                "word": "think",
+                "start": 24.865
+            },
+            {
+                "end": 25.165,
+                "word": "we",
+                "start": 25.045
+            },
+            {
+                "end": 25.385,
+                "word": "should",
+                "start": 25.185
+            },
+            {
+                "end": 25.725,
+                "word": "prioritize",
+                "start": 25.405
+            },
+            {
+                "end": 25.925,
+                "word": "three",
+                "start": 25.745
+            },
+            {
+                "end": 26.085,
+                "word": "key",
+                "start": 25.945
+            },
+            {
+                "end": 26.345,
+                "word": "areas.",
+                "start": 26.105
+            },
+            {
+                "end": 26.745,
+                "word": "First,",
+                "start": 26.565
+            },
+            {
+                "end": 27.005,
+                "word": "we",
+                "start": 26.885
+            },
+            {
+                "end": 27.305,
+                "word": "desperately",
+                "start": 27.025
+            },
+            {
+                "end": 27.465,
+                "word": "need",
+                "start": 27.325
+            },
+            {
+                "end": 27.585,
+                "word": "a",
+                "start": 27.485
+            },
+            {
+                "end": 27.785,
+                "word": "senior",
+                "start": 27.605
+            },
+            {
+                "end": 28.125,
+                "word": "software",
+                "start": 27.805
+            },
+            {
+                "end": 28.485,
+                "word": "engineer",
+                "start": 28.145
+            },
+            {
+                "end": 28.625,
+                "word": "with",
+                "start": 28.505
+            },
+            {
+                "end": 28.745,
+                "word": "at",
+                "start": 28.645
+            },
+            {
+                "end": 28.885,
+                "word": "least",
+                "start": 28.765
+            },
+            {
+                "end": 29.085,
+                "word": "five",
+                "start": 28.905
+            },
+            {
+                "end": 29.245,
+                "word": "years",
+                "start": 29.105
+            },
+            {
+                "end": 29.365,
+                "word": "of",
+                "start": 29.265
+            },
+            {
+                "end": 29.745,
+                "word": "experience",
+                "start": 29.385
+            },
+            {
+                "end": 29.865,
+                "word": "in",
+                "start": 29.765
+            },
+            {
+                "end": 30.185,
+                "word": "React",
+                "start": 29.885
+            },
+            {
+                "end": 30.325,
+                "word": "and",
+                "start": 30.205
+            },
+            {
+                "end": 30.605,
+                "word": "Node.js.",
+                "start": 30.345
+            },
+            {
+                "end": 31.065,
+                "word": "Second,",
+                "start": 30.825
+            },
+            {
+                "end": 31.305,
+                "word": "we",
+                "start": 31.205
+            },
+            {
+                "end": 31.485,
+                "word": "need",
+                "start": 31.325
+            },
+            {
+                "end": 31.585,
+                "word": "a",
+                "start": 31.505
+            },
+            {
+                "end": 31.825,
+                "word": "product",
+                "start": 31.605
+            },
+            {
+                "end": 32.125,
+                "word": "manager",
+                "start": 31.845
+            },
+            {
+                "end": 32.245,
+                "word": "to",
+                "start": 32.145
+            },
+            {
+                "end": 32.465,
+                "word": "bridge",
+                "start": 32.265
+            },
+            {
+                "end": 32.605,
+                "word": "the",
+                "start": 32.485
+            },
+            {
+                "end": 32.745,
+                "word": "gap",
+                "start": 32.625
+            },
+            {
+                "end": 33.045,
+                "word": "between",
+                "start": 32.765
+            },
+            {
+                "end": 33.225,
+                "word": "our",
+                "start": 33.065
+            },
+            {
+                "end": 33.525,
+                "word": "technical",
+                "start": 33.245
+            },
+            {
+                "end": 33.685,
+                "word": "team",
+                "start": 33.545
+            },
+            {
+                "end": 33.825,
+                "word": "and",
+                "start": 33.705
+            },
+            {
+                "end": 34.165,
+                "word": "business",
+                "start": 33.845
+            },
+            {
+                "end": 34.585,
+                "word": "stakeholders.",
+                "start": 34.185
+            },
+            {
+                "end": 34.905,
+                "word": "And",
+                "start": 34.785
+            },
+            {
+                "end": 35.085,
+                "word": "third,",
+                "start": 34.925
+            },
+            {
+                "end": 35.325,
+                "word": "we",
+                "start": 35.225
+            },
+            {
+                "end": 35.485,
+                "word": "need",
+                "start": 35.345
+            },
+            {
+                "end": 35.605,
+                "word": "a",
+                "start": 35.505
+            },
+            {
+                "end": 35.885,
+                "word": "dedicated",
+                "start": 35.625
+            },
+            {
+                "end": 36.285,
+                "word": "DevOps",
+                "start": 35.905
+            },
+            {
+                "end": 36.625,
+                "word": "engineer",
+                "start": 36.305
+            },
+            {
+                "end": 36.745,
+                "word": "to",
+                "start": 36.645
+            },
+            {
+                "end": 37.065,
+                "word": "improve",
+                "start": 36.765
+            },
+            {
+                "end": 37.225,
+                "word": "our",
+                "start": 37.085
+            },
+            {
+                "end": 37.665,
+                "word": "deployment",
+                "start": 37.245
+            },
+            {
+                "end": 37.985,
+                "word": "pipeline",
+                "start": 37.685
+            },
+            {
+                "end": 38.125,
+                "word": "and",
+                "start": 38.005
+            },
+            {
+                "end": 38.645,
+                "word": "infrastructure",
+                "start": 38.145
+            },
+            {
+                "end": 39.105,
+                "word": "reliability.",
+                "start": 38.665
+            }
+        ],
+        "offset": 18.125,
+        "speaker": "Lizzy"
+    },
+    {
+        "words": [
+            {
+                "end": 39.905,
+                "word": "Those",
+                "start": 39.745
+            },
+            {
+                "end": 40.045,
+                "word": "are",
+                "start": 39.925
+            },
+            {
+                "end": 40.385,
+                "word": "excellent",
+                "start": 40.065
+            },
+            {
+                "end": 40.745,
+                "word": "priorities,",
+                "start": 40.405
+            },
+            {
+                "end": 41.085,
+                "word": "Lizzy.",
+                "start": 40.885
+            },
+            {
+                "end": 41.385,
+                "word": "I",
+                "start": 41.285
+            },
+            {
+                "end": 41.785,
+                "word": "particularly",
+                "start": 41.405
+            },
+            {
+                "end": 42.025,
+                "word": "agree",
+                "start": 41.805
+            },
+            {
+                "end": 42.185,
+                "word": "with",
+                "start": 42.045
+            },
+            {
+                "end": 42.305,
+                "word": "the",
+                "start": 42.205
+            },
+            {
+                "end": 42.505,
+                "word": "senior",
+                "start": 42.325
+            },
+            {
+                "end": 42.825,
+                "word": "engineer",
+                "start": 42.525
+            },
+            {
+                "end": 43.205,
+                "word": "requirement.",
+                "start": 42.845
+            },
+            {
+                "end": 43.525,
+                "word": "Our",
+                "start": 43.405
+            },
+            {
+                "end": 43.805,
+                "word": "current",
+                "start": 43.545
+            },
+            {
+                "end": 44.045,
+                "word": "team",
+                "start": 43.825
+            },
+            {
+                "end": 44.165,
+                "word": "is",
+                "start": 44.065
+            },
+            {
+                "end": 44.605,
+                "word": "struggling",
+                "start": 44.185
+            },
+            {
+                "end": 44.745,
+                "word": "with",
+                "start": 44.625
+            },
+            {
+                "end": 44.885,
+                "word": "the",
+                "start": 44.765
+            },
+            {
+                "end": 45.305,
+                "word": "complexity",
+                "start": 44.905
+            },
+            {
+                "end": 45.445,
+                "word": "of",
+                "start": 45.325
+            },
+            {
+                "end": 45.585,
+                "word": "our",
+                "start": 45.465
+            },
+            {
+                "end": 45.785,
+                "word": "new",
+                "start": 45.605
+            },
+            {
+                "end": 46.285,
+                "word": "microservices",
+                "start": 45.805
+            },
+            {
+                "end": 46.805,
+                "word": "architecture.",
+                "start": 46.305
+            },
+            {
+                "end": 47.185,
+                "word": "For",
+                "start": 47.085
+            },
+            {
+                "end": 47.305,
+                "word": "the",
+                "start": 47.205
+            },
+            {
+                "end": 47.525,
+                "word": "senior",
+                "start": 47.325
+            },
+            {
+                "end": 47.845,
+                "word": "engineer",
+                "start": 47.545
+            },
+            {
+                "end": 48.085,
+                "word": "role,",
+                "start": 47.865
+            },
+            {
+                "end": 48.325,
+                "word": "I",
+                "start": 48.225
+            },
+            {
+                "end": 48.485,
+                "word": "think",
+                "start": 48.345
+            },
+            {
+                "end": 48.605,
+                "word": "we",
+                "start": 48.505
+            },
+            {
+                "end": 48.785,
+                "word": "should",
+                "start": 48.625
+            },
+            {
+                "end": 48.925,
+                "word": "be",
+                "start": 48.805
+            },
+            {
+                "end": 49.145,
+                "word": "looking",
+                "start": 48.945
+            },
+            {
+                "end": 49.265,
+                "word": "at",
+                "start": 49.165
+            },
+            {
+                "end": 49.625,
+                "word": "candidates",
+                "start": 49.285
+            },
+            {
+                "end": 49.745,
+                "word": "with",
+                "start": 49.645
+            },
+            {
+                "end": 49.985,
+                "word": "seven",
+                "start": 49.765
+            },
+            {
+                "end": 50.125,
+                "word": "to",
+                "start": 50.005
+            },
+            {
+                "end": 50.285,
+                "word": "ten",
+                "start": 50.145
+            },
+            {
+                "end": 50.445,
+                "word": "years",
+                "start": 50.305
+            },
+            {
+                "end": 50.565,
+                "word": "of",
+                "start": 50.465
+            },
+            {
+                "end": 50.985,
+                "word": "experience,",
+                "start": 50.585
+            },
+            {
+                "end": 51.485,
+                "word": "specifically",
+                "start": 51.125
+            },
+            {
+                "end": 51.625,
+                "word": "with",
+                "start": 51.505
+            },
+            {
+                "end": 52.005,
+                "word": "TypeScript,",
+                "start": 51.645
+            },
+            {
+                "end": 52.305,
+                "word": "React,",
+                "start": 52.125
+            },
+            {
+                "end": 52.625,
+                "word": "Node.js,",
+                "start": 52.425
+            },
+            {
+                "end": 52.845,
+                "word": "and",
+                "start": 52.745
+            },
+            {
+                "end": 53.305,
+                "word": "PostgreSQL.",
+                "start": 52.865
+            },
+            {
+                "end": 53.625,
+                "word": "We",
+                "start": 53.525
+            },
+            {
+                "end": 53.765,
+                "word": "also",
+                "start": 53.645
+            },
+            {
+                "end": 53.905,
+                "word": "need",
+                "start": 53.785
+            },
+            {
+                "end": 54.165,
+                "word": "someone",
+                "start": 53.925
+            },
+            {
+                "end": 54.285,
+                "word": "who",
+                "start": 54.185
+            },
+            {
+                "end": 54.425,
+                "word": "has",
+                "start": 54.305
+            },
+            {
+                "end": 54.845,
+                "word": "experience",
+                "start": 54.445
+            },
+            {
+                "end": 54.985,
+                "word": "with",
+                "start": 54.865
+            },
+            {
+                "end": 55.165,
+                "word": "cloud",
+                "start": 55.005
+            },
+            {
+                "end": 55.585,
+                "word": "platforms,",
+                "start": 55.185
+            },
+            {
+                "end": 56.085,
+                "word": "preferably",
+                "start": 55.705
+            },
+            {
+                "end": 56.245,
+                "word": "AWS",
+                "start": 56.105
+            },
+            {
+                "end": 56.365,
+                "word": "or",
+                "start": 56.265
+            },
+            {
+                "end": 56.645,
+                "word": "Azure.",
+                "start": 56.385
+            },
+            {
+                "end": 56.965,
+                "word": "What",
+                "start": 56.845
+            },
+            {
+                "end": 57.125,
+                "word": "kind",
+                "start": 56.985
+            },
+            {
+                "end": 57.245,
+                "word": "of",
+                "start": 57.145
+            },
+            {
+                "end": 57.485,
+                "word": "salary",
+                "start": 57.265
+            },
+            {
+                "end": 57.665,
+                "word": "range",
+                "start": 57.505
+            },
+            {
+                "end": 57.785,
+                "word": "are",
+                "start": 57.685
+            },
+            {
+                "end": 57.905,
+                "word": "we",
+                "start": 57.805
+            },
+            {
+                "end": 58.185,
+                "word": "thinking",
+                "start": 57.925
+            },
+            {
+                "end": 58.325,
+                "word": "for",
+                "start": 58.205
+            },
+            {
+                "end": 58.485,
+                "word": "this",
+                "start": 58.345
+            },
+            {
+                "end": 58.745,
+                "word": "role?",
+                "start": 58.505
+            }
+        ],
+        "offset": 39.685,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 59.525,
+                "word": "Based",
+                "start": 59.385
+            },
+            {
+                "end": 59.645,
+                "word": "on",
+                "start": 59.545
+            },
+            {
+                "end": 59.785,
+                "word": "my",
+                "start": 59.665
+            },
+            {
+                "end": 60.125,
+                "word": "research",
+                "start": 59.805
+            },
+            {
+                "end": 60.245,
+                "word": "of",
+                "start": 60.145
+            },
+            {
+                "end": 60.405,
+                "word": "the",
+                "start": 60.265
+            },
+            {
+                "end": 60.665,
+                "word": "current",
+                "start": 60.425
+            },
+            {
+                "end": 60.885,
+                "word": "market",
+                "start": 60.685
+            },
+            {
+                "end": 61.245,
+                "word": "rates",
+                "start": 60.905
+            },
+            {
+                "end": 61.365,
+                "word": "in",
+                "start": 61.265
+            },
+            {
+                "end": 61.525,
+                "word": "our",
+                "start": 61.385
+            },
+            {
+                "end": 61.705,
+                "word": "area,",
+                "start": 61.545
+            },
+            {
+                "end": 61.945,
+                "word": "for",
+                "start": 61.845
+            },
+            {
+                "end": 62.065,
+                "word": "a",
+                "start": 61.965
+            },
+            {
+                "end": 62.245,
+                "word": "senior",
+                "start": 62.085
+            },
+            {
+                "end": 62.525,
+                "word": "engineer",
+                "start": 62.265
+            },
+            {
+                "end": 62.645,
+                "word": "with",
+                "start": 62.545
+            },
+            {
+                "end": 62.825,
+                "word": "seven",
+                "start": 62.665
+            },
+            {
+                "end": 62.945,
+                "word": "to",
+                "start": 62.845
+            },
+            {
+                "end": 63.085,
+                "word": "ten",
+                "start": 62.965
+            },
+            {
+                "end": 63.245,
+                "word": "years",
+                "start": 63.105
+            },
+            {
+                "end": 63.365,
+                "word": "of",
+                "start": 63.265
+            },
+            {
+                "end": 63.785,
+                "word": "experience,",
+                "start": 63.385
+            },
+            {
+                "end": 64.025,
+                "word": "we",
+                "start": 63.925
+            },
+            {
+                "end": 64.205,
+                "word": "should",
+                "start": 64.045
+            },
+            {
+                "end": 64.325,
+                "word": "be",
+                "start": 64.225
+            },
+            {
+                "end": 64.585,
+                "word": "looking",
+                "start": 64.345
+            },
+            {
+                "end": 64.705,
+                "word": "at",
+                "start": 64.605
+            },
+            {
+                "end": 64.825,
+                "word": "a",
+                "start": 64.725
+            },
+            {
+                "end": 65.085,
+                "word": "range",
+                "start": 64.845
+            },
+            {
+                "end": 65.205,
+                "word": "of",
+                "start": 65.105
+            },
+            {
+                "end": 65.525,
+                "word": "ninety",
+                "start": 65.225
+            },
+            {
+                "end": 65.745,
+                "word": "thousand",
+                "start": 65.545
+            },
+            {
+                "end": 65.865,
+                "word": "to",
+                "start": 65.765
+            },
+            {
+                "end": 66.125,
+                "word": "one",
+                "start": 65.885
+            },
+            {
+                "end": 66.385,
+                "word": "hundred",
+                "start": 66.145
+            },
+            {
+                "end": 66.565,
+                "word": "and",
+                "start": 66.405
+            },
+            {
+                "end": 66.785,
+                "word": "twenty",
+                "start": 66.585
+            },
+            {
+                "end": 67.125,
+                "word": "thousand",
+                "start": 66.805
+            },
+            {
+                "end": 67.385,
+                "word": "dollars",
+                "start": 67.145
+            },
+            {
+                "end": 67.505,
+                "word": "per",
+                "start": 67.405
+            },
+            {
+                "end": 67.725,
+                "word": "year,",
+                "start": 67.525
+            },
+            {
+                "end": 68.085,
+                "word": "depending",
+                "start": 67.845
+            },
+            {
+                "end": 68.205,
+                "word": "on",
+                "start": 68.105
+            },
+            {
+                "end": 68.365,
+                "word": "their",
+                "start": 68.225
+            },
+            {
+                "end": 68.685,
+                "word": "specific",
+                "start": 68.385
+            },
+            {
+                "end": 69.045,
+                "word": "expertise",
+                "start": 68.705
+            },
+            {
+                "end": 69.165,
+                "word": "and",
+                "start": 69.065
+            },
+            {
+                "end": 69.545,
+                "word": "portfolio.",
+                "start": 69.185
+            },
+            {
+                "end": 69.845,
+                "word": "For",
+                "start": 69.745
+            },
+            {
+                "end": 69.965,
+                "word": "the",
+                "start": 69.865
+            },
+            {
+                "end": 70.185,
+                "word": "product",
+                "start": 69.985
+            },
+            {
+                "end": 70.485,
+                "word": "manager",
+                "start": 70.205
+            },
+            {
+                "end": 70.685,
+                "word": "role,",
+                "start": 70.505
+            },
+            {
+                "end": 70.925,
+                "word": "I",
+                "start": 70.825
+            },
+            {
+                "end": 71.105,
+                "word": "suggest",
+                "start": 70.945
+            },
+            {
+                "end": 71.225,
+                "word": "we",
+                "start": 71.125
+            },
+            {
+                "end": 71.385,
+                "word": "look",
+                "start": 71.245
+            },
+            {
+                "end": 71.505,
+                "word": "for",
+                "start": 71.405
+            },
+            {
+                "end": 71.805,
+                "word": "someone",
+                "start": 71.525
+            },
+            {
+                "end": 71.925,
+                "word": "with",
+                "start": 71.825
+            },
+            {
+                "end": 72.085,
+                "word": "three",
+                "start": 71.945
+            },
+            {
+                "end": 72.205,
+                "word": "to",
+                "start": 72.105
+            },
+            {
+                "end": 72.365,
+                "word": "five",
+                "start": 72.225
+            },
+            {
+                "end": 72.525,
+                "word": "years",
+                "start": 72.385
+            },
+            {
+                "end": 72.645,
+                "word": "of",
+                "start": 72.545
+            },
+            {
+                "end": 72.965,
+                "word": "experience",
+                "start": 72.665
+            },
+            {
+                "end": 73.085,
+                "word": "in",
+                "start": 72.985
+            },
+            {
+                "end": 73.265,
+                "word": "tech",
+                "start": 73.105
+            },
+            {
+                "end": 73.565,
+                "word": "product",
+                "start": 73.285
+            },
+            {
+                "end": 74.045,
+                "word": "management,",
+                "start": 73.585
+            },
+            {
+                "end": 74.485,
+                "word": "preferably",
+                "start": 74.185
+            },
+            {
+                "end": 74.605,
+                "word": "in",
+                "start": 74.505
+            },
+            {
+                "end": 74.725,
+                "word": "a",
+                "start": 74.625
+            },
+            {
+                "end": 75.025,
+                "word": "startup",
+                "start": 74.745
+            },
+            {
+                "end": 75.205,
+                "word": "or",
+                "start": 75.045
+            },
+            {
+                "end": 75.525,
+                "word": "fast-paced",
+                "start": 75.225
+            },
+            {
+                "end": 75.965,
+                "word": "environment.",
+                "start": 75.545
+            },
+            {
+                "end": 76.265,
+                "word": "The",
+                "start": 76.165
+            },
+            {
+                "end": 76.485,
+                "word": "salary",
+                "start": 76.285
+            },
+            {
+                "end": 76.665,
+                "word": "range",
+                "start": 76.505
+            },
+            {
+                "end": 76.785,
+                "word": "for",
+                "start": 76.685
+            },
+            {
+                "end": 76.925,
+                "word": "this",
+                "start": 76.805
+            },
+            {
+                "end": 77.085,
+                "word": "role",
+                "start": 76.945
+            },
+            {
+                "end": 77.245,
+                "word": "should",
+                "start": 77.105
+            },
+            {
+                "end": 77.365,
+                "word": "be",
+                "start": 77.265
+            },
+            {
+                "end": 77.645,
+                "word": "around",
+                "start": 77.385
+            },
+            {
+                "end": 77.945,
+                "word": "seventy",
+                "start": 77.665
+            },
+            {
+                "end": 78.165,
+                "word": "thousand",
+                "start": 77.965
+            },
+            {
+                "end": 78.285,
+                "word": "to",
+                "start": 78.185
+            },
+            {
+                "end": 78.545,
+                "word": "ninety",
+                "start": 78.305
+            },
+            {
+                "end": 78.805,
+                "word": "thousand",
+                "start": 78.565
+            },
+            {
+                "end": 79.085,
+                "word": "dollars",
+                "start": 78.825
+            },
+            {
+                "end": 79.205,
+                "word": "per",
+                "start": 79.105
+            },
+            {
+                "end": 79.425,
+                "word": "year.",
+                "start": 79.225
+            }
+        ],
+        "offset": 59.325,
+        "speaker": "Lizzy"
+    },
+    {
+        "words": [
+            {
+                "end": 80.245,
+                "word": "Those",
+                "start": 80.065
+            },
+            {
+                "end": 80.485,
+                "word": "salary",
+                "start": 80.265
+            },
+            {
+                "end": 80.705,
+                "word": "ranges",
+                "start": 80.505
+            },
+            {
+                "end": 80.865,
+                "word": "seem",
+                "start": 80.725
+            },
+            {
+                "end": 81.225,
+                "word": "reasonable",
+                "start": 80.885
+            },
+            {
+                "end": 81.345,
+                "word": "and",
+                "start": 81.245
+            },
+            {
+                "end": 81.705,
+                "word": "competitive",
+                "start": 81.365
+            },
+            {
+                "end": 81.825,
+                "word": "for",
+                "start": 81.725
+            },
+            {
+                "end": 81.985,
+                "word": "our",
+                "start": 81.845
+            },
+            {
+                "end": 82.245,
+                "word": "market.",
+                "start": 82.005
+            },
+            {
+                "end": 82.585,
+                "word": "Now,",
+                "start": 82.445
+            },
+            {
+                "end": 82.825,
+                "word": "let's",
+                "start": 82.705
+            },
+            {
+                "end": 82.985,
+                "word": "talk",
+                "start": 82.845
+            },
+            {
+                "end": 83.165,
+                "word": "about",
+                "start": 83.005
+            },
+            {
+                "end": 83.285,
+                "word": "the",
+                "start": 83.185
+            },
+            {
+                "end": 83.525,
+                "word": "DevOps",
+                "start": 83.305
+            },
+            {
+                "end": 83.825,
+                "word": "engineer",
+                "start": 83.545
+            },
+            {
+                "end": 84.085,
+                "word": "position.",
+                "start": 83.845
+            },
+            {
+                "end": 84.385,
+                "word": "This",
+                "start": 84.285
+            },
+            {
+                "end": 84.505,
+                "word": "is",
+                "start": 84.405
+            },
+            {
+                "end": 84.865,
+                "word": "particularly",
+                "start": 84.525
+            },
+            {
+                "end": 85.145,
+                "word": "critical",
+                "start": 84.885
+            },
+            {
+                "end": 85.325,
+                "word": "because",
+                "start": 85.165
+            },
+            {
+                "end": 85.445,
+                "word": "our",
+                "start": 85.345
+            },
+            {
+                "end": 85.705,
+                "word": "current",
+                "start": 85.465
+            },
+            {
+                "end": 86.085,
+                "word": "deployment",
+                "start": 85.725
+            },
+            {
+                "end": 86.385,
+                "word": "process",
+                "start": 86.105
+            },
+            {
+                "end": 86.505,
+                "word": "is",
+                "start": 86.405
+            },
+            {
+                "end": 86.825,
+                "word": "extremely",
+                "start": 86.525
+            },
+            {
+                "end": 87.245,
+                "word": "time-consuming",
+                "start": 86.845
+            },
+            {
+                "end": 87.365,
+                "word": "and",
+                "start": 87.265
+            },
+            {
+                "end": 87.625,
+                "word": "error-prone.",
+                "start": 87.385
+            },
+            {
+                "end": 87.925,
+                "word": "We're",
+                "start": 87.825
+            },
+            {
+                "end": 88.165,
+                "word": "spending",
+                "start": 87.945
+            },
+            {
+                "end": 88.345,
+                "word": "almost",
+                "start": 88.185
+            },
+            {
+                "end": 88.525,
+                "word": "thirty",
+                "start": 88.365
+            },
+            {
+                "end": 88.745,
+                "word": "percent",
+                "start": 88.545
+            },
+            {
+                "end": 88.865,
+                "word": "of",
+                "start": 88.765
+            },
+            {
+                "end": 89.025,
+                "word": "our",
+                "start": 88.885
+            },
+            {
+                "end": 89.365,
+                "word": "engineering",
+                "start": 89.045
+            },
+            {
+                "end": 89.545,
+                "word": "time",
+                "start": 89.385
+            },
+            {
+                "end": 89.665,
+                "word": "on",
+                "start": 89.565
+            },
+            {
+                "end": 90.025,
+                "word": "deployment",
+                "start": 89.685
+            },
+            {
+                "end": 90.185,
+                "word": "and",
+                "start": 90.045
+            },
+            {
+                "end": 90.665,
+                "word": "infrastructure",
+                "start": 90.205
+            },
+            {
+                "end": 91.025,
+                "word": "issues",
+                "start": 90.685
+            },
+            {
+                "end": 91.185,
+                "word": "instead",
+                "start": 91.045
+            },
+            {
+                "end": 91.305,
+                "word": "of",
+                "start": 91.205
+            },
+            {
+                "end": 91.505,
+                "word": "actual",
+                "start": 91.325
+            },
+            {
+                "end": 91.885,
+                "word": "development.",
+                "start": 91.525
+            },
+            {
+                "end": 92.185,
+                "word": "For",
+                "start": 92.085
+            },
+            {
+                "end": 92.305,
+                "word": "this",
+                "start": 92.205
+            },
+            {
+                "end": 92.485,
+                "word": "role,",
+                "start": 92.325
+            },
+            {
+                "end": 92.705,
+                "word": "I",
+                "start": 92.605
+            },
+            {
+                "end": 92.865,
+                "word": "think",
+                "start": 92.725
+            },
+            {
+                "end": 92.985,
+                "word": "we",
+                "start": 92.885
+            },
+            {
+                "end": 93.145,
+                "word": "need",
+                "start": 93.005
+            },
+            {
+                "end": 93.405,
+                "word": "someone",
+                "start": 93.165
+            },
+            {
+                "end": 93.525,
+                "word": "with",
+                "start": 93.425
+            },
+            {
+                "end": 93.725,
+                "word": "strong",
+                "start": 93.545
+            },
+            {
+                "end": 94.045,
+                "word": "experience",
+                "start": 93.745
+            },
+            {
+                "end": 94.165,
+                "word": "in",
+                "start": 94.065
+            },
+            {
+                "end": 94.485,
+                "word": "Kubernetes,",
+                "start": 94.185
+            },
+            {
+                "end": 94.845,
+                "word": "Docker,",
+                "start": 94.605
+            },
+            {
+                "end": 95.205,
+                "word": "Jenkins",
+                "start": 94.965
+            },
+            {
+                "end": 95.325,
+                "word": "or",
+                "start": 95.225
+            },
+            {
+                "end": 95.625,
+                "word": "GitLab",
+                "start": 95.345
+            },
+            {
+                "end": 95.825,
+                "word": "CI/CD,",
+                "start": 95.645
+            },
+            {
+                "end": 96.045,
+                "word": "and",
+                "start": 95.945
+            },
+            {
+                "end": 96.485,
+                "word": "Terraform",
+                "start": 96.065
+            },
+            {
+                "end": 96.605,
+                "word": "for",
+                "start": 96.505
+            },
+            {
+                "end": 97.045,
+                "word": "infrastructure",
+                "start": 96.625
+            },
+            {
+                "end": 97.225,
+                "word": "as",
+                "start": 97.065
+            },
+            {
+                "end": 97.445,
+                "word": "code.",
+                "start": 97.245
+            }
+        ],
+        "offset": 80.005,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 98.345,
+                "word": "Absolutely",
+                "start": 98.085
+            },
+            {
+                "end": 98.565,
+                "word": "agree",
+                "start": 98.365
+            },
+            {
+                "end": 98.685,
+                "word": "on",
+                "start": 98.585
+            },
+            {
+                "end": 98.805,
+                "word": "the",
+                "start": 98.705
+            },
+            {
+                "end": 99.045,
+                "word": "DevOps",
+                "start": 98.825
+            },
+            {
+                "end": 99.445,
+                "word": "priorities.",
+                "start": 99.065
+            },
+            {
+                "end": 99.745,
+                "word": "For",
+                "start": 99.645
+            },
+            {
+                "end": 99.845,
+                "word": "a",
+                "start": 99.765
+            },
+            {
+                "end": 100.085,
+                "word": "DevOps",
+                "start": 99.865
+            },
+            {
+                "end": 100.385,
+                "word": "engineer",
+                "start": 100.105
+            },
+            {
+                "end": 100.505,
+                "word": "with",
+                "start": 100.405
+            },
+            {
+                "end": 100.685,
+                "word": "those",
+                "start": 100.525
+            },
+            {
+                "end": 100.965,
+                "word": "specific",
+                "start": 100.705
+            },
+            {
+                "end": 101.245,
+                "word": "skills,",
+                "start": 100.985
+            },
+            {
+                "end": 101.465,
+                "word": "we",
+                "start": 101.365
+            },
+            {
+                "end": 101.625,
+                "word": "should",
+                "start": 101.485
+            },
+            {
+                "end": 101.785,
+                "word": "budget",
+                "start": 101.645
+            },
+            {
+                "end": 102.025,
+                "word": "around",
+                "start": 101.805
+            },
+            {
+                "end": 102.285,
+                "word": "eighty",
+                "start": 102.045
+            },
+            {
+                "end": 102.505,
+                "word": "thousand",
+                "start": 102.305
+            },
+            {
+                "end": 102.625,
+                "word": "to",
+                "start": 102.525
+            },
+            {
+                "end": 102.825,
+                "word": "one",
+                "start": 102.645
+            },
+            {
+                "end": 103.085,
+                "word": "hundred",
+                "start": 102.845
+            },
+            {
+                "end": 103.265,
+                "word": "and",
+                "start": 103.105
+            },
+            {
+                "end": 103.445,
+                "word": "ten",
+                "start": 103.285
+            },
+            {
+                "end": 103.725,
+                "word": "thousand",
+                "start": 103.465
+            },
+            {
+                "end": 103.985,
+                "word": "dollars",
+                "start": 103.745
+            },
+            {
+                "end": 104.105,
+                "word": "per",
+                "start": 104.005
+            },
+            {
+                "end": 104.325,
+                "word": "year.",
+                "start": 104.125
+            },
+            {
+                "end": 104.625,
+                "word": "Now,",
+                "start": 104.525
+            },
+            {
+                "end": 104.865,
+                "word": "let's",
+                "start": 104.745
+            },
+            {
+                "end": 105.025,
+                "word": "talk",
+                "start": 104.885
+            },
+            {
+                "end": 105.205,
+                "word": "about",
+                "start": 105.045
+            },
+            {
+                "end": 105.325,
+                "word": "the",
+                "start": 105.225
+            },
+            {
+                "end": 105.565,
+                "word": "overall",
+                "start": 105.345
+            },
+            {
+                "end": 105.825,
+                "word": "budget",
+                "start": 105.585
+            },
+            {
+                "end": 106.145,
+                "word": "implications.",
+                "start": 105.845
+            },
+            {
+                "end": 106.445,
+                "word": "If",
+                "start": 106.345
+            },
+            {
+                "end": 106.565,
+                "word": "we",
+                "start": 106.465
+            },
+            {
+                "end": 106.725,
+                "word": "hire",
+                "start": 106.585
+            },
+            {
+                "end": 106.865,
+                "word": "all",
+                "start": 106.745
+            },
+            {
+                "end": 107.045,
+                "word": "three",
+                "start": 106.885
+            },
+            {
+                "end": 107.325,
+                "word": "positions",
+                "start": 107.065
+            },
+            {
+                "end": 107.445,
+                "word": "at",
+                "start": 107.345
+            },
+            {
+                "end": 107.565,
+                "word": "the",
+                "start": 107.465
+            },
+            {
+                "end": 107.785,
+                "word": "mid-range",
+                "start": 107.585
+            },
+            {
+                "end": 107.905,
+                "word": "of",
+                "start": 107.805
+            },
+            {
+                "end": 108.045,
+                "word": "our",
+                "start": 107.925
+            },
+            {
+                "end": 108.325,
+                "word": "estimates,",
+                "start": 108.065
+            },
+            {
+                "end": 108.565,
+                "word": "we're",
+                "start": 108.465
+            },
+            {
+                "end": 108.725,
+                "word": "looking",
+                "start": 108.585
+            },
+            {
+                "end": 108.845,
+                "word": "at",
+                "start": 108.745
+            },
+            {
+                "end": 108.965,
+                "word": "a",
+                "start": 108.865
+            },
+            {
+                "end": 109.205,
+                "word": "total",
+                "start": 108.985
+            },
+            {
+                "end": 109.445,
+                "word": "annual",
+                "start": 109.225
+            },
+            {
+                "end": 109.665,
+                "word": "salary",
+                "start": 109.465
+            },
+            {
+                "end": 109.945,
+                "word": "expense",
+                "start": 109.685
+            },
+            {
+                "end": 110.065,
+                "word": "of",
+                "start": 109.965
+            },
+            {
+                "end": 110.545,
+                "word": "approximately",
+                "start": 110.085
+            },
+            {
+                "end": 110.725,
+                "word": "two",
+                "start": 110.565
+            },
+            {
+                "end": 110.925,
+                "word": "hundred",
+                "start": 110.745
+            },
+            {
+                "end": 111.085,
+                "word": "and",
+                "start": 110.945
+            },
+            {
+                "end": 111.305,
+                "word": "seventy",
+                "start": 111.105
+            },
+            {
+                "end": 111.585,
+                "word": "thousand",
+                "start": 111.325
+            },
+            {
+                "end": 111.865,
+                "word": "dollars.",
+                "start": 111.605
+            },
+            {
+                "end": 112.165,
+                "word": "Add",
+                "start": 112.065
+            },
+            {
+                "end": 112.285,
+                "word": "to",
+                "start": 112.185
+            },
+            {
+                "end": 112.405,
+                "word": "that",
+                "start": 112.305
+            },
+            {
+                "end": 112.625,
+                "word": "benefits,",
+                "start": 112.425
+            },
+            {
+                "end": 112.965,
+                "word": "equipment,",
+                "start": 112.745
+            },
+            {
+                "end": 113.185,
+                "word": "and",
+                "start": 113.085
+            },
+            {
+                "end": 113.425,
+                "word": "onboarding",
+                "start": 113.205
+            },
+            {
+                "end": 113.645,
+                "word": "costs,",
+                "start": 113.445
+            },
+            {
+                "end": 113.865,
+                "word": "and",
+                "start": 113.765
+            },
+            {
+                "end": 113.985,
+                "word": "we're",
+                "start": 113.885
+            },
+            {
+                "end": 114.145,
+                "word": "probably",
+                "start": 114.005
+            },
+            {
+                "end": 114.325,
+                "word": "looking",
+                "start": 114.165
+            },
+            {
+                "end": 114.445,
+                "word": "at",
+                "start": 114.345
+            },
+            {
+                "end": 114.685,
+                "word": "around",
+                "start": 114.465
+            },
+            {
+                "end": 114.885,
+                "word": "three",
+                "start": 114.705
+            },
+            {
+                "end": 115.085,
+                "word": "hundred",
+                "start": 114.905
+            },
+            {
+                "end": 115.245,
+                "word": "and",
+                "start": 115.105
+            },
+            {
+                "end": 115.425,
+                "word": "fifty",
+                "start": 115.265
+            },
+            {
+                "end": 115.705,
+                "word": "thousand",
+                "start": 115.445
+            },
+            {
+                "end": 115.985,
+                "word": "dollars",
+                "start": 115.725
+            },
+            {
+                "end": 116.105,
+                "word": "in",
+                "start": 116.005
+            },
+            {
+                "end": 116.285,
+                "word": "total",
+                "start": 116.125
+            },
+            {
+                "end": 116.545,
+                "word": "first-year",
+                "start": 116.305
+            },
+            {
+                "end": 116.825,
+                "word": "costs.",
+                "start": 116.565
+            }
+        ],
+        "offset": 98.025,
+        "speaker": "Lizzy"
+    },
+    {
+        "words": [
+            {
+                "end": 117.625,
+                "word": "That's",
+                "start": 117.465
+            },
+            {
+                "end": 117.745,
+                "word": "a",
+                "start": 117.645
+            },
+            {
+                "end": 118.085,
+                "word": "significant",
+                "start": 117.765
+            },
+            {
+                "end": 118.485,
+                "word": "investment,",
+                "start": 118.105
+            },
+            {
+                "end": 118.725,
+                "word": "but",
+                "start": 118.625
+            },
+            {
+                "end": 118.845,
+                "word": "I",
+                "start": 118.745
+            },
+            {
+                "end": 119.025,
+                "word": "think",
+                "start": 118.865
+            },
+            {
+                "end": 119.145,
+                "word": "it's",
+                "start": 119.045
+            },
+            {
+                "end": 119.505,
+                "word": "absolutely",
+                "start": 119.165
+            },
+            {
+                "end": 119.865,
+                "word": "necessary",
+                "start": 119.525
+            },
+            {
+                "end": 119.985,
+                "word": "for",
+                "start": 119.885
+            },
+            {
+                "end": 120.125,
+                "word": "our",
+                "start": 120.005
+            },
+            {
+                "end": 120.365,
+                "word": "growth",
+                "start": 120.145
+            },
+            {
+                "end": 120.625,
+                "word": "trajectory.",
+                "start": 120.385
+            },
+            {
+                "end": 120.925,
+                "word": "Do",
+                "start": 120.825
+            },
+            {
+                "end": 121.045,
+                "word": "we",
+                "start": 120.945
+            },
+            {
+                "end": 121.205,
+                "word": "have",
+                "start": 121.065
+            },
+            {
+                "end": 121.365,
+                "word": "room",
+                "start": 121.225
+            },
+            {
+                "end": 121.485,
+                "word": "in",
+                "start": 121.385
+            },
+            {
+                "end": 121.605,
+                "word": "our",
+                "start": 121.505
+            },
+            {
+                "end": 121.865,
+                "word": "current",
+                "start": 121.625
+            },
+            {
+                "end": 122.105,
+                "word": "budget",
+                "start": 121.885
+            },
+            {
+                "end": 122.225,
+                "word": "for",
+                "start": 122.125
+            },
+            {
+                "end": 122.385,
+                "word": "these",
+                "start": 122.245
+            },
+            {
+                "end": 122.625,
+                "word": "hires?",
+                "start": 122.405
+            },
+            {
+                "end": 122.925,
+                "word": "Or",
+                "start": 122.825
+            },
+            {
+                "end": 123.045,
+                "word": "do",
+                "start": 122.945
+            },
+            {
+                "end": 123.165,
+                "word": "we",
+                "start": 123.065
+            },
+            {
+                "end": 123.285,
+                "word": "need",
+                "start": 123.185
+            },
+            {
+                "end": 123.405,
+                "word": "to",
+                "start": 123.305
+            },
+            {
+                "end": 123.645,
+                "word": "consider",
+                "start": 123.425
+            },
+            {
+                "end": 123.845,
+                "word": "adjusting",
+                "start": 123.665
+            },
+            {
+                "end": 124.005,
+                "word": "our",
+                "start": 123.865
+            },
+            {
+                "end": 124.265,
+                "word": "spending",
+                "start": 124.025
+            },
+            {
+                "end": 124.385,
+                "word": "in",
+                "start": 124.285
+            },
+            {
+                "end": 124.545,
+                "word": "other",
+                "start": 124.405
+            },
+            {
+                "end": 124.785,
+                "word": "areas?",
+                "start": 124.565
+            }
+        ],
+        "offset": 117.405,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 125.585,
+                "word": "Looking",
+                "start": 125.425
+            },
+            {
+                "end": 125.705,
+                "word": "at",
+                "start": 125.605
+            },
+            {
+                "end": 125.825,
+                "word": "our",
+                "start": 125.725
+            },
+            {
+                "end": 126.085,
+                "word": "current",
+                "start": 125.845
+            },
+            {
+                "end": 126.365,
+                "word": "financial",
+                "start": 126.105
+            },
+            {
+                "end": 126.705,
+                "word": "position,",
+                "start": 126.385
+            },
+            {
+                "end": 126.925,
+                "word": "we",
+                "start": 126.825
+            },
+            {
+                "end": 127.085,
+                "word": "have",
+                "start": 126.945
+            },
+            {
+                "end": 127.285,
+                "word": "approximately",
+                "start": 127.105
+            },
+            {
+                "end": 127.465,
+                "word": "four",
+                "start": 127.305
+            },
+            {
+                "end": 127.685,
+                "word": "hundred",
+                "start": 127.485
+            },
+            {
+                "end": 127.905,
+                "word": "thousand",
+                "start": 127.705
+            },
+            {
+                "end": 128.165,
+                "word": "dollars",
+                "start": 127.925
+            },
+            {
+                "end": 128.285,
+                "word": "in",
+                "start": 128.185
+            },
+            {
+                "end": 128.425,
+                "word": "our",
+                "start": 128.305
+            },
+            {
+                "end": 128.685,
+                "word": "hiring",
+                "start": 128.445
+            },
+            {
+                "end": 128.885,
+                "word": "budget",
+                "start": 128.705
+            },
+            {
+                "end": 129.005,
+                "word": "for",
+                "start": 128.905
+            },
+            {
+                "end": 129.145,
+                "word": "this",
+                "start": 129.025
+            },
+            {
+                "end": 129.385,
+                "word": "quarter.",
+                "start": 129.165
+            },
+            {
+                "end": 129.685,
+                "word": "So",
+                "start": 129.585
+            },
+            {
+                "end": 129.825,
+                "word": "yes,",
+                "start": 129.705
+            },
+            {
+                "end": 130.045,
+                "word": "we",
+                "start": 129.945
+            },
+            {
+                "end": 130.185,
+                "word": "can",
+                "start": 130.065
+            },
+            {
+                "end": 130.545,
+                "word": "accommodate",
+                "start": 130.205
+            },
+            {
+                "end": 130.705,
+                "word": "these",
+                "start": 130.565
+            },
+            {
+                "end": 130.905,
+                "word": "three",
+                "start": 130.725
+            },
+            {
+                "end": 131.185,
+                "word": "positions",
+                "start": 130.925
+            },
+            {
+                "end": 131.365,
+                "word": "without",
+                "start": 131.205
+            },
+            {
+                "end": 131.625,
+                "word": "making",
+                "start": 131.385
+            },
+            {
+                "end": 131.945,
+                "word": "significant",
+                "start": 131.645
+            },
+            {
+                "end": 132.125,
+                "word": "cuts",
+                "start": 131.965
+            },
+            {
+                "end": 132.305,
+                "word": "elsewhere.",
+                "start": 132.145
+            },
+            {
+                "end": 132.645,
+                "word": "However,",
+                "start": 132.505
+            },
+            {
+                "end": 132.885,
+                "word": "I",
+                "start": 132.785
+            },
+            {
+                "end": 133.025,
+                "word": "would",
+                "start": 132.905
+            },
+            {
+                "end": 133.245,
+                "word": "recommend",
+                "start": 133.045
+            },
+            {
+                "end": 133.385,
+                "word": "that",
+                "start": 133.265
+            },
+            {
+                "end": 133.505,
+                "word": "we",
+                "start": 133.405
+            },
+            {
+                "end": 133.665,
+                "word": "stagger",
+                "start": 133.525
+            },
+            {
+                "end": 133.785,
+                "word": "the",
+                "start": 133.685
+            },
+            {
+                "end": 134.045,
+                "word": "hiring",
+                "start": 133.805
+            },
+            {
+                "end": 134.245,
+                "word": "process.",
+                "start": 134.065
+            },
+            {
+                "end": 134.545,
+                "word": "We",
+                "start": 134.445
+            },
+            {
+                "end": 134.685,
+                "word": "should",
+                "start": 134.565
+            },
+            {
+                "end": 134.845,
+                "word": "start",
+                "start": 134.705
+            },
+            {
+                "end": 134.985,
+                "word": "with",
+                "start": 134.865
+            },
+            {
+                "end": 135.105,
+                "word": "the",
+                "start": 135.005
+            },
+            {
+                "end": 135.285,
+                "word": "senior",
+                "start": 135.125
+            },
+            {
+                "end": 135.565,
+                "word": "engineer",
+                "start": 135.305
+            },
+            {
+                "end": 135.805,
+                "word": "position",
+                "start": 135.585
+            },
+            {
+                "end": 135.965,
+                "word": "since",
+                "start": 135.825
+            },
+            {
+                "end": 136.085,
+                "word": "that's",
+                "start": 135.985
+            },
+            {
+                "end": 136.205,
+                "word": "our",
+                "start": 136.105
+            },
+            {
+                "end": 136.385,
+                "word": "most",
+                "start": 136.225
+            },
+            {
+                "end": 136.625,
+                "word": "urgent",
+                "start": 136.405
+            },
+            {
+                "end": 136.845,
+                "word": "need,",
+                "start": 136.645
+            },
+            {
+                "end": 137.085,
+                "word": "then",
+                "start": 136.965
+            },
+            {
+                "end": 137.245,
+                "word": "the",
+                "start": 137.105
+            },
+            {
+                "end": 137.445,
+                "word": "DevOps",
+                "start": 137.265
+            },
+            {
+                "end": 137.725,
+                "word": "engineer",
+                "start": 137.465
+            },
+            {
+                "end": 137.845,
+                "word": "a",
+                "start": 137.745
+            },
+            {
+                "end": 138.005,
+                "word": "month",
+                "start": 137.865
+            },
+            {
+                "end": 138.185,
+                "word": "later,",
+                "start": 138.025
+            },
+            {
+                "end": 138.405,
+                "word": "and",
+                "start": 138.305
+            },
+            {
+                "end": 138.565,
+                "word": "finally",
+                "start": 138.425
+            },
+            {
+                "end": 138.685,
+                "word": "the",
+                "start": 138.585
+            },
+            {
+                "end": 138.885,
+                "word": "product",
+                "start": 138.705
+            },
+            {
+                "end": 139.165,
+                "word": "manager",
+                "start": 138.905
+            },
+            {
+                "end": 139.285,
+                "word": "in",
+                "start": 139.185
+            },
+            {
+                "end": 139.405,
+                "word": "the",
+                "start": 139.305
+            },
+            {
+                "end": 139.585,
+                "word": "third",
+                "start": 139.425
+            },
+            {
+                "end": 139.825,
+                "word": "month.",
+                "start": 139.605
+            }
+        ],
+        "offset": 125.365,
+        "speaker": "Lizzy"
+    },
+    {
+        "words": [
+            {
+                "end": 140.605,
+                "word": "That",
+                "start": 140.465
+            },
+            {
+                "end": 140.885,
+                "word": "staggered",
+                "start": 140.625
+            },
+            {
+                "end": 141.125,
+                "word": "approach",
+                "start": 140.905
+            },
+            {
+                "end": 141.305,
+                "word": "makes",
+                "start": 141.145
+            },
+            {
+                "end": 141.525,
+                "word": "perfect",
+                "start": 141.325
+            },
+            {
+                "end": 141.725,
+                "word": "sense.",
+                "start": 141.545
+            },
+            {
+                "end": 142.025,
+                "word": "It",
+                "start": 141.925
+            },
+            {
+                "end": 142.165,
+                "word": "will",
+                "start": 142.045
+            },
+            {
+                "end": 142.325,
+                "word": "give",
+                "start": 142.185
+            },
+            {
+                "end": 142.445,
+                "word": "us",
+                "start": 142.345
+            },
+            {
+                "end": 142.585,
+                "word": "time",
+                "start": 142.465
+            },
+            {
+                "end": 142.705,
+                "word": "to",
+                "start": 142.605
+            },
+            {
+                "end": 142.985,
+                "word": "properly",
+                "start": 142.725
+            },
+            {
+                "end": 143.225,
+                "word": "onboard",
+                "start": 143.005
+            },
+            {
+                "end": 143.385,
+                "word": "each",
+                "start": 143.245
+            },
+            {
+                "end": 143.565,
+                "word": "person",
+                "start": 143.405
+            },
+            {
+                "end": 143.685,
+                "word": "and",
+                "start": 143.585
+            },
+            {
+                "end": 143.885,
+                "word": "assess",
+                "start": 143.705
+            },
+            {
+                "end": 144.045,
+                "word": "how",
+                "start": 143.905
+            },
+            {
+                "end": 144.185,
+                "word": "they",
+                "start": 144.065
+            },
+            {
+                "end": 144.305,
+                "word": "fit",
+                "start": 144.205
+            },
+            {
+                "end": 144.465,
+                "word": "into",
+                "start": 144.325
+            },
+            {
+                "end": 144.585,
+                "word": "our",
+                "start": 144.485
+            },
+            {
+                "end": 144.785,
+                "word": "team",
+                "start": 144.605
+            },
+            {
+                "end": 145.085,
+                "word": "dynamics.",
+                "start": 144.805
+            },
+            {
+                "end": 145.385,
+                "word": "For",
+                "start": 145.285
+            },
+            {
+                "end": 145.505,
+                "word": "the",
+                "start": 145.405
+            },
+            {
+                "end": 145.725,
+                "word": "recruitment",
+                "start": 145.525
+            },
+            {
+                "end": 146.005,
+                "word": "process,",
+                "start": 145.745
+            },
+            {
+                "end": 146.225,
+                "word": "should",
+                "start": 146.125
+            },
+            {
+                "end": 146.345,
+                "word": "we",
+                "start": 146.245
+            },
+            {
+                "end": 146.485,
+                "word": "use",
+                "start": 146.365
+            },
+            {
+                "end": 146.605,
+                "word": "our",
+                "start": 146.505
+            },
+            {
+                "end": 146.785,
+                "word": "existing",
+                "start": 146.625
+            },
+            {
+                "end": 147.105,
+                "word": "recruitment",
+                "start": 146.805
+            },
+            {
+                "end": 147.365,
+                "word": "agency",
+                "start": 147.125
+            },
+            {
+                "end": 147.485,
+                "word": "or",
+                "start": 147.385
+            },
+            {
+                "end": 147.665,
+                "word": "explore",
+                "start": 147.505
+            },
+            {
+                "end": 147.785,
+                "word": "new",
+                "start": 147.685
+            },
+            {
+                "end": 148.065,
+                "word": "options?",
+                "start": 147.805
+            },
+            {
+                "end": 148.365,
+                "word": "I've",
+                "start": 148.265
+            },
+            {
+                "end": 148.525,
+                "word": "heard",
+                "start": 148.385
+            },
+            {
+                "end": 148.685,
+                "word": "mixed",
+                "start": 148.545
+            },
+            {
+                "end": 148.885,
+                "word": "reviews",
+                "start": 148.705
+            },
+            {
+                "end": 149.045,
+                "word": "about",
+                "start": 148.905
+            },
+            {
+                "end": 149.165,
+                "word": "our",
+                "start": 149.065
+            },
+            {
+                "end": 149.385,
+                "word": "current",
+                "start": 149.185
+            },
+            {
+                "end": 149.625,
+                "word": "agency's",
+                "start": 149.405
+            },
+            {
+                "end": 150.125,
+                "word": "performance",
+                "start": 149.645
+            },
+            {
+                "end": 150.305,
+                "word": "lately.",
+                "start": 150.145
+            }
+        ],
+        "offset": 140.405,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 151.045,
+                "word": "I",
+                "start": 150.945
+            },
+            {
+                "end": 151.285,
+                "word": "agree",
+                "start": 151.065
+            },
+            {
+                "end": 151.405,
+                "word": "that",
+                "start": 151.305
+            },
+            {
+                "end": 151.525,
+                "word": "our",
+                "start": 151.425
+            },
+            {
+                "end": 151.785,
+                "word": "current",
+                "start": 151.545
+            },
+            {
+                "end": 152.045,
+                "word": "agency",
+                "start": 151.805
+            },
+            {
+                "end": 152.185,
+                "word": "has",
+                "start": 152.065
+            },
+            {
+                "end": 152.365,
+                "word": "been",
+                "start": 152.205
+            },
+            {
+                "end": 152.785,
+                "word": "disappointing",
+                "start": 152.385
+            },
+            {
+                "end": 152.925,
+                "word": "in",
+                "start": 152.805
+            },
+            {
+                "end": 153.085,
+                "word": "their",
+                "start": 152.945
+            },
+            {
+                "end": 153.445,
+                "word": "candidate",
+                "start": 153.105
+            },
+            {
+                "end": 153.785,
+                "word": "quality.",
+                "start": 153.465
+            },
+            {
+                "end": 154.085,
+                "word": "I",
+                "start": 153.985
+            },
+            {
+                "end": 154.285,
+                "word": "suggest",
+                "start": 154.105
+            },
+            {
+                "end": 154.405,
+                "word": "we",
+                "start": 154.305
+            },
+            {
+                "end": 154.625,
+                "word": "explore",
+                "start": 154.425
+            },
+            {
+                "end": 154.825,
+                "word": "other",
+                "start": 154.645
+            },
+            {
+                "end": 155.165,
+                "word": "options,",
+                "start": 154.845
+            },
+            {
+                "end": 155.525,
+                "word": "perhaps",
+                "start": 155.285
+            },
+            {
+                "end": 155.745,
+                "word": "Robert",
+                "start": 155.545
+            },
+            {
+                "end": 155.945,
+                "word": "Half",
+                "start": 155.765
+            },
+            {
+                "end": 156.105,
+                "word": "or",
+                "start": 155.965
+            },
+            {
+                "end": 156.485,
+                "word": "TechStars",
+                "start": 156.125
+            },
+            {
+                "end": 156.825,
+                "word": "Recruiting.",
+                "start": 156.505
+            },
+            {
+                "end": 157.125,
+                "word": "We",
+                "start": 157.025
+            },
+            {
+                "end": 157.285,
+                "word": "could",
+                "start": 157.145
+            },
+            {
+                "end": 157.425,
+                "word": "also",
+                "start": 157.305
+            },
+            {
+                "end": 157.645,
+                "word": "consider",
+                "start": 157.445
+            },
+            {
+                "end": 157.765,
+                "word": "a",
+                "start": 157.665
+            },
+            {
+                "end": 158.045,
+                "word": "hybrid",
+                "start": 157.785
+            },
+            {
+                "end": 158.325,
+                "word": "approach",
+                "start": 158.065
+            },
+            {
+                "end": 158.485,
+                "word": "where",
+                "start": 158.345
+            },
+            {
+                "end": 158.605,
+                "word": "we",
+                "start": 158.505
+            },
+            {
+                "end": 158.765,
+                "word": "post",
+                "start": 158.625
+            },
+            {
+                "end": 158.885,
+                "word": "on",
+                "start": 158.785
+            },
+            {
+                "end": 159.245,
+                "word": "LinkedIn",
+                "start": 158.905
+            },
+            {
+                "end": 159.365,
+                "word": "and",
+                "start": 159.265
+            },
+            {
+                "end": 159.665,
+                "word": "AngelList",
+                "start": 159.385
+            },
+            {
+                "end": 159.885,
+                "word": "directly,",
+                "start": 159.685
+            },
+            {
+                "end": 160.125,
+                "word": "while",
+                "start": 160.005
+            },
+            {
+                "end": 160.285,
+                "word": "also",
+                "start": 160.145
+            },
+            {
+                "end": 160.485,
+                "word": "working",
+                "start": 160.305
+            },
+            {
+                "end": 160.605,
+                "word": "with",
+                "start": 160.505
+            },
+            {
+                "end": 160.705,
+                "word": "a",
+                "start": 160.625
+            },
+            {
+                "end": 160.885,
+                "word": "new",
+                "start": 160.725
+            },
+            {
+                "end": 161.205,
+                "word": "recruiter",
+                "start": 160.905
+            },
+            {
+                "end": 161.365,
+                "word": "for",
+                "start": 161.225
+            },
+            {
+                "end": 161.485,
+                "word": "the",
+                "start": 161.385
+            },
+            {
+                "end": 161.685,
+                "word": "senior",
+                "start": 161.505
+            },
+            {
+                "end": 162.005,
+                "word": "positions.",
+                "start": 161.705
+            }
+        ],
+        "offset": 150.885,
+        "speaker": "Lizzy"
+    },
+    {
+        "words": [
+            {
+                "end": 162.765,
+                "word": "That",
+                "start": 162.645
+            },
+            {
+                "end": 162.945,
+                "word": "hybrid",
+                "start": 162.785
+            },
+            {
+                "end": 163.205,
+                "word": "approach",
+                "start": 162.965
+            },
+            {
+                "end": 163.405,
+                "word": "sounds",
+                "start": 163.225
+            },
+            {
+                "end": 163.625,
+                "word": "smart.",
+                "start": 163.425
+            },
+            {
+                "end": 163.925,
+                "word": "For",
+                "start": 163.825
+            },
+            {
+                "end": 164.045,
+                "word": "the",
+                "start": 163.945
+            },
+            {
+                "end": 164.245,
+                "word": "senior",
+                "start": 164.065
+            },
+            {
+                "end": 164.565,
+                "word": "engineer",
+                "start": 164.265
+            },
+            {
+                "end": 164.785,
+                "word": "position,",
+                "start": 164.585
+            },
+            {
+                "end": 165.025,
+                "word": "what",
+                "start": 164.925
+            },
+            {
+                "end": 165.185,
+                "word": "kind",
+                "start": 165.045
+            },
+            {
+                "end": 165.305,
+                "word": "of",
+                "start": 165.205
+            },
+            {
+                "end": 165.565,
+                "word": "timeline",
+                "start": 165.325
+            },
+            {
+                "end": 165.685,
+                "word": "are",
+                "start": 165.585
+            },
+            {
+                "end": 165.805,
+                "word": "we",
+                "start": 165.705
+            },
+            {
+                "end": 166.045,
+                "word": "looking",
+                "start": 165.825
+            },
+            {
+                "end": 166.165,
+                "word": "at",
+                "start": 166.065
+            },
+            {
+                "end": 166.285,
+                "word": "for",
+                "start": 166.185
+            },
+            {
+                "end": 166.465,
+                "word": "the",
+                "start": 166.305
+            },
+            {
+                "end": 166.745,
+                "word": "hiring",
+                "start": 166.485
+            },
+            {
+                "end": 167.065,
+                "word": "process?",
+                "start": 166.765
+            },
+            {
+                "end": 167.385,
+                "word": "From",
+                "start": 167.265
+            },
+            {
+                "end": 167.585,
+                "word": "posting",
+                "start": 167.405
+            },
+            {
+                "end": 167.705,
+                "word": "the",
+                "start": 167.605
+            },
+            {
+                "end": 167.865,
+                "word": "job",
+                "start": 167.725
+            },
+            {
+                "end": 167.985,
+                "word": "to",
+                "start": 167.885
+            },
+            {
+                "end": 168.205,
+                "word": "making",
+                "start": 168.005
+            },
+            {
+                "end": 168.285,
+                "word": "a",
+                "start": 168.225
+            },
+            {
+                "end": 168.505,
+                "word": "final",
+                "start": 168.305
+            },
+            {
+                "end": 168.765,
+                "word": "offer?",
+                "start": 168.525
+            },
+            {
+                "end": 169.065,
+                "word": "I'm",
+                "start": 168.965
+            },
+            {
+                "end": 169.285,
+                "word": "hoping",
+                "start": 169.085
+            },
+            {
+                "end": 169.405,
+                "word": "we",
+                "start": 169.305
+            },
+            {
+                "end": 169.525,
+                "word": "can",
+                "start": 169.425
+            },
+            {
+                "end": 169.665,
+                "word": "get",
+                "start": 169.545
+            },
+            {
+                "end": 169.885,
+                "word": "someone",
+                "start": 169.685
+            },
+            {
+                "end": 170.025,
+                "word": "on",
+                "start": 169.905
+            },
+            {
+                "end": 170.185,
+                "word": "board",
+                "start": 170.045
+            },
+            {
+                "end": 170.345,
+                "word": "within",
+                "start": 170.205
+            },
+            {
+                "end": 170.485,
+                "word": "the",
+                "start": 170.365
+            },
+            {
+                "end": 170.665,
+                "word": "next",
+                "start": 170.505
+            },
+            {
+                "end": 170.825,
+                "word": "six",
+                "start": 170.685
+            },
+            {
+                "end": 171.085,
+                "word": "weeks.",
+                "start": 170.845
+            }
+        ],
+        "offset": 162.585,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 171.865,
+                "word": "Six",
+                "start": 171.725
+            },
+            {
+                "end": 172.025,
+                "word": "weeks",
+                "start": 171.885
+            },
+            {
+                "end": 172.145,
+                "word": "is",
+                "start": 172.045
+            },
+            {
+                "end": 172.485,
+                "word": "aggressive",
+                "start": 172.165
+            },
+            {
+                "end": 172.625,
+                "word": "but",
+                "start": 172.505
+            },
+            {
+                "end": 172.905,
+                "word": "achievable",
+                "start": 172.645
+            },
+            {
+                "end": 173.025,
+                "word": "if",
+                "start": 172.925
+            },
+            {
+                "end": 173.145,
+                "word": "we",
+                "start": 173.045
+            },
+            {
+                "end": 173.285,
+                "word": "move",
+                "start": 173.165
+            },
+            {
+                "end": 173.565,
+                "word": "quickly.",
+                "start": 173.305
+            },
+            {
+                "end": 173.865,
+                "word": "I'd",
+                "start": 173.765
+            },
+            {
+                "end": 174.085,
+                "word": "estimate",
+                "start": 173.885
+            },
+            {
+                "end": 174.225,
+                "word": "two",
+                "start": 174.105
+            },
+            {
+                "end": 174.405,
+                "word": "weeks",
+                "start": 174.245
+            },
+            {
+                "end": 174.525,
+                "word": "for",
+                "start": 174.425
+            },
+            {
+                "end": 174.745,
+                "word": "posting",
+                "start": 174.545
+            },
+            {
+                "end": 174.865,
+                "word": "and",
+                "start": 174.765
+            },
+            {
+                "end": 175.145,
+                "word": "sourcing",
+                "start": 174.885
+            },
+            {
+                "end": 175.505,
+                "word": "candidates,",
+                "start": 175.165
+            },
+            {
+                "end": 175.745,
+                "word": "two",
+                "start": 175.625
+            },
+            {
+                "end": 175.905,
+                "word": "weeks",
+                "start": 175.765
+            },
+            {
+                "end": 176.025,
+                "word": "for",
+                "start": 175.925
+            },
+            {
+                "end": 176.285,
+                "word": "initial",
+                "start": 176.045
+            },
+            {
+                "end": 176.585,
+                "word": "screening",
+                "start": 176.305
+            },
+            {
+                "end": 176.705,
+                "word": "and",
+                "start": 176.605
+            },
+            {
+                "end": 177.005,
+                "word": "technical",
+                "start": 176.725
+            },
+            {
+                "end": 177.365,
+                "word": "interviews,",
+                "start": 177.025
+            },
+            {
+                "end": 177.585,
+                "word": "and",
+                "start": 177.485
+            },
+            {
+                "end": 177.705,
+                "word": "two",
+                "start": 177.605
+            },
+            {
+                "end": 177.865,
+                "word": "weeks",
+                "start": 177.725
+            },
+            {
+                "end": 177.985,
+                "word": "for",
+                "start": 177.885
+            },
+            {
+                "end": 178.165,
+                "word": "final",
+                "start": 178.005
+            },
+            {
+                "end": 178.445,
+                "word": "interviews,",
+                "start": 178.185
+            },
+            {
+                "end": 178.765,
+                "word": "reference",
+                "start": 178.565
+            },
+            {
+                "end": 179.025,
+                "word": "checks,",
+                "start": 178.785
+            },
+            {
+                "end": 179.245,
+                "word": "and",
+                "start": 179.145
+            },
+            {
+                "end": 179.445,
+                "word": "offer",
+                "start": 179.265
+            },
+            {
+                "end": 179.785,
+                "word": "negotiation.",
+                "start": 179.465
+            },
+            {
+                "end": 180.085,
+                "word": "The",
+                "start": 179.985
+            },
+            {
+                "end": 180.225,
+                "word": "key",
+                "start": 180.105
+            },
+            {
+                "end": 180.345,
+                "word": "will",
+                "start": 180.245
+            },
+            {
+                "end": 180.465,
+                "word": "be",
+                "start": 180.365
+            },
+            {
+                "end": 180.685,
+                "word": "having",
+                "start": 180.485
+            },
+            {
+                "end": 180.825,
+                "word": "our",
+                "start": 180.705
+            },
+            {
+                "end": 181.005,
+                "word": "job",
+                "start": 180.845
+            },
+            {
+                "end": 181.325,
+                "word": "description",
+                "start": 181.025
+            },
+            {
+                "end": 181.485,
+                "word": "ready",
+                "start": 181.345
+            },
+            {
+                "end": 181.605,
+                "word": "and",
+                "start": 181.505
+            },
+            {
+                "end": 181.885,
+                "word": "detailed",
+                "start": 181.625
+            },
+            {
+                "end": 182.005,
+                "word": "by",
+                "start": 181.905
+            },
+            {
+                "end": 182.225,
+                "word": "early",
+                "start": 182.025
+            },
+            {
+                "end": 182.385,
+                "word": "next",
+                "start": 182.245
+            },
+            {
+                "end": 182.605,
+                "word": "week.",
+                "start": 182.405
+            }
+        ],
+        "offset": 171.665,
+        "speaker": "Lizzy"
+    },
+    {
+        "words": [
+            {
+                "end": 183.425,
+                "word": "Perfect.",
+                "start": 183.245
+            },
+            {
+                "end": 183.745,
+                "word": "Let's",
+                "start": 183.625
+            },
+            {
+                "end": 183.945,
+                "word": "wrap",
+                "start": 183.765
+            },
+            {
+                "end": 184.085,
+                "word": "up",
+                "start": 183.965
+            },
+            {
+                "end": 184.205,
+                "word": "by",
+                "start": 184.105
+            },
+            {
+                "end": 184.505,
+                "word": "confirming",
+                "start": 184.225
+            },
+            {
+                "end": 184.625,
+                "word": "our",
+                "start": 184.525
+            },
+            {
+                "end": 184.845,
+                "word": "action",
+                "start": 184.645
+            },
+            {
+                "end": 185.145,
+                "word": "items.",
+                "start": 184.865
+            },
+            {
+                "end": 185.445,
+                "word": "You'll",
+                "start": 185.345
+            },
+            {
+                "end": 185.605,
+                "word": "draft",
+                "start": 185.465
+            },
+            {
+                "end": 185.725,
+                "word": "the",
+                "start": 185.625
+            },
+            {
+                "end": 185.885,
+                "word": "job",
+                "start": 185.745
+            },
+            {
+                "end": 186.205,
+                "word": "descriptions",
+                "start": 185.905
+            },
+            {
+                "end": 186.325,
+                "word": "for",
+                "start": 186.225
+            },
+            {
+                "end": 186.465,
+                "word": "all",
+                "start": 186.345
+            },
+            {
+                "end": 186.625,
+                "word": "three",
+                "start": 186.485
+            },
+            {
+                "end": 186.925,
+                "word": "positions,",
+                "start": 186.645
+            },
+            {
+                "end": 187.145,
+                "word": "I'll",
+                "start": 187.045
+            },
+            {
+                "end": 187.325,
+                "word": "research",
+                "start": 187.165
+            },
+            {
+                "end": 187.485,
+                "word": "new",
+                "start": 187.345
+            },
+            {
+                "end": 187.805,
+                "word": "recruitment",
+                "start": 187.505
+            },
+            {
+                "end": 188.105,
+                "word": "agencies,",
+                "start": 187.825
+            },
+            {
+                "end": 188.325,
+                "word": "and",
+                "start": 188.225
+            },
+            {
+                "end": 188.445,
+                "word": "we'll",
+                "start": 188.345
+            },
+            {
+                "end": 188.585,
+                "word": "both",
+                "start": 188.465
+            },
+            {
+                "end": 188.765,
+                "word": "review",
+                "start": 188.605
+            },
+            {
+                "end": 188.885,
+                "word": "the",
+                "start": 188.785
+            },
+            {
+                "end": 189.085,
+                "word": "budget",
+                "start": 188.905
+            },
+            {
+                "end": 189.285,
+                "word": "allocation",
+                "start": 189.105
+            },
+            {
+                "end": 189.405,
+                "word": "one",
+                "start": 189.305
+            },
+            {
+                "end": 189.525,
+                "word": "more",
+                "start": 189.425
+            },
+            {
+                "end": 189.685,
+                "word": "time",
+                "start": 189.545
+            },
+            {
+                "end": 189.825,
+                "word": "before",
+                "start": 189.705
+            },
+            {
+                "end": 189.945,
+                "word": "we",
+                "start": 189.845
+            },
+            {
+                "end": 190.125,
+                "word": "move",
+                "start": 189.965
+            },
+            {
+                "end": 190.405,
+                "word": "forward.",
+                "start": 190.145
+            },
+            {
+                "end": 190.725,
+                "word": "This",
+                "start": 190.605
+            },
+            {
+                "end": 190.845,
+                "word": "has",
+                "start": 190.745
+            },
+            {
+                "end": 190.985,
+                "word": "been",
+                "start": 190.865
+            },
+            {
+                "end": 191.085,
+                "word": "a",
+                "start": 191.005
+            },
+            {
+                "end": 191.305,
+                "word": "very",
+                "start": 191.105
+            },
+            {
+                "end": 191.625,
+                "word": "productive",
+                "start": 191.325
+            },
+            {
+                "end": 191.865,
+                "word": "discussion,",
+                "start": 191.645
+            },
+            {
+                "end": 192.125,
+                "word": "Lizzy.",
+                "start": 191.985
+            },
+            {
+                "end": 192.405,
+                "word": "Thank",
+                "start": 192.265
+            },
+            {
+                "end": 192.545,
+                "word": "you",
+                "start": 192.425
+            },
+            {
+                "end": 192.665,
+                "word": "for",
+                "start": 192.565
+            },
+            {
+                "end": 192.825,
+                "word": "your",
+                "start": 192.685
+            },
+            {
+                "end": 193.085,
+                "word": "insights",
+                "start": 192.845
+            },
+            {
+                "end": 193.205,
+                "word": "and",
+                "start": 193.105
+            },
+            {
+                "end": 193.525,
+                "word": "thorough",
+                "start": 193.225
+            },
+            {
+                "end": 193.905,
+                "word": "preparation.",
+                "start": 193.545
+            }
+        ],
+        "offset": 183.185,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 194.705,
+                "word": "Thank",
+                "start": 194.545
+            },
+            {
+                "end": 194.825,
+                "word": "you,",
+                "start": 194.725
+            },
+            {
+                "end": 195.205,
+                "word": "Gowreesh.",
+                "start": 194.945
+            },
+            {
+                "end": 195.505,
+                "word": "I'm",
+                "start": 195.405
+            },
+            {
+                "end": 195.705,
+                "word": "excited",
+                "start": 195.525
+            },
+            {
+                "end": 195.825,
+                "word": "to",
+                "start": 195.725
+            },
+            {
+                "end": 195.945,
+                "word": "get",
+                "start": 195.845
+            },
+            {
+                "end": 196.125,
+                "word": "started",
+                "start": 195.965
+            },
+            {
+                "end": 196.245,
+                "word": "on",
+                "start": 196.145
+            },
+            {
+                "end": 196.405,
+                "word": "this",
+                "start": 196.265
+            },
+            {
+                "end": 196.605,
+                "word": "hiring",
+                "start": 196.425
+            },
+            {
+                "end": 196.965,
+                "word": "initiative.",
+                "start": 196.625
+            },
+            {
+                "end": 197.265,
+                "word": "I",
+                "start": 197.165
+            },
+            {
+                "end": 197.445,
+                "word": "believe",
+                "start": 197.285
+            },
+            {
+                "end": 197.605,
+                "word": "these",
+                "start": 197.465
+            },
+            {
+                "end": 197.785,
+                "word": "three",
+                "start": 197.625
+            },
+            {
+                "end": 197.965,
+                "word": "key",
+                "start": 197.805
+            },
+            {
+                "end": 198.165,
+                "word": "hires",
+                "start": 197.985
+            },
+            {
+                "end": 198.285,
+                "word": "will",
+                "start": 198.185
+            },
+            {
+                "end": 198.585,
+                "word": "significantly",
+                "start": 198.305
+            },
+            {
+                "end": 198.805,
+                "word": "improve",
+                "start": 198.605
+            },
+            {
+                "end": 198.925,
+                "word": "our",
+                "start": 198.825
+            },
+            {
+                "end": 199.085,
+                "word": "team's",
+                "start": 198.945
+            },
+            {
+                "end": 199.405,
+                "word": "capabilities",
+                "start": 199.105
+            },
+            {
+                "end": 199.525,
+                "word": "and",
+                "start": 199.425
+            },
+            {
+                "end": 199.705,
+                "word": "help",
+                "start": 199.545
+            },
+            {
+                "end": 199.825,
+                "word": "us",
+                "start": 199.725
+            },
+            {
+                "end": 200.005,
+                "word": "scale",
+                "start": 199.845
+            },
+            {
+                "end": 200.245,
+                "word": "more",
+                "start": 200.025
+            },
+            {
+                "end": 200.605,
+                "word": "effectively.",
+                "start": 200.265
+            },
+            {
+                "end": 200.905,
+                "word": "I'll",
+                "start": 200.805
+            },
+            {
+                "end": 201.045,
+                "word": "have",
+                "start": 200.925
+            },
+            {
+                "end": 201.165,
+                "word": "the",
+                "start": 201.065
+            },
+            {
+                "end": 201.285,
+                "word": "job",
+                "start": 201.185
+            },
+            {
+                "end": 201.605,
+                "word": "descriptions",
+                "start": 201.305
+            },
+            {
+                "end": 201.765,
+                "word": "ready",
+                "start": 201.625
+            },
+            {
+                "end": 201.885,
+                "word": "for",
+                "start": 201.785
+            },
+            {
+                "end": 202.025,
+                "word": "your",
+                "start": 201.905
+            },
+            {
+                "end": 202.205,
+                "word": "review",
+                "start": 202.045
+            },
+            {
+                "end": 202.325,
+                "word": "by",
+                "start": 202.225
+            },
+            {
+                "end": 202.545,
+                "word": "Monday",
+                "start": 202.345
+            },
+            {
+                "end": 202.805,
+                "word": "morning.",
+                "start": 202.565
+            }
+        ],
+        "offset": 194.485,
+        "speaker": "Lizzy"
+    }
+]

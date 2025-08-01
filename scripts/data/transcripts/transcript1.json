@@ -1,0 +1,3950 @@
+[
+    {
+        "words": [
+            {
+                "end": 1.425,
+                "word": "Good",
+                "start": 1.305
+            },
+            {
+                "end": 1.665,
+                "word": "morning",
+                "start": 1.445
+            },
+            {
+                "end": 2.105,
+                "word": "Gowreesh,",
+                "start": 1.685
+            },
+            {
+                "end": 2.405,
+                "word": "thanks",
+                "start": 2.225
+            },
+            {
+                "end": 2.525,
+                "word": "for",
+                "start": 2.425
+            },
+            {
+                "end": 2.705,
+                "word": "joining",
+                "start": 2.545
+            },
+            {
+                "end": 2.825,
+                "word": "me",
+                "start": 2.725
+            },
+            {
+                "end": 3.005,
+                "word": "today",
+                "start": 2.845
+            },
+            {
+                "end": 3.125,
+                "word": "for",
+                "start": 3.025
+            },
+            {
+                "end": 3.245,
+                "word": "your",
+                "start": 3.145
+            },
+            {
+                "end": 3.545,
+                "word": "quarterly",
+                "start": 3.265
+            },
+            {
+                "end": 3.865,
+                "word": "performance",
+                "start": 3.565
+            },
+            {
+                "end": 4.125,
+                "word": "review.",
+                "start": 3.885
+            },
+            {
+                "end": 4.425,
+                "word": "I",
+                "start": 4.325
+            },
+            {
+                "end": 4.545,
+                "word": "hope",
+                "start": 4.445
+            },
+            {
+                "end": 4.665,
+                "word": "you're",
+                "start": 4.565
+            },
+            {
+                "end": 4.825,
+                "word": "feeling",
+                "start": 4.685
+            },
+            {
+                "end": 4.985,
+                "word": "good",
+                "start": 4.845
+            },
+            {
+                "end": 5.165,
+                "word": "about",
+                "start": 5.005
+            },
+            {
+                "end": 5.285,
+                "word": "this",
+                "start": 5.185
+            },
+            {
+                "end": 5.565,
+                "word": "quarter's",
+                "start": 5.305
+            },
+            {
+                "end": 5.925,
+                "word": "achievements.",
+                "start": 5.585
+            },
+            {
+                "end": 6.225,
+                "word": "How",
+                "start": 6.125
+            },
+            {
+                "end": 6.345,
+                "word": "are",
+                "start": 6.245
+            },
+            {
+                "end": 6.465,
+                "word": "you",
+                "start": 6.365
+            },
+            {
+                "end": 6.645,
+                "word": "feeling",
+                "start": 6.485
+            },
+            {
+                "end": 6.805,
+                "word": "about",
+                "start": 6.665
+            },
+            {
+                "end": 6.925,
+                "word": "your",
+                "start": 6.825
+            },
+            {
+                "end": 7.185,
+                "word": "progress",
+                "start": 6.945
+            },
+            {
+                "end": 7.345,
+                "word": "this",
+                "start": 7.205
+            },
+            {
+                "end": 7.585,
+                "word": "quarter?",
+                "start": 7.365
+            }
+        ],
+        "offset": 1.245,
+        "speaker": "Rachel"
+    },
+    {
+        "words": [
+            {
+                "end": 8.345,
+                "word": "Good",
+                "start": 8.205
+            },
+            {
+                "end": 8.565,
+                "word": "morning",
+                "start": 8.365
+            },
+            {
+                "end": 8.805,
+                "word": "Rachel,",
+                "start": 8.585
+            },
+            {
+                "end": 9.065,
+                "word": "thanks",
+                "start": 8.925
+            },
+            {
+                "end": 9.185,
+                "word": "for",
+                "start": 9.085
+            },
+            {
+                "end": 9.385,
+                "word": "setting",
+                "start": 9.205
+            },
+            {
+                "end": 9.505,
+                "word": "this",
+                "start": 9.405
+            },
+            {
+                "end": 9.625,
+                "word": "up.",
+                "start": 9.525
+            },
+            {
+                "end": 9.925,
+                "word": "I",
+                "start": 9.825
+            },
+            {
+                "end": 10.045,
+                "word": "feel",
+                "start": 9.945
+            },
+            {
+                "end": 10.245,
+                "word": "really",
+                "start": 10.065
+            },
+            {
+                "end": 10.445,
+                "word": "positive",
+                "start": 10.265
+            },
+            {
+                "end": 10.605,
+                "word": "about",
+                "start": 10.465
+            },
+            {
+                "end": 10.725,
+                "word": "this",
+                "start": 10.625
+            },
+            {
+                "end": 10.945,
+                "word": "quarter.",
+                "start": 10.745
+            },
+            {
+                "end": 11.245,
+                "word": "I",
+                "start": 11.145
+            },
+            {
+                "end": 11.385,
+                "word": "think",
+                "start": 11.265
+            },
+            {
+                "end": 11.505,
+                "word": "we",
+                "start": 11.405
+            },
+            {
+                "end": 11.685,
+                "word": "achieved",
+                "start": 11.525
+            },
+            {
+                "end": 11.805,
+                "word": "a",
+                "start": 11.705
+            },
+            {
+                "end": 11.925,
+                "word": "lot",
+                "start": 11.825
+            },
+            {
+                "end": 12.045,
+                "word": "with",
+                "start": 11.945
+            },
+            {
+                "end": 12.165,
+                "word": "the",
+                "start": 12.065
+            },
+            {
+                "end": 12.365,
+                "word": "product",
+                "start": 12.185
+            },
+            {
+                "end": 12.585,
+                "word": "roadmap",
+                "start": 12.385
+            },
+            {
+                "end": 12.745,
+                "word": "planning",
+                "start": 12.605
+            },
+            {
+                "end": 12.865,
+                "word": "and",
+                "start": 12.765
+            },
+            {
+                "end": 12.985,
+                "word": "the",
+                "start": 12.885
+            },
+            {
+                "end": 13.145,
+                "word": "hiring",
+                "start": 13.005
+            },
+            {
+                "end": 13.405,
+                "word": "initiatives",
+                "start": 13.165
+            },
+            {
+                "end": 13.525,
+                "word": "we",
+                "start": 13.425
+            },
+            {
+                "end": 13.725,
+                "word": "discussed",
+                "start": 13.545
+            },
+            {
+                "end": 13.845,
+                "word": "with",
+                "start": 13.745
+            },
+            {
+                "end": 14.025,
+                "word": "Lizzy.",
+                "start": 13.865
+            },
+            {
+                "end": 14.325,
+                "word": "The",
+                "start": 14.225
+            },
+            {
+                "end": 14.465,
+                "word": "team",
+                "start": 14.345
+            },
+            {
+                "end": 14.625,
+                "word": "dynamics",
+                "start": 14.485
+            },
+            {
+                "end": 14.745,
+                "word": "have",
+                "start": 14.645
+            },
+            {
+                "end": 14.865,
+                "word": "been",
+                "start": 14.765
+            },
+            {
+                "end": 15.045,
+                "word": "really",
+                "start": 14.885
+            },
+            {
+                "end": 15.245,
+                "word": "strong",
+                "start": 15.065
+            },
+            {
+                "end": 15.365,
+                "word": "and",
+                "start": 15.265
+            },
+            {
+                "end": 15.505,
+                "word": "I'm",
+                "start": 15.385
+            },
+            {
+                "end": 15.665,
+                "word": "excited",
+                "start": 15.525
+            },
+            {
+                "end": 15.805,
+                "word": "about",
+                "start": 15.685
+            },
+            {
+                "end": 15.925,
+                "word": "the",
+                "start": 15.825
+            },
+            {
+                "end": 16.165,
+                "word": "direction",
+                "start": 15.945
+            },
+            {
+                "end": 16.285,
+                "word": "we're",
+                "start": 16.185
+            },
+            {
+                "end": 16.485,
+                "word": "heading.",
+                "start": 16.305
+            }
+        ],
+        "offset": 8.145,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 17.245,
+                "word": "That's",
+                "start": 17.125
+            },
+            {
+                "end": 17.425,
+                "word": "wonderful",
+                "start": 17.265
+            },
+            {
+                "end": 17.525,
+                "word": "to",
+                "start": 17.445
+            },
+            {
+                "end": 17.645,
+                "word": "hear.",
+                "start": 17.545
+            },
+            {
+                "end": 17.945,
+                "word": "Let",
+                "start": 17.845
+            },
+            {
+                "end": 18.065,
+                "word": "me",
+                "start": 17.965
+            },
+            {
+                "end": 18.205,
+                "word": "share",
+                "start": 18.085
+            },
+            {
+                "end": 18.325,
+                "word": "some",
+                "start": 18.225
+            },
+            {
+                "end": 18.525,
+                "word": "specific",
+                "start": 18.345
+            },
+            {
+                "end": 18.705,
+                "word": "metrics",
+                "start": 18.545
+            },
+            {
+                "end": 18.825,
+                "word": "and",
+                "start": 18.725
+            },
+            {
+                "end": 19.005,
+                "word": "feedback",
+                "start": 18.845
+            },
+            {
+                "end": 19.125,
+                "word": "I've",
+                "start": 19.025
+            },
+            {
+                "end": 19.305,
+                "word": "gathered.",
+                "start": 19.145
+            },
+            {
+                "end": 19.625,
+                "word": "First,",
+                "start": 19.505
+            },
+            {
+                "end": 19.845,
+                "word": "your",
+                "start": 19.745
+            },
+            {
+                "end": 20.085,
+                "word": "attendance",
+                "start": 19.865
+            },
+            {
+                "end": 20.205,
+                "word": "has",
+                "start": 20.105
+            },
+            {
+                "end": 20.325,
+                "word": "been",
+                "start": 20.225
+            },
+            {
+                "end": 20.605,
+                "word": "excellent.",
+                "start": 20.345
+            },
+            {
+                "end": 20.905,
+                "word": "You",
+                "start": 20.805
+            },
+            {
+                "end": 21.025,
+                "word": "took",
+                "start": 20.925
+            },
+            {
+                "end": 21.165,
+                "word": "only",
+                "start": 21.045
+            },
+            {
+                "end": 21.285,
+                "word": "four",
+                "start": 21.185
+            },
+            {
+                "end": 21.425,
+                "word": "days",
+                "start": 21.305
+            },
+            {
+                "end": 21.525,
+                "word": "of",
+                "start": 21.445
+            },
+            {
+                "end": 21.665,
+                "word": "leave",
+                "start": 21.545
+            },
+            {
+                "end": 21.785,
+                "word": "this",
+                "start": 21.685
+            },
+            {
+                "end": 21.985,
+                "word": "quarter,",
+                "start": 21.805
+            },
+            {
+                "end": 22.225,
+                "word": "which",
+                "start": 22.105
+            },
+            {
+                "end": 22.325,
+                "word": "is",
+                "start": 22.245
+            },
+            {
+                "end": 22.485,
+                "word": "well",
+                "start": 22.345
+            },
+            {
+                "end": 22.645,
+                "word": "below",
+                "start": 22.505
+            },
+            {
+                "end": 22.765,
+                "word": "the",
+                "start": 22.665
+            },
+            {
+                "end": 22.945,
+                "word": "company",
+                "start": 22.785
+            },
+            {
+                "end": 23.145,
+                "word": "average",
+                "start": 22.965
+            },
+            {
+                "end": 23.245,
+                "word": "of",
+                "start": 23.165
+            },
+            {
+                "end": 23.405,
+                "word": "eight",
+                "start": 23.265
+            },
+            {
+                "end": 23.565,
+                "word": "days.",
+                "start": 23.425
+            },
+            {
+                "end": 23.885,
+                "word": "More",
+                "start": 23.765
+            },
+            {
+                "end": 24.165,
+                "word": "importantly,",
+                "start": 23.905
+            },
+            {
+                "end": 24.385,
+                "word": "your",
+                "start": 24.285
+            },
+            {
+                "end": 24.625,
+                "word": "performance",
+                "start": 24.405
+            },
+            {
+                "end": 24.785,
+                "word": "has",
+                "start": 24.645
+            },
+            {
+                "end": 24.965,
+                "word": "exceeded",
+                "start": 24.805
+            },
+            {
+                "end": 25.205,
+                "word": "expectations",
+                "start": 24.985
+            },
+            {
+                "end": 25.305,
+                "word": "by",
+                "start": 25.225
+            },
+            {
+                "end": 25.485,
+                "word": "eighteen",
+                "start": 25.325
+            },
+            {
+                "end": 25.685,
+                "word": "percent",
+                "start": 25.505
+            },
+            {
+                "end": 25.825,
+                "word": "based",
+                "start": 25.705
+            },
+            {
+                "end": 25.925,
+                "word": "on",
+                "start": 25.845
+            },
+            {
+                "end": 26.045,
+                "word": "your",
+                "start": 25.945
+            },
+            {
+                "end": 26.185,
+                "word": "key",
+                "start": 26.065
+            },
+            {
+                "end": 26.405,
+                "word": "performance",
+                "start": 26.205
+            },
+            {
+                "end": 26.645,
+                "word": "indicators.",
+                "start": 26.425
+            }
+        ],
+        "offset": 17.065,
+        "speaker": "Rachel"
+    },
+    {
+        "words": [
+            {
+                "end": 27.405,
+                "word": "Wow,",
+                "start": 27.285
+            },
+            {
+                "end": 27.625,
+                "word": "that's",
+                "start": 27.525
+            },
+            {
+                "end": 27.785,
+                "word": "really",
+                "start": 27.645
+            },
+            {
+                "end": 28.005,
+                "word": "encouraging",
+                "start": 27.805
+            },
+            {
+                "end": 28.105,
+                "word": "to",
+                "start": 28.025
+            },
+            {
+                "end": 28.225,
+                "word": "hear.",
+                "start": 28.125
+            },
+            {
+                "end": 28.525,
+                "word": "I",
+                "start": 28.425
+            },
+            {
+                "end": 28.665,
+                "word": "wasn't",
+                "start": 28.545
+            },
+            {
+                "end": 28.825,
+                "word": "entirely",
+                "start": 28.685
+            },
+            {
+                "end": 28.945,
+                "word": "sure",
+                "start": 28.845
+            },
+            {
+                "end": 29.065,
+                "word": "how",
+                "start": 28.965
+            },
+            {
+                "end": 29.165,
+                "word": "the",
+                "start": 29.085
+            },
+            {
+                "end": 29.365,
+                "word": "metrics",
+                "start": 29.185
+            },
+            {
+                "end": 29.485,
+                "word": "would",
+                "start": 29.385
+            },
+            {
+                "end": 29.605,
+                "word": "look,",
+                "start": 29.505
+            },
+            {
+                "end": 29.825,
+                "word": "but",
+                "start": 29.725
+            },
+            {
+                "end": 29.945,
+                "word": "I've",
+                "start": 29.845
+            },
+            {
+                "end": 30.065,
+                "word": "been",
+                "start": 29.965
+            },
+            {
+                "end": 30.225,
+                "word": "really",
+                "start": 30.085
+            },
+            {
+                "end": 30.385,
+                "word": "focused",
+                "start": 30.245
+            },
+            {
+                "end": 30.485,
+                "word": "on",
+                "start": 30.405
+            },
+            {
+                "end": 30.685,
+                "word": "delivering",
+                "start": 30.505
+            },
+            {
+                "end": 30.845,
+                "word": "quality",
+                "start": 30.705
+            },
+            {
+                "end": 30.985,
+                "word": "work",
+                "start": 30.865
+            },
+            {
+                "end": 31.085,
+                "word": "and",
+                "start": 31.005
+            },
+            {
+                "end": 31.265,
+                "word": "leading",
+                "start": 31.105
+            },
+            {
+                "end": 31.385,
+                "word": "the",
+                "start": 31.285
+            },
+            {
+                "end": 31.505,
+                "word": "team",
+                "start": 31.405
+            },
+            {
+                "end": 31.745,
+                "word": "effectively.",
+                "start": 31.525
+            },
+            {
+                "end": 32.045,
+                "word": "The",
+                "start": 31.945
+            },
+            {
+                "end": 32.185,
+                "word": "leave",
+                "start": 32.065
+            },
+            {
+                "end": 32.305,
+                "word": "count",
+                "start": 32.205
+            },
+            {
+                "end": 32.425,
+                "word": "makes",
+                "start": 32.325
+            },
+            {
+                "end": 32.565,
+                "word": "sense",
+                "start": 32.445
+            },
+            {
+                "end": 32.705,
+                "word": "because",
+                "start": 32.585
+            },
+            {
+                "end": 32.825,
+                "word": "I've",
+                "start": 32.725
+            },
+            {
+                "end": 32.945,
+                "word": "been",
+                "start": 32.845
+            },
+            {
+                "end": 33.105,
+                "word": "really",
+                "start": 32.965
+            },
+            {
+                "end": 33.285,
+                "word": "engaged",
+                "start": 33.125
+            },
+            {
+                "end": 33.405,
+                "word": "with",
+                "start": 33.305
+            },
+            {
+                "end": 33.525,
+                "word": "the",
+                "start": 33.425
+            },
+            {
+                "end": 33.705,
+                "word": "projects",
+                "start": 33.545
+            },
+            {
+                "end": 33.825,
+                "word": "we've",
+                "start": 33.725
+            },
+            {
+                "end": 33.945,
+                "word": "had",
+                "start": 33.845
+            },
+            {
+                "end": 34.105,
+                "word": "going",
+                "start": 33.965
+            },
+            {
+                "end": 34.225,
+                "word": "on.",
+                "start": 34.125
+            }
+        ],
+        "offset": 27.225,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 35.045,
+                "word": "Absolutely,",
+                "start": 34.865
+            },
+            {
+                "end": 35.265,
+                "word": "and",
+                "start": 35.165
+            },
+            {
+                "end": 35.385,
+                "word": "that",
+                "start": 35.285
+            },
+            {
+                "end": 35.585,
+                "word": "engagement",
+                "start": 35.405
+            },
+            {
+                "end": 35.705,
+                "word": "has",
+                "start": 35.605
+            },
+            {
+                "end": 35.845,
+                "word": "been",
+                "start": 35.725
+            },
+            {
+                "end": 36.025,
+                "word": "noticed",
+                "start": 35.865
+            },
+            {
+                "end": 36.125,
+                "word": "by",
+                "start": 36.045
+            },
+            {
+                "end": 36.245,
+                "word": "your",
+                "start": 36.145
+            },
+            {
+                "end": 36.445,
+                "word": "colleagues.",
+                "start": 36.265
+            },
+            {
+                "end": 36.745,
+                "word": "I",
+                "start": 36.645
+            },
+            {
+                "end": 36.885,
+                "word": "received",
+                "start": 36.765
+            },
+            {
+                "end": 37.045,
+                "word": "some",
+                "start": 36.905
+            },
+            {
+                "end": 37.245,
+                "word": "excellent",
+                "start": 37.065
+            },
+            {
+                "end": 37.405,
+                "word": "feedback",
+                "start": 37.265
+            },
+            {
+                "end": 37.525,
+                "word": "from",
+                "start": 37.425
+            },
+            {
+                "end": 37.645,
+                "word": "your",
+                "start": 37.545
+            },
+            {
+                "end": 37.825,
+                "word": "team.",
+                "start": 37.665
+            },
+            {
+                "end": 38.125,
+                "word": "Liam",
+                "start": 38.025
+            },
+            {
+                "end": 38.285,
+                "word": "specifically",
+                "start": 38.145
+            },
+            {
+                "end": 38.445,
+                "word": "mentioned",
+                "start": 38.305
+            },
+            {
+                "end": 38.545,
+                "word": "that",
+                "start": 38.465
+            },
+            {
+                "end": 38.665,
+                "word": "you",
+                "start": 38.565
+            },
+            {
+                "end": 38.785,
+                "word": "have",
+                "start": 38.685
+            },
+            {
+                "end": 38.885,
+                "word": "an",
+                "start": 38.805
+            },
+            {
+                "end": 39.105,
+                "word": "exceptional",
+                "start": 38.905
+            },
+            {
+                "end": 39.285,
+                "word": "ability",
+                "start": 39.125
+            },
+            {
+                "end": 39.385,
+                "word": "to",
+                "start": 39.305
+            },
+            {
+                "end": 39.545,
+                "word": "balance",
+                "start": 39.405
+            },
+            {
+                "end": 39.725,
+                "word": "technical",
+                "start": 39.565
+            },
+            {
+                "end": 39.905,
+                "word": "requirements",
+                "start": 39.745
+            },
+            {
+                "end": 40.025,
+                "word": "with",
+                "start": 39.925
+            },
+            {
+                "end": 40.185,
+                "word": "business",
+                "start": 40.045
+            },
+            {
+                "end": 40.405,
+                "word": "priorities.",
+                "start": 40.205
+            },
+            {
+                "end": 40.705,
+                "word": "He",
+                "start": 40.605
+            },
+            {
+                "end": 40.825,
+                "word": "said,",
+                "start": 40.725
+            },
+            {
+                "end": 41.045,
+                "word": "quote,",
+                "start": 40.945
+            },
+            {
+                "end": 41.325,
+                "word": "Gowreesh",
+                "start": 41.165
+            },
+            {
+                "end": 41.445,
+                "word": "has",
+                "start": 41.345
+            },
+            {
+                "end": 41.525,
+                "word": "a",
+                "start": 41.465
+            },
+            {
+                "end": 41.685,
+                "word": "unique",
+                "start": 41.545
+            },
+            {
+                "end": 41.825,
+                "word": "talent",
+                "start": 41.705
+            },
+            {
+                "end": 41.925,
+                "word": "for",
+                "start": 41.845
+            },
+            {
+                "end": 42.085,
+                "word": "making",
+                "start": 41.945
+            },
+            {
+                "end": 42.245,
+                "word": "complex",
+                "start": 42.105
+            },
+            {
+                "end": 42.425,
+                "word": "technical",
+                "start": 42.265
+            },
+            {
+                "end": 42.605,
+                "word": "decisions",
+                "start": 42.445
+            },
+            {
+                "end": 42.745,
+                "word": "feel",
+                "start": 42.625
+            },
+            {
+                "end": 43.005,
+                "word": "straightforward",
+                "start": 42.765
+            },
+            {
+                "end": 43.125,
+                "word": "and",
+                "start": 43.025
+            },
+            {
+                "end": 43.325,
+                "word": "strategic",
+                "start": 43.145
+            },
+            {
+                "end": 43.485,
+                "word": "rather",
+                "start": 43.345
+            },
+            {
+                "end": 43.605,
+                "word": "than",
+                "start": 43.505
+            },
+            {
+                "end": 43.905,
+                "word": "overwhelming,",
+                "start": 43.625
+            },
+            {
+                "end": 44.165,
+                "word": "unquote.",
+                "start": 44.025
+            }
+        ],
+        "offset": 34.805,
+        "speaker": "Rachel"
+    },
+    {
+        "words": [
+            {
+                "end": 44.925,
+                "word": "That's",
+                "start": 44.805
+            },
+            {
+                "end": 45.085,
+                "word": "really",
+                "start": 44.945
+            },
+            {
+                "end": 45.245,
+                "word": "kind",
+                "start": 45.105
+            },
+            {
+                "end": 45.345,
+                "word": "of",
+                "start": 45.265
+            },
+            {
+                "end": 45.465,
+                "word": "Liam",
+                "start": 45.365
+            },
+            {
+                "end": 45.565,
+                "word": "to",
+                "start": 45.485
+            },
+            {
+                "end": 45.685,
+                "word": "say.",
+                "start": 45.585
+            },
+            {
+                "end": 45.985,
+                "word": "We've",
+                "start": 45.885
+            },
+            {
+                "end": 46.105,
+                "word": "been",
+                "start": 46.005
+            },
+            {
+                "end": 46.265,
+                "word": "working",
+                "start": 46.125
+            },
+            {
+                "end": 46.405,
+                "word": "really",
+                "start": 46.285
+            },
+            {
+                "end": 46.545,
+                "word": "closely",
+                "start": 46.425
+            },
+            {
+                "end": 46.665,
+                "word": "on",
+                "start": 46.565
+            },
+            {
+                "end": 46.785,
+                "word": "the",
+                "start": 46.685
+            },
+            {
+                "end": 46.945,
+                "word": "product",
+                "start": 46.805
+            },
+            {
+                "end": 47.125,
+                "word": "roadmap",
+                "start": 46.965
+            },
+            {
+                "end": 47.285,
+                "word": "initiatives",
+                "start": 47.145
+            },
+            {
+                "end": 47.405,
+                "word": "and",
+                "start": 47.305
+            },
+            {
+                "end": 47.505,
+                "word": "I",
+                "start": 47.425
+            },
+            {
+                "end": 47.645,
+                "word": "really",
+                "start": 47.525
+            },
+            {
+                "end": 47.785,
+                "word": "value",
+                "start": 47.665
+            },
+            {
+                "end": 47.885,
+                "word": "his",
+                "start": 47.805
+            },
+            {
+                "end": 48.065,
+                "word": "technical",
+                "start": 47.905
+            },
+            {
+                "end": 48.225,
+                "word": "expertise",
+                "start": 48.085
+            },
+            {
+                "end": 48.345,
+                "word": "and",
+                "start": 48.245
+            },
+            {
+                "end": 48.505,
+                "word": "insights.",
+                "start": 48.365
+            },
+            {
+                "end": 48.805,
+                "word": "It's",
+                "start": 48.705
+            },
+            {
+                "end": 48.925,
+                "word": "been",
+                "start": 48.825
+            },
+            {
+                "end": 48.985,
+                "word": "a",
+                "start": 48.945
+            },
+            {
+                "end": 49.145,
+                "word": "really",
+                "start": 49.005
+            },
+            {
+                "end": 49.345,
+                "word": "collaborative",
+                "start": 49.165
+            },
+            {
+                "end": 49.565,
+                "word": "relationship",
+                "start": 49.365
+            },
+            {
+                "end": 49.685,
+                "word": "and",
+                "start": 49.585
+            },
+            {
+                "end": 49.805,
+                "word": "I",
+                "start": 49.705
+            },
+            {
+                "end": 49.925,
+                "word": "think",
+                "start": 49.825
+            },
+            {
+                "end": 50.045,
+                "word": "we",
+                "start": 49.945
+            },
+            {
+                "end": 50.165,
+                "word": "both",
+                "start": 50.065
+            },
+            {
+                "end": 50.305,
+                "word": "bring",
+                "start": 50.185
+            },
+            {
+                "end": 50.445,
+                "word": "different",
+                "start": 50.325
+            },
+            {
+                "end": 50.605,
+                "word": "strengths",
+                "start": 50.465
+            },
+            {
+                "end": 50.705,
+                "word": "to",
+                "start": 50.625
+            },
+            {
+                "end": 50.825,
+                "word": "the",
+                "start": 50.725
+            },
+            {
+                "end": 50.985,
+                "word": "table.",
+                "start": 50.845
+            }
+        ],
+        "offset": 44.745,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 51.745,
+                "word": "That's",
+                "start": 51.625
+            },
+            {
+                "end": 51.925,
+                "word": "exactly",
+                "start": 51.765
+            },
+            {
+                "end": 52.045,
+                "word": "the",
+                "start": 51.945
+            },
+            {
+                "end": 52.165,
+                "word": "kind",
+                "start": 52.065
+            },
+            {
+                "end": 52.265,
+                "word": "of",
+                "start": 52.185
+            },
+            {
+                "end": 52.485,
+                "word": "leadership",
+                "start": 52.285
+            },
+            {
+                "end": 52.625,
+                "word": "we're",
+                "start": 52.505
+            },
+            {
+                "end": 52.765,
+                "word": "looking",
+                "start": 52.645
+            },
+            {
+                "end": 52.885,
+                "word": "for.",
+                "start": 52.785
+            },
+            {
+                "end": 53.185,
+                "word": "Lizzy",
+                "start": 53.085
+            },
+            {
+                "end": 53.305,
+                "word": "also",
+                "start": 53.205
+            },
+            {
+                "end": 53.425,
+                "word": "had",
+                "start": 53.325
+            },
+            {
+                "end": 53.585,
+                "word": "glowing",
+                "start": 53.445
+            },
+            {
+                "end": 53.745,
+                "word": "things",
+                "start": 53.605
+            },
+            {
+                "end": 53.845,
+                "word": "to",
+                "start": 53.765
+            },
+            {
+                "end": 53.965,
+                "word": "say",
+                "start": 53.865
+            },
+            {
+                "end": 54.105,
+                "word": "about",
+                "start": 53.985
+            },
+            {
+                "end": 54.225,
+                "word": "your",
+                "start": 54.125
+            },
+            {
+                "end": 54.405,
+                "word": "strategic",
+                "start": 54.245
+            },
+            {
+                "end": 54.565,
+                "word": "thinking",
+                "start": 54.425
+            },
+            {
+                "end": 54.705,
+                "word": "during",
+                "start": 54.585
+            },
+            {
+                "end": 54.825,
+                "word": "the",
+                "start": 54.725
+            },
+            {
+                "end": 54.985,
+                "word": "hiring",
+                "start": 54.845
+            },
+            {
+                "end": 55.205,
+                "word": "discussions.",
+                "start": 55.005
+            },
+            {
+                "end": 55.505,
+                "word": "She",
+                "start": 55.405
+            },
+            {
+                "end": 55.685,
+                "word": "mentioned",
+                "start": 55.525
+            },
+            {
+                "end": 55.805,
+                "word": "that",
+                "start": 55.705
+            },
+            {
+                "end": 55.925,
+                "word": "you",
+                "start": 55.825
+            },
+            {
+                "end": 56.045,
+                "word": "have",
+                "start": 55.945
+            },
+            {
+                "end": 56.125,
+                "word": "a",
+                "start": 56.065
+            },
+            {
+                "end": 56.285,
+                "word": "great",
+                "start": 56.145
+            },
+            {
+                "end": 56.425,
+                "word": "ability",
+                "start": 56.305
+            },
+            {
+                "end": 56.525,
+                "word": "to",
+                "start": 56.445
+            },
+            {
+                "end": 56.645,
+                "word": "see",
+                "start": 56.545
+            },
+            {
+                "end": 56.765,
+                "word": "the",
+                "start": 56.665
+            },
+            {
+                "end": 56.885,
+                "word": "big",
+                "start": 56.785
+            },
+            {
+                "end": 57.045,
+                "word": "picture",
+                "start": 56.905
+            },
+            {
+                "end": 57.165,
+                "word": "while",
+                "start": 57.065
+            },
+            {
+                "end": 57.325,
+                "word": "managing",
+                "start": 57.185
+            },
+            {
+                "end": 57.505,
+                "word": "practical",
+                "start": 57.345
+            },
+            {
+                "end": 57.705,
+                "word": "constraints",
+                "start": 57.525
+            },
+            {
+                "end": 57.825,
+                "word": "like",
+                "start": 57.725
+            },
+            {
+                "end": 57.985,
+                "word": "budget",
+                "start": 57.845
+            },
+            {
+                "end": 58.105,
+                "word": "and",
+                "start": 58.005
+            },
+            {
+                "end": 58.285,
+                "word": "timeline.",
+                "start": 58.125
+            },
+            {
+                "end": 58.585,
+                "word": "She",
+                "start": 58.485
+            },
+            {
+                "end": 58.705,
+                "word": "said",
+                "start": 58.605
+            },
+            {
+                "end": 58.845,
+                "word": "working",
+                "start": 58.725
+            },
+            {
+                "end": 58.965,
+                "word": "with",
+                "start": 58.865
+            },
+            {
+                "end": 59.085,
+                "word": "you",
+                "start": 58.985
+            },
+            {
+                "end": 59.185,
+                "word": "on",
+                "start": 59.105
+            },
+            {
+                "end": 59.305,
+                "word": "the",
+                "start": 59.205
+            },
+            {
+                "end": 59.465,
+                "word": "hiring",
+                "start": 59.325
+            },
+            {
+                "end": 59.625,
+                "word": "strategy",
+                "start": 59.485
+            },
+            {
+                "end": 59.745,
+                "word": "was",
+                "start": 59.645
+            },
+            {
+                "end": 59.905,
+                "word": "one",
+                "start": 59.765
+            },
+            {
+                "end": 60.005,
+                "word": "of",
+                "start": 59.925
+            },
+            {
+                "end": 60.125,
+                "word": "the",
+                "start": 60.025
+            },
+            {
+                "end": 60.245,
+                "word": "most",
+                "start": 60.145
+            },
+            {
+                "end": 60.425,
+                "word": "productive",
+                "start": 60.265
+            },
+            {
+                "end": 60.605,
+                "word": "planning",
+                "start": 60.445
+            },
+            {
+                "end": 60.785,
+                "word": "sessions",
+                "start": 60.625
+            },
+            {
+                "end": 60.905,
+                "word": "she's",
+                "start": 60.805
+            },
+            {
+                "end": 61.005,
+                "word": "had",
+                "start": 60.925
+            },
+            {
+                "end": 61.105,
+                "word": "in",
+                "start": 61.025
+            },
+            {
+                "end": 61.185,
+                "word": "a",
+                "start": 61.125
+            },
+            {
+                "end": 61.305,
+                "word": "long",
+                "start": 61.205
+            },
+            {
+                "end": 61.465,
+                "word": "time.",
+                "start": 61.325
+            }
+        ],
+        "offset": 51.565,
+        "speaker": "Rachel"
+    },
+    {
+        "words": [
+            {
+                "end": 62.225,
+                "word": "That's",
+                "start": 62.105
+            },
+            {
+                "end": 62.425,
+                "word": "incredibly",
+                "start": 62.245
+            },
+            {
+                "end": 62.605,
+                "word": "meaningful",
+                "start": 62.445
+            },
+            {
+                "end": 62.705,
+                "word": "to",
+                "start": 62.625
+            },
+            {
+                "end": 62.825,
+                "word": "hear",
+                "start": 62.725
+            },
+            {
+                "end": 62.985,
+                "word": "from",
+                "start": 62.845
+            },
+            {
+                "end": 63.145,
+                "word": "Lizzy.",
+                "start": 63.005
+            },
+            {
+                "end": 63.445,
+                "word": "She's",
+                "start": 63.345
+            },
+            {
+                "end": 63.545,
+                "word": "so",
+                "start": 63.465
+            },
+            {
+                "end": 63.725,
+                "word": "detail-oriented",
+                "start": 63.565
+            },
+            {
+                "end": 63.845,
+                "word": "and",
+                "start": 63.745
+            },
+            {
+                "end": 64.005,
+                "word": "thorough",
+                "start": 63.865
+            },
+            {
+                "end": 64.105,
+                "word": "in",
+                "start": 64.025
+            },
+            {
+                "end": 64.225,
+                "word": "her",
+                "start": 64.125
+            },
+            {
+                "end": 64.405,
+                "word": "approach,",
+                "start": 64.245
+            },
+            {
+                "end": 64.625,
+                "word": "so",
+                "start": 64.525
+            },
+            {
+                "end": 64.745,
+                "word": "having",
+                "start": 64.645
+            },
+            {
+                "end": 64.845,
+                "word": "her",
+                "start": 64.765
+            },
+            {
+                "end": 65.005,
+                "word": "positive",
+                "start": 64.865
+            },
+            {
+                "end": 65.165,
+                "word": "feedback",
+                "start": 65.025
+            },
+            {
+                "end": 65.285,
+                "word": "really",
+                "start": 65.185
+            },
+            {
+                "end": 65.445,
+                "word": "means",
+                "start": 65.305
+            },
+            {
+                "end": 65.525,
+                "word": "a",
+                "start": 65.465
+            },
+            {
+                "end": 65.645,
+                "word": "lot.",
+                "start": 65.545
+            },
+            {
+                "end": 65.945,
+                "word": "I",
+                "start": 65.845
+            },
+            {
+                "end": 66.085,
+                "word": "think",
+                "start": 65.965
+            },
+            {
+                "end": 66.205,
+                "word": "we",
+                "start": 66.105
+            },
+            {
+                "end": 66.345,
+                "word": "work",
+                "start": 66.225
+            },
+            {
+                "end": 66.505,
+                "word": "really",
+                "start": 66.365
+            },
+            {
+                "end": 66.625,
+                "word": "well",
+                "start": 66.525
+            },
+            {
+                "end": 66.785,
+                "word": "together",
+                "start": 66.645
+            },
+            {
+                "end": 66.925,
+                "word": "because",
+                "start": 66.805
+            },
+            {
+                "end": 67.045,
+                "word": "she",
+                "start": 66.945
+            },
+            {
+                "end": 67.185,
+                "word": "brings",
+                "start": 67.065
+            },
+            {
+                "end": 67.305,
+                "word": "that",
+                "start": 67.205
+            },
+            {
+                "end": 67.485,
+                "word": "analytical",
+                "start": 67.325
+            },
+            {
+                "end": 67.645,
+                "word": "rigor",
+                "start": 67.505
+            },
+            {
+                "end": 67.765,
+                "word": "and",
+                "start": 67.665
+            },
+            {
+                "end": 67.885,
+                "word": "I",
+                "start": 67.785
+            },
+            {
+                "end": 68.005,
+                "word": "try",
+                "start": 67.905
+            },
+            {
+                "end": 68.105,
+                "word": "to",
+                "start": 68.025
+            },
+            {
+                "end": 68.225,
+                "word": "bring",
+                "start": 68.125
+            },
+            {
+                "end": 68.345,
+                "word": "the",
+                "start": 68.245
+            },
+            {
+                "end": 68.525,
+                "word": "strategic",
+                "start": 68.365
+            },
+            {
+                "end": 68.725,
+                "word": "perspective.",
+                "start": 68.545
+            }
+        ],
+        "offset": 62.045,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 69.485,
+                "word": "Now,",
+                "start": 69.365
+            },
+            {
+                "end": 69.705,
+                "word": "let's",
+                "start": 69.605
+            },
+            {
+                "end": 69.845,
+                "word": "talk",
+                "start": 69.725
+            },
+            {
+                "end": 69.985,
+                "word": "about",
+                "start": 69.865
+            },
+            {
+                "end": 70.105,
+                "word": "some",
+                "start": 70.005
+            },
+            {
+                "end": 70.265,
+                "word": "areas",
+                "start": 70.125
+            },
+            {
+                "end": 70.385,
+                "word": "for",
+                "start": 70.285
+            },
+            {
+                "end": 70.565,
+                "word": "growth",
+                "start": 70.405
+            },
+            {
+                "end": 70.685,
+                "word": "and",
+                "start": 70.585
+            },
+            {
+                "end": 70.825,
+                "word": "your",
+                "start": 70.705
+            },
+            {
+                "end": 70.985,
+                "word": "goals",
+                "start": 70.845
+            },
+            {
+                "end": 71.085,
+                "word": "for",
+                "start": 71.005
+            },
+            {
+                "end": 71.205,
+                "word": "the",
+                "start": 71.105
+            },
+            {
+                "end": 71.325,
+                "word": "next",
+                "start": 71.225
+            },
+            {
+                "end": 71.525,
+                "word": "quarter.",
+                "start": 71.345
+            },
+            {
+                "end": 71.825,
+                "word": "Based",
+                "start": 71.725
+            },
+            {
+                "end": 71.925,
+                "word": "on",
+                "start": 71.845
+            },
+            {
+                "end": 72.045,
+                "word": "your",
+                "start": 71.945
+            },
+            {
+                "end": 72.245,
+                "word": "exceptional",
+                "start": 72.065
+            },
+            {
+                "end": 72.465,
+                "word": "performance",
+                "start": 72.265
+            },
+            {
+                "end": 72.585,
+                "word": "this",
+                "start": 72.485
+            },
+            {
+                "end": 72.785,
+                "word": "quarter,",
+                "start": 72.605
+            },
+            {
+                "end": 73.005,
+                "word": "we're",
+                "start": 72.905
+            },
+            {
+                "end": 73.185,
+                "word": "looking",
+                "start": 73.025
+            },
+            {
+                "end": 73.285,
+                "word": "at",
+                "start": 73.205
+            },
+            {
+                "end": 73.385,
+                "word": "a",
+                "start": 73.305
+            },
+            {
+                "end": 73.545,
+                "word": "salary",
+                "start": 73.405
+            },
+            {
+                "end": 73.725,
+                "word": "increase",
+                "start": 73.565
+            },
+            {
+                "end": 73.825,
+                "word": "of",
+                "start": 73.745
+            },
+            {
+                "end": 74.005,
+                "word": "twelve",
+                "start": 73.845
+            },
+            {
+                "end": 74.185,
+                "word": "percent,",
+                "start": 74.025
+            },
+            {
+                "end": 74.425,
+                "word": "effective",
+                "start": 74.305
+            },
+            {
+                "end": 74.525,
+                "word": "at",
+                "start": 74.445
+            },
+            {
+                "end": 74.645,
+                "word": "the",
+                "start": 74.545
+            },
+            {
+                "end": 74.765,
+                "word": "start",
+                "start": 74.665
+            },
+            {
+                "end": 74.865,
+                "word": "of",
+                "start": 74.785
+            },
+            {
+                "end": 74.985,
+                "word": "next",
+                "start": 74.885
+            },
+            {
+                "end": 75.165,
+                "word": "quarter.",
+                "start": 75.005
+            },
+            {
+                "end": 75.465,
+                "word": "We're",
+                "start": 75.365
+            },
+            {
+                "end": 75.585,
+                "word": "also",
+                "start": 75.485
+            },
+            {
+                "end": 75.785,
+                "word": "considering",
+                "start": 75.605
+            },
+            {
+                "end": 75.845,
+                "word": "a",
+                "start": 75.805
+            },
+            {
+                "end": 76.005,
+                "word": "formal",
+                "start": 75.865
+            },
+            {
+                "end": 76.165,
+                "word": "promotion",
+                "start": 76.025
+            },
+            {
+                "end": 76.265,
+                "word": "to",
+                "start": 76.185
+            },
+            {
+                "end": 76.445,
+                "word": "Senior",
+                "start": 76.285
+            },
+            {
+                "end": 76.605,
+                "word": "Product",
+                "start": 76.465
+            },
+            {
+                "end": 76.785,
+                "word": "Manager",
+                "start": 76.625
+            },
+            {
+                "end": 76.885,
+                "word": "if",
+                "start": 76.805
+            },
+            {
+                "end": 77.005,
+                "word": "you",
+                "start": 76.905
+            },
+            {
+                "end": 77.165,
+                "word": "continue",
+                "start": 77.025
+            },
+            {
+                "end": 77.285,
+                "word": "on",
+                "start": 77.185
+            },
+            {
+                "end": 77.405,
+                "word": "this",
+                "start": 77.305
+            },
+            {
+                "end": 77.625,
+                "word": "trajectory.",
+                "start": 77.425
+            }
+        ],
+        "offset": 69.305,
+        "speaker": "Rachel"
+    },
+    {
+        "words": [
+            {
+                "end": 78.385,
+                "word": "Wow,",
+                "start": 78.265
+            },
+            {
+                "end": 78.625,
+                "word": "that's",
+                "start": 78.505
+            },
+            {
+                "end": 78.825,
+                "word": "fantastic",
+                "start": 78.645
+            },
+            {
+                "end": 78.965,
+                "word": "news,",
+                "start": 78.845
+            },
+            {
+                "end": 79.205,
+                "word": "Rachel.",
+                "start": 79.085
+            },
+            {
+                "end": 79.505,
+                "word": "I",
+                "start": 79.405
+            },
+            {
+                "end": 79.645,
+                "word": "really",
+                "start": 79.525
+            },
+            {
+                "end": 79.805,
+                "word": "appreciate",
+                "start": 79.665
+            },
+            {
+                "end": 79.925,
+                "word": "the",
+                "start": 79.825
+            },
+            {
+                "end": 80.125,
+                "word": "recognition",
+                "start": 79.945
+            },
+            {
+                "end": 80.245,
+                "word": "and",
+                "start": 80.145
+            },
+            {
+                "end": 80.325,
+                "word": "the",
+                "start": 80.265
+            },
+            {
+                "end": 80.525,
+                "word": "confidence",
+                "start": 80.345
+            },
+            {
+                "end": 80.645,
+                "word": "you're",
+                "start": 80.545
+            },
+            {
+                "end": 80.785,
+                "word": "showing",
+                "start": 80.665
+            },
+            {
+                "end": 80.885,
+                "word": "in",
+                "start": 80.805
+            },
+            {
+                "end": 80.985,
+                "word": "my",
+                "start": 80.905
+            },
+            {
+                "end": 81.185,
+                "word": "abilities.",
+                "start": 81.005
+            },
+            {
+                "end": 81.485,
+                "word": "The",
+                "start": 81.385
+            },
+            {
+                "end": 81.625,
+                "word": "Senior",
+                "start": 81.505
+            },
+            {
+                "end": 81.785,
+                "word": "Product",
+                "start": 81.645
+            },
+            {
+                "end": 81.945,
+                "word": "Manager",
+                "start": 81.805
+            },
+            {
+                "end": 82.085,
+                "word": "role",
+                "start": 81.965
+            },
+            {
+                "end": 82.205,
+                "word": "sounds",
+                "start": 82.105
+            },
+            {
+                "end": 82.365,
+                "word": "like",
+                "start": 82.225
+            },
+            {
+                "end": 82.445,
+                "word": "a",
+                "start": 82.385
+            },
+            {
+                "end": 82.565,
+                "word": "great",
+                "start": 82.465
+            },
+            {
+                "end": 82.705,
+                "word": "next",
+                "start": 82.585
+            },
+            {
+                "end": 82.825,
+                "word": "step",
+                "start": 82.725
+            },
+            {
+                "end": 82.945,
+                "word": "and",
+                "start": 82.845
+            },
+            {
+                "end": 83.045,
+                "word": "I'm",
+                "start": 82.965
+            },
+            {
+                "end": 83.205,
+                "word": "excited",
+                "start": 83.065
+            },
+            {
+                "end": 83.325,
+                "word": "about",
+                "start": 83.225
+            },
+            {
+                "end": 83.445,
+                "word": "the",
+                "start": 83.345
+            },
+            {
+                "end": 83.665,
+                "word": "opportunity",
+                "start": 83.465
+            },
+            {
+                "end": 83.765,
+                "word": "to",
+                "start": 83.685
+            },
+            {
+                "end": 83.885,
+                "word": "take",
+                "start": 83.785
+            },
+            {
+                "end": 84.005,
+                "word": "on",
+                "start": 83.905
+            },
+            {
+                "end": 84.125,
+                "word": "more",
+                "start": 84.025
+            },
+            {
+                "end": 84.365,
+                "word": "responsibility",
+                "start": 84.145
+            },
+            {
+                "end": 84.485,
+                "word": "and",
+                "start": 84.385
+            },
+            {
+                "end": 84.645,
+                "word": "continue",
+                "start": 84.505
+            },
+            {
+                "end": 84.825,
+                "word": "growing",
+                "start": 84.665
+            },
+            {
+                "end": 84.925,
+                "word": "my",
+                "start": 84.845
+            },
+            {
+                "end": 85.125,
+                "word": "impact",
+                "start": 84.945
+            },
+            {
+                "end": 85.205,
+                "word": "on",
+                "start": 85.145
+            },
+            {
+                "end": 85.325,
+                "word": "the",
+                "start": 85.225
+            },
+            {
+                "end": 85.485,
+                "word": "team.",
+                "start": 85.345
+            }
+        ],
+        "offset": 78.205,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 86.285,
+                "word": "Excellent.",
+                "start": 86.125
+            },
+            {
+                "end": 86.585,
+                "word": "Now,",
+                "start": 86.485
+            },
+            {
+                "end": 86.805,
+                "word": "before",
+                "start": 86.705
+            },
+            {
+                "end": 86.925,
+                "word": "we",
+                "start": 86.825
+            },
+            {
+                "end": 87.065,
+                "word": "wrap",
+                "start": 86.945
+            },
+            {
+                "end": 87.185,
+                "word": "up",
+                "start": 87.085
+            },
+            {
+                "end": 87.285,
+                "word": "the",
+                "start": 87.205
+            },
+            {
+                "end": 87.445,
+                "word": "formal",
+                "start": 87.305
+            },
+            {
+                "end": 87.605,
+                "word": "review",
+                "start": 87.465
+            },
+            {
+                "end": 87.765,
+                "word": "portion,",
+                "start": 87.625
+            },
+            {
+                "end": 87.985,
+                "word": "I",
+                "start": 87.885
+            },
+            {
+                "end": 88.105,
+                "word": "have",
+                "start": 88.005
+            },
+            {
+                "end": 88.205,
+                "word": "to",
+                "start": 88.125
+            },
+            {
+                "end": 88.325,
+                "word": "ask",
+                "start": 88.225
+            },
+            {
+                "end": 88.465,
+                "word": "about",
+                "start": 88.345
+            },
+            {
+                "end": 88.585,
+                "word": "your",
+                "start": 88.485
+            },
+            {
+                "end": 88.705,
+                "word": "trip",
+                "start": 88.605
+            },
+            {
+                "end": 88.805,
+                "word": "to",
+                "start": 88.725
+            },
+            {
+                "end": 89.025,
+                "word": "Italy!",
+                "start": 88.825
+            },
+            {
+                "end": 89.325,
+                "word": "I",
+                "start": 89.225
+            },
+            {
+                "end": 89.445,
+                "word": "saw",
+                "start": 89.345
+            },
+            {
+                "end": 89.525,
+                "word": "on",
+                "start": 89.465
+            },
+            {
+                "end": 89.645,
+                "word": "your",
+                "start": 89.545
+            },
+            {
+                "end": 89.805,
+                "word": "time-off",
+                "start": 89.665
+            },
+            {
+                "end": 89.985,
+                "word": "request",
+                "start": 89.825
+            },
+            {
+                "end": 90.105,
+                "word": "that",
+                "start": 90.005
+            },
+            {
+                "end": 90.225,
+                "word": "you",
+                "start": 90.125
+            },
+            {
+                "end": 90.345,
+                "word": "went",
+                "start": 90.245
+            },
+            {
+                "end": 90.465,
+                "word": "there",
+                "start": 90.365
+            },
+            {
+                "end": 90.565,
+                "word": "for",
+                "start": 90.485
+            },
+            {
+                "end": 90.645,
+                "word": "a",
+                "start": 90.585
+            },
+            {
+                "end": 90.785,
+                "word": "week",
+                "start": 90.665
+            },
+            {
+                "end": 90.905,
+                "word": "last",
+                "start": 90.805
+            },
+            {
+                "end": 91.085,
+                "word": "month.",
+                "start": 90.925
+            },
+            {
+                "end": 91.385,
+                "word": "How",
+                "start": 91.285
+            },
+            {
+                "end": 91.485,
+                "word": "was",
+                "start": 91.405
+            },
+            {
+                "end": 91.565,
+                "word": "it?",
+                "start": 91.505
+            },
+            {
+                "end": 91.785,
+                "word": "Did",
+                "start": 91.685
+            },
+            {
+                "end": 91.905,
+                "word": "you",
+                "start": 91.805
+            },
+            {
+                "end": 92.025,
+                "word": "get",
+                "start": 91.925
+            },
+            {
+                "end": 92.105,
+                "word": "to",
+                "start": 92.045
+            },
+            {
+                "end": 92.225,
+                "word": "see",
+                "start": 92.125
+            },
+            {
+                "end": 92.405,
+                "word": "everything",
+                "start": 92.245
+            },
+            {
+                "end": 92.505,
+                "word": "you",
+                "start": 92.425
+            },
+            {
+                "end": 92.665,
+                "word": "wanted?",
+                "start": 92.525
+            }
+        ],
+        "offset": 86.065,
+        "speaker": "Rachel"
+    },
+    {
+        "words": [
+            {
+                "end": 93.385,
+                "word": "Oh",
+                "start": 93.305
+            },
+            {
+                "end": 93.505,
+                "word": "my",
+                "start": 93.405
+            },
+            {
+                "end": 93.665,
+                "word": "goodness,",
+                "start": 93.525
+            },
+            {
+                "end": 93.885,
+                "word": "Italy",
+                "start": 93.785
+            },
+            {
+                "end": 94.005,
+                "word": "was",
+                "start": 93.905
+            },
+            {
+                "end": 94.245,
+                "word": "absolutely",
+                "start": 94.025
+            },
+            {
+                "end": 94.485,
+                "word": "incredible!",
+                "start": 94.265
+            },
+            {
+                "end": 94.785,
+                "word": "Thank",
+                "start": 94.685
+            },
+            {
+                "end": 94.885,
+                "word": "you",
+                "start": 94.805
+            },
+            {
+                "end": 95.005,
+                "word": "for",
+                "start": 94.905
+            },
+            {
+                "end": 95.165,
+                "word": "asking.",
+                "start": 95.025
+            },
+            {
+                "end": 95.465,
+                "word": "We",
+                "start": 95.365
+            },
+            {
+                "end": 95.585,
+                "word": "spent",
+                "start": 95.485
+            },
+            {
+                "end": 95.705,
+                "word": "most",
+                "start": 95.605
+            },
+            {
+                "end": 95.805,
+                "word": "of",
+                "start": 95.725
+            },
+            {
+                "end": 95.925,
+                "word": "our",
+                "start": 95.825
+            },
+            {
+                "end": 96.045,
+                "word": "time",
+                "start": 95.945
+            },
+            {
+                "end": 96.145,
+                "word": "in",
+                "start": 96.065
+            },
+            {
+                "end": 96.285,
+                "word": "Rome",
+                "start": 96.165
+            },
+            {
+                "end": 96.405,
+                "word": "and",
+                "start": 96.305
+            },
+            {
+                "end": 96.585,
+                "word": "Florence,",
+                "start": 96.425
+            },
+            {
+                "end": 96.805,
+                "word": "and",
+                "start": 96.705
+            },
+            {
+                "end": 96.905,
+                "word": "the",
+                "start": 96.825
+            },
+            {
+                "end": 97.085,
+                "word": "history",
+                "start": 96.925
+            },
+            {
+                "end": 97.205,
+                "word": "and",
+                "start": 97.105
+            },
+            {
+                "end": 97.405,
+                "word": "architecture",
+                "start": 97.225
+            },
+            {
+                "end": 97.485,
+                "word": "were",
+                "start": 97.425
+            },
+            {
+                "end": 97.625,
+                "word": "just",
+                "start": 97.505
+            },
+            {
+                "end": 97.845,
+                "word": "mind-blowing.",
+                "start": 97.645
+            },
+            {
+                "end": 98.145,
+                "word": "The",
+                "start": 98.045
+            },
+            {
+                "end": 98.285,
+                "word": "Vatican",
+                "start": 98.165
+            },
+            {
+                "end": 98.425,
+                "word": "Museum",
+                "start": 98.305
+            },
+            {
+                "end": 98.525,
+                "word": "was",
+                "start": 98.445
+            },
+            {
+                "end": 98.685,
+                "word": "probably",
+                "start": 98.545
+            },
+            {
+                "end": 98.785,
+                "word": "the",
+                "start": 98.705
+            },
+            {
+                "end": 98.985,
+                "word": "highlight",
+                "start": 98.805
+            },
+            {
+                "end": 99.085,
+                "word": "for",
+                "start": 99.005
+            },
+            {
+                "end": 99.205,
+                "word": "me",
+                "start": 99.105
+            },
+            {
+                "end": 99.325,
+                "word": "–",
+                "start": 99.225
+            },
+            {
+                "end": 99.485,
+                "word": "seeing",
+                "start": 99.345
+            },
+            {
+                "end": 99.625,
+                "word": "the",
+                "start": 99.505
+            },
+            {
+                "end": 99.805,
+                "word": "Sistine",
+                "start": 99.645
+            },
+            {
+                "end": 99.965,
+                "word": "Chapel",
+                "start": 99.825
+            },
+            {
+                "end": 100.085,
+                "word": "in",
+                "start": 99.985
+            },
+            {
+                "end": 100.225,
+                "word": "person",
+                "start": 100.105
+            },
+            {
+                "end": 100.325,
+                "word": "was",
+                "start": 100.245
+            },
+            {
+                "end": 100.525,
+                "word": "surreal.",
+                "start": 100.345
+            },
+            {
+                "end": 100.825,
+                "word": "And",
+                "start": 100.725
+            },
+            {
+                "end": 100.925,
+                "word": "the",
+                "start": 100.845
+            },
+            {
+                "end": 101.045,
+                "word": "food",
+                "start": 100.945
+            },
+            {
+                "end": 101.125,
+                "word": "–",
+                "start": 101.065
+            },
+            {
+                "end": 101.225,
+                "word": "oh",
+                "start": 101.145
+            },
+            {
+                "end": 101.305,
+                "word": "my",
+                "start": 101.245
+            },
+            {
+                "end": 101.465,
+                "word": "goodness,",
+                "start": 101.325
+            },
+            {
+                "end": 101.685,
+                "word": "the",
+                "start": 101.585
+            },
+            {
+                "end": 101.825,
+                "word": "pasta",
+                "start": 101.705
+            },
+            {
+                "end": 101.925,
+                "word": "and",
+                "start": 101.845
+            },
+            {
+                "end": 102.045,
+                "word": "the",
+                "start": 101.945
+            },
+            {
+                "end": 102.185,
+                "word": "gelato",
+                "start": 102.065
+            },
+            {
+                "end": 102.285,
+                "word": "were",
+                "start": 102.205
+            },
+            {
+                "end": 102.405,
+                "word": "just",
+                "start": 102.305
+            },
+            {
+                "end": 102.605,
+                "word": "phenomenal.",
+                "start": 102.425
+            },
+            {
+                "end": 102.905,
+                "word": "It",
+                "start": 102.805
+            },
+            {
+                "end": 103.005,
+                "word": "was",
+                "start": 102.925
+            },
+            {
+                "end": 103.125,
+                "word": "exactly",
+                "start": 103.025
+            },
+            {
+                "end": 103.225,
+                "word": "the",
+                "start": 103.145
+            },
+            {
+                "end": 103.345,
+                "word": "kind",
+                "start": 103.245
+            },
+            {
+                "end": 103.425,
+                "word": "of",
+                "start": 103.365
+            },
+            {
+                "end": 103.565,
+                "word": "mental",
+                "start": 103.445
+            },
+            {
+                "end": 103.705,
+                "word": "break",
+                "start": 103.585
+            },
+            {
+                "end": 103.805,
+                "word": "I",
+                "start": 103.725
+            },
+            {
+                "end": 103.945,
+                "word": "needed",
+                "start": 103.825
+            },
+            {
+                "end": 104.085,
+                "word": "after",
+                "start": 103.965
+            },
+            {
+                "end": 104.205,
+                "word": "the",
+                "start": 104.105
+            },
+            {
+                "end": 104.365,
+                "word": "intense",
+                "start": 104.225
+            },
+            {
+                "end": 104.505,
+                "word": "quarter",
+                "start": 104.385
+            },
+            {
+                "end": 104.605,
+                "word": "we",
+                "start": 104.525
+            },
+            {
+                "end": 104.725,
+                "word": "had.",
+                "start": 104.625
+            }
+        ],
+        "offset": 93.245,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 105.485,
+                "word": "That",
+                "start": 105.365
+            },
+            {
+                "end": 105.625,
+                "word": "sounds",
+                "start": 105.505
+            },
+            {
+                "end": 105.845,
+                "word": "absolutely",
+                "start": 105.645
+            },
+            {
+                "end": 106.045,
+                "word": "wonderful",
+                "start": 105.865
+            },
+            {
+                "end": 106.145,
+                "word": "and",
+                "start": 106.065
+            },
+            {
+                "end": 106.285,
+                "word": "exactly",
+                "start": 106.165
+            },
+            {
+                "end": 106.405,
+                "word": "what",
+                "start": 106.305
+            },
+            {
+                "end": 106.505,
+                "word": "you",
+                "start": 106.425
+            },
+            {
+                "end": 106.645,
+                "word": "needed.",
+                "start": 106.525
+            },
+            {
+                "end": 106.945,
+                "word": "It's",
+                "start": 106.845
+            },
+            {
+                "end": 107.085,
+                "word": "clear",
+                "start": 106.965
+            },
+            {
+                "end": 107.205,
+                "word": "that",
+                "start": 107.105
+            },
+            {
+                "end": 107.285,
+                "word": "you",
+                "start": 107.225
+            },
+            {
+                "end": 107.405,
+                "word": "came",
+                "start": 107.305
+            },
+            {
+                "end": 107.525,
+                "word": "back",
+                "start": 107.425
+            },
+            {
+                "end": 107.685,
+                "word": "refreshed.",
+                "start": 107.545
+            }
+        ],
+        "offset": 105.305,
+        "speaker": "Rachel"
+    },
+    {
+        "words": [
+            {
+                "end": 108.485,
+                "word": "Absolutely!",
+                "start": 108.325
+            },
+            {
+                "end": 108.785,
+                "word": "I",
+                "start": 108.685
+            },
+            {
+                "end": 108.905,
+                "word": "feel",
+                "start": 108.805
+            },
+            {
+                "end": 109.025,
+                "word": "like",
+                "start": 108.925
+            },
+            {
+                "end": 109.145,
+                "word": "I",
+                "start": 109.045
+            },
+            {
+                "end": 109.285,
+                "word": "came",
+                "start": 109.165
+            },
+            {
+                "end": 109.405,
+                "word": "back",
+                "start": 109.305
+            },
+            {
+                "end": 109.565,
+                "word": "with",
+                "start": 109.425
+            },
+            {
+                "end": 109.685,
+                "word": "a",
+                "start": 109.585
+            },
+            {
+                "end": 109.825,
+                "word": "fresh",
+                "start": 109.705
+            },
+            {
+                "end": 110.025,
+                "word": "perspective",
+                "start": 109.845
+            },
+            {
+                "end": 110.145,
+                "word": "and",
+                "start": 110.045
+            },
+            {
+                "end": 110.245,
+                "word": "even",
+                "start": 110.165
+            },
+            {
+                "end": 110.365,
+                "word": "more",
+                "start": 110.265
+            },
+            {
+                "end": 110.525,
+                "word": "energy",
+                "start": 110.385
+            },
+            {
+                "end": 110.625,
+                "word": "to",
+                "start": 110.545
+            },
+            {
+                "end": 110.765,
+                "word": "tackle",
+                "start": 110.645
+            },
+            {
+                "end": 110.885,
+                "word": "the",
+                "start": 110.785
+            },
+            {
+                "end": 111.025,
+                "word": "upcoming",
+                "start": 110.905
+            },
+            {
+                "end": 111.205,
+                "word": "challenges.",
+                "start": 111.045
+            }
+        ],
+        "offset": 108.265,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 112.005,
+                "word": "Perfect.",
+                "start": 111.845
+            },
+            {
+                "end": 112.305,
+                "word": "Well,",
+                "start": 112.205
+            },
+            {
+                "end": 112.525,
+                "word": "let's",
+                "start": 112.425
+            },
+            {
+                "end": 112.665,
+                "word": "discuss",
+                "start": 112.545
+            },
+            {
+                "end": 112.785,
+                "word": "your",
+                "start": 112.685
+            },
+            {
+                "end": 112.945,
+                "word": "goals",
+                "start": 112.805
+            },
+            {
+                "end": 113.045,
+                "word": "for",
+                "start": 112.965
+            },
+            {
+                "end": 113.165,
+                "word": "the",
+                "start": 113.065
+            },
+            {
+                "end": 113.285,
+                "word": "next",
+                "start": 113.185
+            },
+            {
+                "end": 113.485,
+                "word": "quarter.",
+                "start": 113.305
+            },
+            {
+                "end": 113.785,
+                "word": "What",
+                "start": 113.685
+            },
+            {
+                "end": 113.905,
+                "word": "areas",
+                "start": 113.805
+            },
+            {
+                "end": 114.005,
+                "word": "are",
+                "start": 113.925
+            },
+            {
+                "end": 114.125,
+                "word": "you",
+                "start": 114.025
+            },
+            {
+                "end": 114.245,
+                "word": "most",
+                "start": 114.145
+            },
+            {
+                "end": 114.405,
+                "word": "excited",
+                "start": 114.265
+            },
+            {
+                "end": 114.525,
+                "word": "to",
+                "start": 114.425
+            },
+            {
+                "end": 114.645,
+                "word": "focus",
+                "start": 114.545
+            },
+            {
+                "end": 114.765,
+                "word": "on",
+                "start": 114.665
+            },
+            {
+                "end": 114.905,
+                "word": "or",
+                "start": 114.785
+            },
+            {
+                "end": 115.085,
+                "word": "develop",
+                "start": 114.925
+            },
+            {
+                "end": 115.245,
+                "word": "further?",
+                "start": 115.105
+            }
+        ],
+        "offset": 111.785,
+        "speaker": "Rachel"
+    },
+    {
+        "words": [
+            {
+                "end": 115.985,
+                "word": "Great",
+                "start": 115.885
+            },
+            {
+                "end": 116.165,
+                "word": "question.",
+                "start": 116.005
+            },
+            {
+                "end": 116.465,
+                "word": "I",
+                "start": 116.365
+            },
+            {
+                "end": 116.585,
+                "word": "think",
+                "start": 116.485
+            },
+            {
+                "end": 116.705,
+                "word": "the",
+                "start": 116.605
+            },
+            {
+                "end": 116.845,
+                "word": "Senior",
+                "start": 116.725
+            },
+            {
+                "end": 117.005,
+                "word": "Product",
+                "start": 116.865
+            },
+            {
+                "end": 117.165,
+                "word": "Manager",
+                "start": 117.025
+            },
+            {
+                "end": 117.285,
+                "word": "role",
+                "start": 117.185
+            },
+            {
+                "end": 117.405,
+                "word": "would",
+                "start": 117.305
+            },
+            {
+                "end": 117.525,
+                "word": "allow",
+                "start": 117.425
+            },
+            {
+                "end": 117.625,
+                "word": "me",
+                "start": 117.545
+            },
+            {
+                "end": 117.725,
+                "word": "to",
+                "start": 117.645
+            },
+            {
+                "end": 117.885,
+                "word": "focus",
+                "start": 117.745
+            },
+            {
+                "end": 117.985,
+                "word": "on",
+                "start": 117.905
+            },
+            {
+                "end": 118.145,
+                "word": "longer-term",
+                "start": 118.005
+            },
+            {
+                "end": 118.325,
+                "word": "strategic",
+                "start": 118.165
+            },
+            {
+                "end": 118.505,
+                "word": "planning.",
+                "start": 118.345
+            },
+            {
+                "end": 118.805,
+                "word": "I'd",
+                "start": 118.705
+            },
+            {
+                "end": 118.925,
+                "word": "love",
+                "start": 118.825
+            },
+            {
+                "end": 119.025,
+                "word": "to",
+                "start": 118.945
+            },
+            {
+                "end": 119.145,
+                "word": "work",
+                "start": 119.045
+            },
+            {
+                "end": 119.245,
+                "word": "more",
+                "start": 119.165
+            },
+            {
+                "end": 119.385,
+                "word": "closely",
+                "start": 119.265
+            },
+            {
+                "end": 119.485,
+                "word": "with",
+                "start": 119.405
+            },
+            {
+                "end": 119.605,
+                "word": "our",
+                "start": 119.505
+            },
+            {
+                "end": 119.765,
+                "word": "engineering",
+                "start": 119.625
+            },
+            {
+                "end": 119.885,
+                "word": "teams",
+                "start": 119.785
+            },
+            {
+                "end": 119.985,
+                "word": "on",
+                "start": 119.905
+            },
+            {
+                "end": 120.165,
+                "word": "innovation",
+                "start": 120.005
+            },
+            {
+                "end": 120.305,
+                "word": "projects",
+                "start": 120.185
+            },
+            {
+                "end": 120.425,
+                "word": "and",
+                "start": 120.325
+            },
+            {
+                "end": 120.585,
+                "word": "maybe",
+                "start": 120.445
+            },
+            {
+                "end": 120.745,
+                "word": "mentor",
+                "start": 120.605
+            },
+            {
+                "end": 120.885,
+                "word": "some",
+                "start": 120.765
+            },
+            {
+                "end": 121.005,
+                "word": "of",
+                "start": 120.905
+            },
+            {
+                "end": 121.125,
+                "word": "our",
+                "start": 121.025
+            },
+            {
+                "end": 121.285,
+                "word": "junior",
+                "start": 121.145
+            },
+            {
+                "end": 121.445,
+                "word": "product",
+                "start": 121.305
+            },
+            {
+                "end": 121.625,
+                "word": "managers.",
+                "start": 121.465
+            }
+        ],
+        "offset": 115.825,
+        "speaker": "Gowreesh Simhadri"
+    },
+    {
+        "words": [
+            {
+                "end": 122.405,
+                "word": "That",
+                "start": 122.265
+            },
+            {
+                "end": 122.565,
+                "word": "sounds",
+                "start": 122.425
+            },
+            {
+                "end": 122.745,
+                "word": "like",
+                "start": 122.585
+            },
+            {
+                "end": 122.825,
+                "word": "a",
+                "start": 122.765
+            },
+            {
+                "end": 122.985,
+                "word": "perfect",
+                "start": 122.845
+            },
+            {
+                "end": 123.105,
+                "word": "fit",
+                "start": 123.005
+            },
+            {
+                "end": 123.205,
+                "word": "for",
+                "start": 123.125
+            },
+            {
+                "end": 123.325,
+                "word": "your",
+                "start": 123.225
+            },
+            {
+                "end": 123.485,
+                "word": "skillset",
+                "start": 123.345
+            },
+            {
+                "end": 123.585,
+                "word": "and",
+                "start": 123.505
+            },
+            {
+                "end": 123.745,
+                "word": "growth",
+                "start": 123.605
+            },
+            {
+                "end": 123.925,
+                "word": "trajectory.",
+                "start": 123.765
+            },
+            {
+                "end": 124.225,
+                "word": "I",
+                "start": 124.125
+            },
+            {
+                "end": 124.365,
+                "word": "think",
+                "start": 124.245
+            },
+            {
+                "end": 124.485,
+                "word": "this",
+                "start": 124.385
+            },
+            {
+                "end": 124.585,
+                "word": "has",
+                "start": 124.505
+            },
+            {
+                "end": 124.705,
+                "word": "been",
+                "start": 124.605
+            },
+            {
+                "end": 124.805,
+                "word": "a",
+                "start": 124.725
+            },
+            {
+                "end": 124.985,
+                "word": "really",
+                "start": 124.825
+            },
+            {
+                "end": 125.165,
+                "word": "productive",
+                "start": 125.005
+            },
+            {
+                "end": 125.345,
+                "word": "conversation.",
+                "start": 125.185
+            },
+            {
+                "end": 125.685,
+                "word": "Thank",
+                "start": 125.545
+            },
+            {
+                "end": 125.785,
+                "word": "you",
+                "start": 125.705
+            },
+            {
+                "end": 125.885,
+                "word": "for",
+                "start": 125.805
+            },
+            {
+                "end": 126.005,
+                "word": "your",
+                "start": 125.905
+            },
+            {
+                "end": 126.145,
+                "word": "time",
+                "start": 126.025
+            },
+            {
+                "end": 126.265,
+                "word": "today,",
+                "start": 126.165
+            },
+            {
+                "end": 126.565,
+                "word": "Gowreesh.",
+                "start": 126.385
+            }
+        ],
+        "offset": 122.205,
+        "speaker": "Rachel"
+    },
+    {
+        "words": [
+            {
+                "end": 127.325,
+                "word": "Thank",
+                "start": 127.205
+            },
+            {
+                "end": 127.425,
+                "word": "you",
+                "start": 127.345
+            },
+            {
+                "end": 127.525,
+                "word": "so",
+                "start": 127.445
+            },
+            {
+                "end": 127.645,
+                "word": "much,",
+                "start": 127.545
+            },
+            {
+                "end": 127.885,
+                "word": "Rachel.",
+                "start": 127.765
+            },
+            {
+                "end": 128.185,
+                "word": "This",
+                "start": 128.085
+            },
+            {
+                "end": 128.285,
+                "word": "was",
+                "start": 128.205
+            },
+            {
+                "end": 128.445,
+                "word": "really",
+                "start": 128.305
+            },
+            {
+                "end": 128.625,
+                "word": "encouraging",
+                "start": 128.465
+            },
+            {
+                "end": 128.745,
+                "word": "and",
+                "start": 128.645
+            },
+            {
+                "end": 128.865,
+                "word": "I'm",
+                "start": 128.765
+            },
+            {
+                "end": 129.025,
+                "word": "excited",
+                "start": 128.885
+            },
+            {
+                "end": 129.125,
+                "word": "for",
+                "start": 129.045
+            },
+            {
+                "end": 129.245,
+                "word": "what's",
+                "start": 129.145
+            },
+            {
+                "end": 129.385,
+                "word": "ahead.",
+                "start": 129.265
+            },
+            {
+                "end": 129.685,
+                "word": "I",
+                "start": 129.585
+            },
+            {
+                "end": 129.805,
+                "word": "really",
+                "start": 129.705
+            },
+            {
+                "end": 129.965,
+                "word": "appreciate",
+                "start": 129.825
+            },
+            {
+                "end": 130.085,
+                "word": "the",
+                "start": 129.985
+            },
+            {
+                "end": 130.265,
+                "word": "recognition",
+                "start": 130.105
+            },
+            {
+                "end": 130.385,
+                "word": "and",
+                "start": 130.285
+            },
+            {
+                "end": 130.505,
+                "word": "the",
+                "start": 130.405
+            },
+            {
+                "end": 130.685,
+                "word": "opportunities",
+                "start": 130.525
+            },
+            {
+                "end": 130.785,
+                "word": "you're",
+                "start": 130.705
+            },
+            {
+                "end": 130.925,
+                "word": "presenting.",
+                "start": 130.805
+            }
+        ],
+        "offset": 127.145,
+        "speaker": "Gowreesh Simhadri"
+    }
+]
