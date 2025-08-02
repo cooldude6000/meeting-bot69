@@ -34,7 +34,7 @@ export function useIntegrations() {
         {
             platform: 'jira',
             name: 'Jira',
-            description: 'Create tickets for development tasks',
+            description: 'Create tickets for development tasks and more',
             connected: false,
             logo: '/jira.png'
         }, {
