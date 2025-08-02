@@ -60,22 +60,6 @@ export async function POST(request: NextRequest) {
                         transcriptText = webhookData.transcript
                     }
 
-                    await processTranscript(meeting.id, meeting.userId, transcriptText, meeting.title)
-
-                    await prisma.meeting.update({
-                        where: {
-                            id: meeting.id
-                        },
-                        data: {
-                            summary: processed.summary,
-                            actionItems: processed.actionItems,
-                            processed: true,
-                            processedAt: new Date(),
-                            ragProcessed: true,
-                            ragProcessedAt: new Date()
-                        }
-                    })
-
                     try {
                         await sendMeetingSummaryEmail({
                             userEmail: meeting.user.email,
@@ -99,6 +83,24 @@ export async function POST(request: NextRequest) {
                     } catch (emailError) {
                         console.error('failed to send the email:', emailError)
                     }
+
+                    await processTranscript(meeting.id, meeting.userId, transcriptText, meeting.title)
+
+                    await prisma.meeting.update({
+                        where: {
+                            id: meeting.id
+                        },
+                        data: {
+                            summary: processed.summary,
+                            actionItems: processed.actionItems,
+                            processed: true,
+                            processedAt: new Date(),
+                            ragProcessed: true,
+                            ragProcessedAt: new Date()
+                        }
+                    })
+
+
                 } catch (processingError) {
                     console.error('failed to process the transcript:', processingError)
 
