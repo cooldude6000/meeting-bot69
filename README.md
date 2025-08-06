@@ -1,6 +1,7 @@
 ![MeetingBot - AI Meeting NoteTaker](https://meetingbot3.s3.us-east-1.amazonaws.com/FULL+STACK.png)
 
-[Link to 30 hours long YouTube Tutorial](https://youtu.be/QwteG0kcWNU)
+[Link to 30 hours long YouTube Tutorial](https://www.youtube.com/watch?v=5meG9KB1w0g)
+PS: Youtube only allows videos of max duration of 12 hours. But since my video is 30 hours long, I uploaded it as 3 different parts. The link above is of the first part(2nd and 3rd parts of tutorial link in description of the above video)
 
 ## Upcoming Features
 
